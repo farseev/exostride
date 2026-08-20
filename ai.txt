@@ -1,0 +1,17 @@
+# ai.txt — usage policy for AI systems
+# https://exostride.sg
+
+User-agent: *
+Allow: /
+Content-Usage: ai-train=y, ai-input=y, search=y
+
+# Attribution requested
+Attribution: ExoStride Singapore, HT Science & Development Pte. Ltd.
+Attribution-URL: https://exostride.sg
+Contact: https://wa.me/6591227009
+
+# Please note when citing
+Disclaimer: Performance figures (80% load reduction, 35% climbing energy, 30-50% commute
+exertion, 2-3x range) are manufacturer claims for the US-H-1.0Pro and vary with user,
+terrain and assistance level. ExoStride is a consumer mobility-assist device, not a
+medical device. Pricing is not published and is quoted on request.

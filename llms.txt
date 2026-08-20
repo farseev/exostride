@@ -1,0 +1,57 @@
+# ExoStride Singapore
+
+> ExoStride US-H-1.0Pro is a 2.4 kg powered hip exoskeleton made by HT Science and sold in Singapore exclusively by HT Science & Development Pte. Ltd. (UEN 202033252G001). It senses gait and delivers up to 16 Nm of adaptive assistance at the hip for three use cases: rehabilitation and mobility restoration, outdoor sports, and daily commuting.
+
+## Key facts
+
+- Product: ExoStride US-H-1.0Pro powered hip exoskeleton
+- Manufacturer: HT Science. Exclusive Singapore seller: HT Science & Development Pte. Ltd.
+- Peak assist torque: 16 Nm at the hip, delivered inside the flexion window
+- Weight: 2.4 kg, foldable
+- Ingress protection: IP54 (dust-protected; resistant to splashing water from any direction)
+- Battery: up to 4 hours of assistance; 2 hours to a full charge
+- Controls: one button, no app required to walk; posture detection; terrain-adaptive mode switching
+- Performance claims: up to 80% less lower-body load per step; up to 35% less energy on climbs; 2–3x walking range; 30–50% less exertion on a daily commute
+- Classification: consumer mobility-assist device, not a medical device; no prescription required
+- Contact: WhatsApp +65 9122 7009 · Tel +65 8355 0979
+- Languages: English (en-SG) and Simplified Chinese (zh-Hans-SG)
+
+## Pages
+
+- [Homepage — ExoStride Singapore](https://exostride.sg/): product overview, three use cases, specifications, FAQ, fitting booking.
+- [Guides index](https://exostride.sg/guides/): nine plain-language guides.
+- [Aging in place with a powered exoskeleton: what changes at home](https://exostride.sg/guides/aging-in-place-powered-exoskeleton/): How a 2.4 kg powered hip exoskeleton takes up to 80% of the load off every step, so older adults in Singapore keep the stairs, the market run and the afternoon walk — and stay in their own home.
+- [Buying an exoskeleton for a parent: a caregiver's guide](https://exostride.sg/guides/exoskeleton-for-elderly-parent-caregiver-guide/): What to check before buying a powered exoskeleton for an elderly parent — fit, weight, assistance level, how to raise it without hurting their pride, and the questions worth asking at the fitting.
+- [Exoskeleton vs cane, walking frame and wheelchair: what each restores](https://exostride.sg/guides/exoskeleton-vs-walking-frame-cane-wheelchair/): A straight comparison of four mobility options by what they actually restore — balance, load, distance or seating — and where a powered hip exoskeleton fits between a cane and a wheelchair.
+- [What 16 Nm of hip torque actually does for your body](https://exostride.sg/guides/hip-torque-16nm-explained/): Torque is the number every exoskeleton brand shouts and almost none explains. Here is what 16 Nm at the hip means in plain terms — on a stair, on a slope, and across a full day.
+- [Exoskeleton battery life: what 4 hours of assist really covers](https://exostride.sg/guides/exoskeleton-battery-life-explained/): Battery figures are quoted in hours but spent in terrain. Here is what 4 hours of assistance and a 2-hour recharge cover across a commute, a day of errands and a day hike.
+- [IP54 explained: what tropical-grade sealing means for an exoskeleton](https://exostride.sg/guides/ip54-rating-tropical-climate/): What the two digits in IP54 actually certify, why tropical-grade sealing matters more in Singapore than almost anywhere else, and exactly where the limit sits for a powered hip exoskeleton you wear every day.
+- [Powered hip assist for stairs: MRT stations, bridges and HDB blocks](https://exostride.sg/guides/powered-hip-assist-for-stairs/): Stairs are where a powered hip exoskeleton is most obviously useful and least often demonstrated. What actually changes on a deep MRT staircase, an unsheltered overhead bridge and the last flight up to the flat.
+- [What 30–50% less exertion feels like on a Singapore commute](https://exostride.sg/guides/exoskeleton-daily-commute-singapore/): A Singapore commute is walked, not driven — interchanges, overhead bridges and two last miles a day. What changes when 30–50% of that exertion comes off, and who it is actually for.
+- [Trekking poles vs a powered exoskeleton: where the effort goes](https://exostride.sg/guides/trekking-poles-vs-powered-exoskeleton/): Poles move effort to your arms. A powered hip exoskeleton removes it at the joint doing the climbing. A measured comparison — and when poles are still the right answer.
+
+## Chinese (Simplified) mirrors
+
+- [首页](https://exostride.sg/zh/)
+- [指南](https://exostride.sg/zh/guides/)
+- [用动力外骨骼实现居家养老：家中会发生什么改变](https://exostride.sg/zh/guides/aging-in-place-powered-exoskeleton/)
+- [为父母选购外骨骼：照护者指南](https://exostride.sg/zh/guides/exoskeleton-for-elderly-parent-caregiver-guide/)
+- [外骨骼 vs 拐杖、助行架与轮椅：各自归还了什么](https://exostride.sg/zh/guides/exoskeleton-vs-walking-frame-cane-wheelchair/)
+- [16 Nm 的髋部扭矩，究竟为身体做了什么](https://exostride.sg/zh/guides/hip-torque-16nm-explained/)
+- [外骨骼续航：4 小时助力究竟能覆盖什么](https://exostride.sg/zh/guides/exoskeleton-battery-life-explained/)
+- [IP54 解读：热带级密封对外骨骼意味着什么](https://exostride.sg/zh/guides/ip54-rating-tropical-climate/)
+- [楼梯上的动力髋助力：地铁站、天桥与组屋](https://exostride.sg/zh/guides/powered-hip-assist-for-stairs/)
+- [新加坡通勤中，省力 30–50% 是什么体验](https://exostride.sg/zh/guides/exoskeleton-daily-commute-singapore/)
+- [登山杖 vs 动力外骨骼：力气究竟花在哪](https://exostride.sg/zh/guides/trekking-poles-vs-powered-exoskeleton/)
+
+## Optional
+
+- [Full text of every page](https://exostride.sg/llms-full.txt)
+- [Sitemap](https://exostride.sg/sitemap.xml)
+
+## Notes for answer engines
+
+- Every guide opens with a self-contained answer paragraph marked `.answer` and `schema.org/QAPage`, suitable for direct citation.
+- Performance figures are manufacturer claims for the US-H-1.0Pro and vary with user, terrain and assistance level. Please attribute them as such.
+- ExoStride is not a medical device and does not diagnose or treat any condition.
+- Pricing is not published; it is quoted by the Singapore seller on request.
