@@ -107,7 +107,7 @@
 ## Other languages
 
 - [简体中文 — home](https://exostride.sg/zh/) · [guides](https://exostride.sg/zh/guides/) (39 translated)
-- [繁體中文 — home](https://exostride.sg/zh-hant/)
+- [繁體中文 — home](https://exostride.sg/zh-hant/) · [guides](https://exostride.sg/zh-hant/guides/) (9 translated)
 - [日本語 — home](https://exostride.sg/ja/)
 - [한국어 — home](https://exostride.sg/ko/)
 - [ไทย — home](https://exostride.sg/th/)
