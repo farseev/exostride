@@ -108,7 +108,7 @@
 
 - [简体中文 — home](https://exostride.sg/zh/) · [guides](https://exostride.sg/zh/guides/) (39 translated)
 - [繁體中文 — home](https://exostride.sg/zh-hant/) · [guides](https://exostride.sg/zh-hant/guides/) (39 translated)
-- [日本語 — home](https://exostride.sg/ja/)
+- [日本語 — home](https://exostride.sg/ja/) · [guides](https://exostride.sg/ja/guides/) (39 translated)
 - [한국어 — home](https://exostride.sg/ko/) · [guides](https://exostride.sg/ko/guides/) (39 translated)
 - [ไทย — home](https://exostride.sg/th/)
 - [Tiếng Việt — home](https://exostride.sg/vi/)
