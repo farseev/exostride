@@ -18,6 +18,15 @@
     a.addEventListener('click',function(){nav.classList.remove('open');
       b&&b.setAttribute('aria-expanded','false');});});
 
+  /* language switcher: close on Escape / outside click; remember nothing (no cookies) */
+  var sw=document.querySelector('.langsw');
+  if(sw){
+    document.addEventListener('click',function(e){if(sw.open&&!sw.contains(e.target))sw.open=false;});
+    sw.addEventListener('keydown',function(e){if(e.key==='Escape'&&sw.open){sw.open=false;sw.querySelector('summary').focus();}});
+    sw.querySelectorAll('a[hreflang]').forEach(function(a){a.addEventListener('click',function(){
+      if(window.gtag)gtag('event','language_switch',{to:a.getAttribute('hreflang'),from:document.documentElement.lang});});});
+  }
+
   var R=document.querySelectorAll('.reveal');
   if('IntersectionObserver' in window){
     var io=new IntersectionObserver(function(es){es.forEach(function(x){
@@ -38,7 +47,8 @@
   /* fitting form -> pre-filled WhatsApp handoff (no data leaves the browser) */
   var f=document.getElementById('f-try');
   if(!f)return;
-  var ZH=document.documentElement.lang.indexOf('zh')===0;
+  /* WhatsApp message labels come from the page's hidden .l10n block (translated per language) */
+  function L(k,d){var e=document.querySelector('#t-l10n [data-k="'+k+'"]');return e?e.textContent.trim():d;}
   function ref(){return 'EXO-'+Math.random().toString(36).slice(2,6).toUpperCase()+
     Date.now().toString().slice(-3);}
   f.addEventListener('submit',function(ev){
@@ -53,22 +63,15 @@
     if(!ok){err.classList.add('show');return;}
     err.classList.remove('show');
     var r=ref(), s=document.getElementById('t-scn');
-    document.getElementById('t-ref').textContent=(ZH?'编号 ':'Ref ')+r;
-    var lines=ZH
-      ? ['你好，我想了解 ExoStride 并预约试穿。','编号：'+r,
-         '姓名：'+document.getElementById('t-name').value,
-         '场景：'+s.options[s.selectedIndex].text,
-         '日期：'+(document.getElementById('t-date').value||'-'),
-         '电话：'+document.getElementById('t-tel').value,
-         '邮箱：'+document.getElementById('t-mail').value,
-         '备注：'+(document.getElementById('t-note').value||'-')]
-      : ["Hi, I'd like to learn about ExoStride and book a fitting.",'Ref: '+r,
-         'Name: '+document.getElementById('t-name').value,
-         'Scenario: '+s.options[s.selectedIndex].text,
-         'Date: '+(document.getElementById('t-date').value||'-'),
-         'Tel: '+document.getElementById('t-tel').value,
-         'Email: '+document.getElementById('t-mail').value,
-         'Notes: '+(document.getElementById('t-note').value||'-')];
+    document.getElementById('t-ref').textContent=L('ref','Ref')+' '+r;
+    var lines=[L('hi',"Hi, I'd like to learn about ExoStride and book a fitting."),
+         L('ref','Ref')+': '+r,
+         L('name','Name')+': '+document.getElementById('t-name').value,
+         L('scenario','Scenario')+': '+s.options[s.selectedIndex].text,
+         L('date','Date')+': '+(document.getElementById('t-date').value||'-'),
+         L('tel','Tel')+': '+document.getElementById('t-tel').value,
+         L('email','Email')+': '+document.getElementById('t-mail').value,
+         L('notes','Notes')+': '+(document.getElementById('t-note').value||'-')];
     document.getElementById('t-wa').href='https://wa.me/6591227009?text='+
       encodeURIComponent(lines.join('\n'));
     document.getElementById('t-ok').classList.add('show');

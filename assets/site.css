@@ -326,3 +326,49 @@ html.js .reveal.in{opacity:1;transform:none}
  .trust .wrap{padding:10px 20px}
  .faq summary{font-size:16px;padding-right:46px}
 }
+
+/* language switcher (all pages) */
+.langsw{position:relative}
+.langsw>summary{list-style:none;cursor:pointer;display:flex;align-items:center;gap:6px;border:1px solid rgba(237,240,243,.35);transform:skewX(var(--skew));padding:6px 12px;font-family:var(--mono);font-size:11.5px;font-weight:600;color:var(--silver)}
+.langsw>summary::-webkit-details-marker{display:none}
+.langsw>summary>span{display:inline-block;transform:skewX(calc(var(--skew) * -1))}
+.langsw>summary>span::after{content:" ▾"}
+.langsw[open]>summary{background:var(--crimson);border-color:var(--crimson);color:#fff}
+.langsw ul{position:absolute;right:0;top:calc(100% + 8px);z-index:80;list-style:none;margin:0;padding:6px 0;min-width:190px;max-height:70vh;overflow:auto;background:rgba(20,21,25,.98);border:1px solid rgba(237,240,243,.18);box-shadow:0 12px 30px rgba(0,0,0,.35)}
+.langsw li a{display:block;padding:8px 16px;color:var(--silver);text-decoration:none;font-size:14px}
+.langsw li a:hover,.langsw li a:focus-visible{background:rgba(237,240,243,.08);color:#fff}
+.langsw li a[aria-current="true"]{color:#fff;font-weight:700;box-shadow:inset 3px 0 0 var(--crimson)}
+.l10n{display:none}
+
+/* non-Latin scripts: same layout, script-appropriate type */
+html[lang="zh-Hant"] body{--disp:'Noto Sans TC',sans-serif;--text:'Noto Sans TC','Archivo',sans-serif}
+html[lang="ja"] body{--disp:'Noto Sans JP',sans-serif;--text:'Noto Sans JP','Archivo',sans-serif}
+html[lang="ko"] body{--disp:'Noto Sans KR',sans-serif;--text:'Noto Sans KR','Archivo',sans-serif}
+html[lang="th"] body{--disp:'Noto Sans Thai',sans-serif;--text:'Noto Sans Thai','Archivo',sans-serif}
+html[lang="hi"] body{--disp:'Noto Sans Devanagari',sans-serif;--text:'Noto Sans Devanagari','Archivo',sans-serif}
+html[lang="ar"] body{--disp:'Noto Sans Arabic',sans-serif;--text:'Noto Sans Arabic','Archivo',sans-serif}
+html[lang="ru"] body{--disp:'Noto Sans',sans-serif;--text:'Noto Sans','Archivo',sans-serif}
+html:is([lang="ja"],[lang="ko"],[lang="th"],[lang="hi"],[lang="ar"]) .disp{font-style:normal;font-stretch:100%;font-weight:900;letter-spacing:.01em;line-height:1.22;text-transform:none}
+html:is([lang="th"],[lang="hi"],[lang="ar"]) .disp{line-height:1.42}
+html:is([lang="th"],[lang="hi"]) body{line-height:1.75}
+html[lang="ru"] .disp{font-stretch:100%}
+html:is([lang^="zh"],[lang="ja"],[lang="ko"],[lang="th"],[lang="hi"],[lang="ar"]) .hero h1 em{font-style:normal}
+html:is([lang="zh-Hant"],[lang="ja"],[lang="ko"],[lang="th"],[lang="hi"],[lang="ar"]) .voice q{font-style:normal;font-stretch:100%;font-weight:700;font-size:18px}
+html:is([lang="zh-Hant"],[lang="ja"],[lang="ko"]) .art-head h1{max-width:24ch}
+
+/* right-to-left (Arabic) */
+[dir="rtl"] .nav-links{margin-left:0;margin-right:auto}
+[dir="rtl"] .burger{margin-left:0;margin-right:2px}
+[dir="rtl"] .answer{border-left:1px solid var(--hair);border-right:5px solid var(--crimson)}
+[dir="rtl"] .voice{border-left:1px solid var(--hair);border-right:4px solid var(--crimson)}
+[dir="rtl"] .hero-stats div{padding:16px 0 0 22px;margin-right:0;margin-left:22px;border-right:0;border-left:1px solid rgba(237,240,243,.14)}
+[dir="rtl"] .artstats div{border-right:0;border-left:1px solid var(--hair)}
+[dir="rtl"] .evi-grid div{border-right:0;border-left:1px solid rgba(237,240,243,.15)}
+[dir="rtl"] .spec-t dd{text-align:left}
+[dir="rtl"] .faq summary::after{right:auto;left:24px}
+[dir="rtl"] .wafab{right:auto;left:20px}
+[dir="rtl"] .langsw ul{right:auto;left:0}
+[dir="rtl"] .langsw li a[aria-current="true"]{box-shadow:inset -3px 0 0 var(--crimson)}
+[dir="rtl"] .kick::before{order:0}
+[dir="rtl"] .faq summary{padding:22px 24px 22px 54px}
+@media(max-width:560px){[dir="rtl"] .faq summary{padding-right:24px;padding-left:46px}}

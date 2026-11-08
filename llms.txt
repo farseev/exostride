@@ -14,7 +14,7 @@
 - Performance claims: up to 80% less lower-body load per step; up to 35% less energy on climbs; 2–3x walking range; 30–50% less exertion on a daily commute
 - Classification: consumer mobility-assist device, not a medical device; no prescription required
 - Contact: WhatsApp +65 9122 7009 · Tel +65 8355 0979
-- Languages: English (en-SG) and Simplified Chinese (zh-Hans-SG)
+- Languages: English (en-SG), 简体中文 (zh-Hans-SG)
 
 ## Pages
 
@@ -73,6 +73,10 @@
 - [楼梯上的动力髋助力：地铁站、天桥与组屋](https://exostride.sg/zh/guides/powered-hip-assist-for-stairs/)
 - [新加坡通勤中，省力 30–50% 是什么体验](https://exostride.sg/zh/guides/exoskeleton-daily-commute-singapore/)
 - [登山杖 vs 动力外骨骼：力气究竟花在哪](https://exostride.sg/zh/guides/trekking-poles-vs-powered-exoskeleton/)
+
+## Other languages
+
+- [简体中文 — home](https://exostride.sg/zh/) · [guides](https://exostride.sg/zh/guides/) (9 translated)
 
 ## Optional
 

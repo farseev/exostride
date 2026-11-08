@@ -1,5 +1,8 @@
 # ExoStride — deploy notes
 
+> Nov 2026: the original `content.py` / `build_site.py` are not in this repo. The HTML is now the source;
+> see `README.md` for `tools/build_guides.py`, `tools/i18n.py` (17 languages) and `tools/check_site.py`.
+
 Static site. No build step, no server code. Upload the contents of this folder to any static
 host and point `exostride.sg` at it.
 
