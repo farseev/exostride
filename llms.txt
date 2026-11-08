@@ -14,7 +14,7 @@
 - Performance claims: up to 80% less lower-body load per step; up to 35% less energy on climbs; 2–3x walking range; 30–50% less exertion on a daily commute
 - Classification: consumer mobility-assist device, not a medical device; no prescription required
 - Contact: WhatsApp +65 9122 7009 · Tel +65 8355 0979
-- Languages: English (en-SG), 简体中文 (zh-Hans-SG), 繁體中文 (zh-Hant), 日本語 (ja), 한국어 (ko), ไทย (th), Tiếng Việt (vi), Bahasa Indonesia (id), Bahasa Melayu (ms), हिन्दी (hi), Filipino (fil), Español (es)
+- Languages: English (en-SG), 简体中文 (zh-Hans-SG), 繁體中文 (zh-Hant), 日本語 (ja), 한국어 (ko), ไทย (th), Tiếng Việt (vi), Bahasa Indonesia (id), Bahasa Melayu (ms), हिन्दी (hi), Filipino (fil), Español (es), Français (fr)
 
 ## Pages
 
@@ -87,6 +87,7 @@
 - [हिन्दी — home](https://exostride.sg/hi/)
 - [Filipino — home](https://exostride.sg/fil/)
 - [Español — home](https://exostride.sg/es/)
+- [Français — home](https://exostride.sg/fr/)
 
 ## Optional
 
