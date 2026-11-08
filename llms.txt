@@ -121,7 +121,7 @@
 - [Deutsch — home](https://exostride.sg/de/)
 - [Português — home](https://exostride.sg/pt/) · [guides](https://exostride.sg/pt/guides/) (39 translated)
 - [العربية — home](https://exostride.sg/ar/)
-- [Русский — home](https://exostride.sg/ru/)
+- [Русский — home](https://exostride.sg/ru/) · [guides](https://exostride.sg/ru/guides/) (39 translated)
 
 ## Optional
 
