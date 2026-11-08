@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-Hans-SG">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>外骨骼怎么知道何时该帮忙？步态感知解读｜ExoStride 新加坡</title>
+<meta name="description" content="动力外骨骼如何读懂你的步行、决定何时出力，并在平地、楼梯和坡道之间切换——以及为什么时机胜过力量。">
+<meta name="keywords" content="外骨骼如何工作, 外骨骼步态识别, 外骨骼传感器, 外骨骼怎么知道何时助力, 自适应外骨骼控制">
+<link rel="canonical" href="https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/">
+<link rel="alternate" hreflang="en-SG" href="https://exostride.sg/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="zh-Hans-SG" href="https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="x-default" href="https://exostride.sg/guides/how-exoskeletons-sense-gait/">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large">
+<meta name="author" content="HT Science &amp; Development Pte. Ltd.">
+<meta name="publisher" content="HT Science &amp; Development Pte. Ltd.">
+<meta name="geo.region" content="SG">
+<meta name="geo.placename" content="Singapore">
+<meta name="theme-color" content="#141519">
+<meta name="format-detection" content="telephone=yes">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="ExoStride Singapore">
+<meta property="og:locale" content="zh_SG">
+<meta property="og:locale:alternate" content="en_SG">
+<meta property="og:url" content="https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/">
+<meta property="og:title" content="外骨骼怎么知道何时该帮忙？步态感知解读｜ExoStride 新加坡">
+<meta property="og:description" content="动力外骨骼如何读懂你的步行、决定何时出力，并在平地、楼梯和坡道之间切换——以及为什么时机胜过力量。">
+<meta property="og:image" content="https://exostride.sg/assets/og-commute.jpg">
+<meta property="og:image:secure_url" content="https://exostride.sg/assets/og-commute.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="外骨骼怎么知道何时该帮忙？步态感知解读｜ExoStride 新加坡">
+<meta property="article:published_time" content="2026-11-08"><meta property="article:modified_time" content="2026-11-08"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="外骨骼怎么知道何时该帮忙？步态感知解读｜ExoStride 新加坡">
+<meta name="twitter:description" content="动力外骨骼如何读懂你的步行、决定何时出力，并在平地、楼梯和坡道之间切换——以及为什么时机胜过力量。">
+<meta name="twitter:image" content="https://exostride.sg/assets/og-commute.jpg">
+<meta name="twitter:image:alt" content="外骨骼怎么知道何时该帮忙？步态感知解读｜ExoStride 新加坡">
+<link rel="icon" href="../../../assets/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="../../../assets/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../../assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../../assets/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="192x192" href="../../../assets/favicon-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../../../assets/apple-touch-icon.png">
+<link rel="manifest" href="../../../site.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="image" href="../../../assets/exostride-station-stairs-dhoby-ghaut.jpg">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,100,400;0,100,500;0,100,600;0,100,700;0,125,800;1,125,700;1,125,800;1,125,900&family=IBM+Plex+Mono:wght@500;600&family=Noto+Sans+SC:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../assets/site.css">
+<script>if('IntersectionObserver' in window)document.documentElement.className+=' js';</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://exostride.sg/#organization","name":"HT Science & Development Pte. Ltd.","alternateName":"HT Science","url":"https://exostride.sg","logo":{"@type":"ImageObject","url":"https://exostride.sg/assets/favicon-512x512.png","width":512,"height":512},"image":"https://exostride.sg/assets/og-default.jpg","description":"Exclusive Singapore seller of the ExoStride US-H-1.0Pro powered hip exoskeleton.","identifier":{"@type":"PropertyValue","name":"UEN","value":"202033252G001"},"telephone":"+65 8355 0979","address":{"@type":"PostalAddress","addressCountry":"SG","addressLocality":"Singapore"},"areaServed":{"@type":"Country","name":"Singapore"},"contactPoint":[{"@type":"ContactPoint","telephone":"+65 9122 7009","contactType":"sales","areaServed":"SG","availableLanguage":["en","zh-Hans"]},{"@type":"ContactPoint","telephone":"+65 8355 0979","contactType":"customer support","areaServed":"SG","availableLanguage":["en","zh-Hans"]}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://exostride.sg/#website","url":"https://exostride.sg","name":"ExoStride Singapore","inLanguage":"zh-Hans-SG","publisher":{"@id":"https://exostride.sg/#organization"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","@id":"https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/#article","headline":"外骨骼怎么知道何时该帮忙？步态感知解读","name":"外骨骼怎么知道何时该帮忙？步态感知解读","description":"动力外骨骼如何读懂你的步行、决定何时出力，并在平地、楼梯和坡道之间切换——以及为什么时机胜过力量。","abstract":"靠持续读取你的动作。传感器追踪大腿的运动以及你处在每一步的哪个阶段；控制器识别出行走、爬坡或坐下的模式，并在髋部开始抬起的那一刻释放扭矩。ExoStride US-H-1.0Pro 会自动完成这一切：读取步态，在屈曲窗口内输出助力，在平地、楼梯和陡峭地形之间切换模式，并在你坐下时暂停。走路时无需做任何调整。","inLanguage":"zh-Hans-SG","mainEntityOfPage":{"@type":"WebPage","@id":"https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/"},"image":{"@type":"ImageObject","url":"https://exostride.sg/assets/og-commute.jpg","width":1200,"height":630},"datePublished":"2026-11-08","dateModified":"2026-11-08","author":{"@id":"https://exostride.sg/#organization"},"publisher":{"@id":"https://exostride.sg/#organization"},"about":{"@id":"https://exostride.sg/#product"},"mentions":[{"@type":"Product","name":"ExoStride US-H-1.0Pro"}],"keywords":"外骨骼如何工作, 外骨骼步态识别, 外骨骼传感器, 外骨骼怎么知道何时助力, 自适应外骨骼控制","articleSection":"规格解读","wordCount":873,"isAccessibleForFree":true}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"QAPage","inLanguage":"zh-Hans-SG","mainEntity":{"@type":"Question","name":"动力外骨骼怎么知道什么时候该帮你？","text":"动力外骨骼怎么知道什么时候该帮你？","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"靠持续读取你的动作。传感器追踪大腿的运动以及你处在每一步的哪个阶段；控制器识别出行走、爬坡或坐下的模式，并在髋部开始抬起的那一刻释放扭矩。ExoStride US-H-1.0Pro 会自动完成这一切：读取步态，在屈曲窗口内输出助力，在平地、楼梯和陡峭地形之间切换模式，并在你坐下时暂停。走路时无需做任何调整。","url":"https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/#answer"}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","inLanguage":"zh-Hans-SG","mainEntity":[{"@type":"Question","name":"它需要多久才能适应我的走路方式？","acceptedAnswer":{"@type":"Answer","text":"设备从最初几步就开始读取你的步态。大多数人走几次就能熟悉这种感觉；试穿时会先设定一个适合你的助力等级。"}},{"@type":"Question","name":"如果我走路不平稳或很慢呢？","acceptedAnswer":{"@type":"Answer","text":"步态感知是根据你自己的模式工作的，而不是某种理想模式。如果感觉助力时机不对，请告诉试穿团队；助力等级可以调整。"}},{"@type":"Question","name":"它知道我在下楼梯吗？","acceptedAnswer":{"@type":"Answer","text":"下行时它会减少助力，绝不会把你往前推。上下楼梯请务必扶好扶手。"}},{"@type":"Question","name":"可以关闭自动切换吗？","acceptedAnswer":{"@type":"Answer","text":"这台设备的设计理念是走路无需任何设置。可以在可选的 App 里调整什么，请询问团队。"}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://exostride.sg/zh/"},{"@type":"ListItem","position":2,"name":"指南","item":"https://exostride.sg/zh/guides/"},{"@type":"ListItem","position":3,"name":"外骨骼怎么知道何时该帮忙？步态感知解读","item":"https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/"}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","@id":"https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/#webpage","url":"https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/","name":"外骨骼怎么知道何时该帮忙？步态感知解读｜ExoStride 新加坡","description":"动力外骨骼如何读懂你的步行、决定何时出力，并在平地、楼梯和坡道之间切换——以及为什么时机胜过力量。","inLanguage":"zh-Hans-SG","isPartOf":{"@id":"https://exostride.sg/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://exostride.sg/assets/exostride-station-stairs-dhoby-ghaut.jpg"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".answer","h1"]}}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-2XGXKLFTZ9"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-2XGXKLFTZ9');
+</script>
+</head>
+<body>
+<a class="skip" href="#main">跳到主要内容</a>
+<nav id="nav">
+ <div class="wrap nav-in">
+  <a href="../../" aria-label="ExoStride"><img src="../../../assets/exostride-wordmark.png" width="640" height="144" alt="ExoStride" style="height:26px"></a>
+  <div class="nav-links">
+   <a href="../../#cases">应用场景</a>
+   <a href="../">指南</a>
+   <a href="../../#how">工作原理</a>
+   <a href="../../#specs">产品规格</a>
+   <a href="../../#try" class="m-only">预约试穿</a>
+  </div>
+  <details class="langsw" translate="no"><summary aria-label="语言: 简体中文"><span>简中</span></summary><ul><li><a href="../../../guides/how-exoskeletons-sense-gait/" hreflang="en-SG" lang="en-SG">English</a></li><li><a href="./" hreflang="zh-Hans-SG" lang="zh-Hans-SG" aria-current="true">简体中文</a></li><li><a href="../../../zh-hant/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a></li><li><a href="../../../ja/" hreflang="ja" lang="ja">日本語</a></li><li><a href="../../../ko/" hreflang="ko" lang="ko">한국어</a></li><li><a href="../../../th/" hreflang="th" lang="th">ไทย</a></li><li><a href="../../../vi/" hreflang="vi" lang="vi">Tiếng Việt</a></li><li><a href="../../../id/" hreflang="id" lang="id">Bahasa Indonesia</a></li><li><a href="../../../ms/" hreflang="ms" lang="ms">Bahasa Melayu</a></li><li><a href="../../../hi/" hreflang="hi" lang="hi">हिन्दी</a></li><li><a href="../../../fil/" hreflang="fil" lang="fil">Filipino</a></li><li><a href="../../../es/" hreflang="es" lang="es">Español</a></li><li><a href="../../../fr/" hreflang="fr" lang="fr">Français</a></li><li><a href="../../../de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="../../../pt/" hreflang="pt" lang="pt">Português</a></li><li><a href="../../../ar/" hreflang="ar" lang="ar">العربية</a></li><li><a href="../../../ru/" hreflang="ru" lang="ru">Русский</a></li></ul></details>
+  <a class="btn" href="../../#try"><span>预约试穿</span></a>
+  <button class="burger" id="burger" aria-label="Menu" aria-expanded="false" aria-controls="nav"><span></span><span></span><span></span></button>
+ </div>
+</nav>
+<div class="art-head">
+ <div class="wrap">
+  <nav class="crumbs" aria-label="Breadcrumb"><a href="../../">首页</a> <span>/</span><a href="../">指南</a> <span>/</span>规格解读</nav>
+  <h1 class="disp">外骨骼怎么知道何时该帮忙？步态感知解读</h1>
+  <div class="art-meta">
+   <span class="on">轻松通勤</span>
+   <span>规格解读</span>
+   <span>更新于 2026-11-08</span>
+  </div>
+ </div>
+</div>
+<figure class="art-hero"><img src="../../../assets/exostride-station-stairs-dhoby-ghaut.jpg" alt="一位通勤者佩戴 ExoStride 走在地铁站楼梯上"
+  fetchpriority="high" width="800" height="533"></figure>
+<main id="main"><div class="artwrap">
+<article>
+ <div class="answer" id="answer"><span class="lab">简短答案</span>
+  <p><strong>动力外骨骼怎么知道什么时候该帮你？</strong></p>
+  <p>靠持续读取你的动作。传感器追踪大腿的运动以及你处在每一步的哪个阶段；控制器识别出行走、爬坡或坐下的模式，并在髋部开始抬起的那一刻释放扭矩。ExoStride US-H-1.0Pro 会自动完成这一切：读取步态，在屈曲窗口内输出助力，在平地、楼梯和陡峭地形之间切换模式，并在你坐下时暂停。走路时无需做任何调整。</p></div>
+ <div class="artstats"><div><b>持续</b><span>读取步态</span></div><div><b>3</b><span>种地形模式：平地、楼梯、陡坡</span></div><div><b>0</b><span>走路时需要更改的设置</span></div></div><h2 class="disp">每一款动力外骨骼都要解决的问题</h2><p>髋部的电机可以把大腿往前推。难的是知道什么时候推。早一点或晚一点，助力就会和你的步伐较劲，而不是帮忙。在楼梯上和在平坦人行道上用同样的方式推，总有一处会感觉不对。坐着的时候还在推，那就是添乱。</p><p>所以，动力外骨骼真正的智能不在电机，而在于它如何读懂你的步行。</p><h2 class="disp">传感器测量什么</h2><p>穿戴式外骨骼通常组合使用以下几种：</p><ul class="pts"><li><span>关节角度传感器，测量大腿相对骨盆摆动了多少。</span></li><li><span>惯性测量单元（IMU），类似手机里的小芯片，测量加速度和转动。</span></li><li><span>电机反馈，告诉控制器关节正在怎样运动、施加了多大的力。</span></li></ul><p>它们一起，每秒多次描绘出每条腿处于步行周期的哪个位置。具体的传感器设计因厂商而异，通常不会公开细节。</p><h2 class="disp">从读数到决定</h2><p>控制器把这些读数转化为决定：</p><ul class="pts"><li><span>阶段：我处在这一步的哪里？对髋部助力最关键的时刻，是腿开始向前摆动并抬起的那一刻，即屈曲窗口。</span></li><li><span>活动：我是在平地上走、上楼梯、上坡、下坡、站着不动，还是坐着？</span></li><li><span>力度：在试穿时设定的等级之内，这项活动需要多少助力？</span></li></ul><p>根据公开说明，US-H-1.0Pro 会持续读取步态，在屈曲窗口内释放扭矩，在平地、楼梯和陡峭地形之间自动切换助力模式，并用姿态识别在你坐下时暂停。规格表上的峰值扭矩为 16 Nm。</p><div class="duo"><div class="ph"><img src="../../../assets/exostride-adaptive-power-stairs-closeup.jpg" alt="佩戴者上台阶时 ExoStride 髋部主机与大腿连杆的特写" loading="lazy" width="800" height="1020"></div><div class="ph"><img src="../../../assets/exostride-commuter-hip-exoskeleton-overpass.jpg" alt="一位通勤者佩戴 ExoStride 髋部外骨骼走过天桥" loading="lazy" width="800" height="1020"></div></div><h2 class="disp">为什么时机胜过力量</h2><p>可以这样想象：每次你开始迈步，有位朋友在恰当的时候把你的大腿轻轻向前、向上推一下。时机对的轻推有帮助；时机错的猛推会让你失去节奏。这就是为什么规格表上的高峰值扭矩，如果没有好的时机就意义不大，也是为什么人们有时会关掉那些“推得太猛”的设备。我们的<a href="../hip-torque-16nm-explained/">16 Nm 解读</a>详细讲了这些数字。</p><h2 class="disp">在楼梯、坡道和下坡时有什么变化</h2><ul class="pts"><li><span>平地：助力很轻。许多用户形容像是走在微微向下倾斜的路上。</span></li><li><span>楼梯和爬坡：每一步都要克服重力把腿抬得更高，所以助力会加大。制造商“爬坡最多节省 35% 能量”的声明就适用于这里；这是制造商声明，结果因人而异。</span></li><li><span>下坡：下行是控制问题，不是动力问题。US-H-1.0Pro 会减少助力，绝不会把你往前推，扶手仍然是你的主要依靠。</span></li></ul><h2 class="disp">坐下、站起与停下</h2><p>姿态识别会在你坐下时暂停助力，站起时恢复。这样在巴士站长椅或地铁座位上坐一会儿就毫无麻烦。我们的指南<a href="../sitting-on-mrt-bus-with-exoskeleton/">穿着外骨骼坐地铁或巴士</a>介绍了实际操作。</p><h2 class="disp">为什么走路不需要 App</h2><p>如果设备要求你在上楼梯前先选择模式，你就得想着设备，而不是想着楼梯。自动切换省去了这一步。US-H-1.0Pro 一键启动，可选的 App 只用于设置。这种设计对长者以及任何只想好好走路的人最为重要。</p><h2 class="disp">它感知不到什么</h2><ul class="pts"><li><span>它感知不到平衡问题，也不会接住跌倒的你。</span></li><li><span>它不知道你要去哪里，也不知道你有多累。</span></li><li><span>它察觉不到湿滑的地面；抓地力取决于你的鞋子和扶手。</span></li></ul><h2 class="disp">动力式与被动式</h2><p>正是这种感知能力，把动力设备与基于弹簧的被动设备区分开来；后者以机械方式响应，无法根据地形改变行为。请看<a href="../powered-vs-passive-exoskeleton/">动力与被动外骨骼</a>。</p><h2 class="disp" id="faq">常见问题</h2><div class="faq"><details open><summary>它需要多久才能适应我的走路方式？</summary><div class="a">设备从最初几步就开始读取你的步态。大多数人走几次就能熟悉这种感觉；试穿时会先设定一个适合你的助力等级。</div></details><details><summary>如果我走路不平稳或很慢呢？</summary><div class="a">步态感知是根据你自己的模式工作的，而不是某种理想模式。如果感觉助力时机不对，请告诉试穿团队；助力等级可以调整。</div></details><details><summary>它知道我在下楼梯吗？</summary><div class="a">下行时它会减少助力，绝不会把你往前推。上下楼梯请务必扶好扶手。</div></details><details><summary>可以关闭自动切换吗？</summary><div class="a">这台设备的设计理念是走路无需任何设置。可以在可选的 App 里调整什么，请询问团队。</div></details></div><div class="ws-note"><b>我们为何写这一篇 · W2 WHITESPACE</b> 真正解释扭矩、续航或防护等级的内容仅占 2.6%，互动指数却高达 8.5 倍。「教育型」内容仅占 5.2%。没人在写答案——因此答案引擎无从引用。</div></article><aside class="rail">
+ <div class="card">
+  <h2>联系新加坡团队</h2>
+  <p>新加坡独家经销商。在你自己的路线上完成陪同试穿——家中、山径或通勤路上。</p>
+  <a class="btn wa" href="https://wa.me/6591227009?text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E4%BA%86%E8%A7%A3%20ExoStride%20%E5%A6%82%E4%BD%95%E9%80%82%E5%BA%94%E6%A5%BC%E6%A2%AF%E5%92%8C%E5%9D%A1%E9%81%93%EF%BC%8C%E5%B9%B6%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B7%AF%E7%BA%BF%E4%B8%8A%E6%84%9F%E5%8F%97%E4%B8%80%E4%B8%8B%E3%80%82" target="_blank" rel="noopener" data-wa="rail-how-exoskeletons-sense-gait"><span>WhatsApp 咨询</span></a>
+  <p style="margin:14px 0 0;font-size:13px">电话 <a href="tel:+6583550979" style="color:var(--crimson)">+65 8355 0979</a></p>
+ </div>
+ <div class="card">
+  <h2>US-H-1.0Pro 一览</h2>
+  <div class="spec"><span>峰值助力扭矩</span><b>16 Nm</b></div><div class="spec"><span>重量</span><b>2.4 kg</b></div><div class="spec"><span>防护等级</span><b>IP54</b></div><div class="spec"><span>单次充电助力</span><b>最长 4 小时</b></div><div class="spec"><span>充满用时</span><b>2 小时</b></div>
+ </div>
+ <div class="card">
+  <h2>相关指南</h2>
+  <ul><li><a href="../hip-torque-16nm-explained/">16 Nm 的髋部扭矩，究竟为身体做了什么</a></li><li><a href="../powered-vs-passive-exoskeleton/">动力外骨骼与被动外骨骼：有什么区别？</a></li><li><a href="../sitting-on-mrt-bus-with-exoskeleton/">穿着外骨骼坐地铁或巴士</a></li></ul>
+ </div>
+</aside>
+</div><section class="band">
+ <div class="wrap">
+  <h2 class="disp">在你自己的路线上试一次。</h2>
+  <p>新加坡独家经销商。在你自己的路线上完成陪同试穿——家中、山径或通勤路上。</p>
+  <div class="cta-row">
+   <a class="btn wa" href="https://wa.me/6591227009?text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E4%BA%86%E8%A7%A3%20ExoStride%EF%BC%8C%E5%B9%B6%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%A2%84%E7%BA%A6%E8%AF%95%E7%A9%BF%E3%80%82" target="_blank" rel="noopener" data-wa="band"><span>WhatsApp 咨询</span></a>
+   <a class="btn ghost" href="../../#try"><span>预约试穿</span></a>
+  </div>
+ </div>
+</section></main><a class="wafab" href="https://wa.me/6591227009?text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E4%BA%86%E8%A7%A3%20ExoStride%20%E5%A6%82%E4%BD%95%E9%80%82%E5%BA%94%E6%A5%BC%E6%A2%AF%E5%92%8C%E5%9D%A1%E9%81%93%EF%BC%8C%E5%B9%B6%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B7%AF%E7%BA%BF%E4%B8%8A%E6%84%9F%E5%8F%97%E4%B8%80%E4%B8%8B%E3%80%82" target="_blank" rel="noopener" data-wa="fab" aria-label="WhatsApp 咨询"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.47 14.38c-.3-.15-1.75-.86-2.02-.96-.27-.1-.47-.15-.67.15s-.77.96-.94 1.16c-.17.2-.35.22-.64.08-.3-.15-1.25-.46-2.38-1.47-.88-.78-1.47-1.75-1.64-2.04-.17-.3-.02-.46.13-.6.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.08-.15-.67-1.61-.92-2.2-.24-.58-.49-.5-.67-.51h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.01-1.04 2.47s1.07 2.86 1.22 3.06c.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.69.62.71.23 1.36.19 1.87.12.57-.09 1.75-.72 2-1.41.25-.69.25-1.28.17-1.41-.07-.13-.27-.2-.57-.35zM12.04 21.5h-.01a9.4 9.4 0 0 1-4.79-1.31l-.34-.2-3.56.93.95-3.47-.22-.36a9.38 9.38 0 0 1-1.44-5.01c0-5.18 4.22-9.4 9.41-9.4a9.35 9.35 0 0 1 6.65 2.76 9.33 9.33 0 0 1 2.75 6.65c0 5.18-4.22 9.41-9.4 9.41zM20.52 3.49A11.28 11.28 0 0 0 12.04 0C5.85 0 .81 5.04.81 11.23c0 1.98.52 3.91 1.5 5.61L.72 24l7.32-1.92a11.2 11.2 0 0 0 4 .93h.01c6.19 0 11.23-5.04 11.23-11.23 0-3-1.17-5.82-3.29-7.94z"/></svg><span>WhatsApp 咨询</span></a><footer>
+ <div class="wrap">
+  <div>
+   <img src="../../../assets/exostride-wordmark.png" width="640" height="144" alt="ExoStride" style="height:24px">
+   <p><b>HT Science &amp; Development Pte. Ltd.</b> — 新加坡独家经销商。</p>
+   <p style="margin-top:6px">UEN 202033252G001 · 电话 <a href="tel:+6583550979">+65 8355 0979</a> · WhatsApp <a href="https://wa.me/6591227009?text=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%83%B3%E4%BA%86%E8%A7%A3%20ExoStride%E3%80%82" target="_blank" rel="noopener">+65 9122 7009</a></p>
+   <p class="disc">生活方式图片取自 AI 渲染的上市创意概念。减负、省力与续航数据为 US-H-1.0Pro 的厂商性能宣称，会因使用者、地形与助力档位而异。ExoStride 是消费级助行设备，并非医疗器械，不诊断或治疗任何疾病。本页不存储任何个人数据——咨询通过 WhatsApp 或电话送达团队。</p>
+  </div>
+  <div>
+   <h2>导航</h2>
+   <ul>
+    <li><a href="../../">首页</a></li>
+    <li><a href="../../#cases">应用场景</a></li>
+    <li><a href="../">指南</a></li>
+    <li><a href="../../#specs">产品规格</a></li>
+    <li><a href="../../#faq">常见问题</a></li>
+   </ul>
+  </div>
+  <div>
+   <h2>热门指南</h2>
+   <ul><li><a href="../aging-in-place-powered-exoskeleton/">用动力外骨骼实现居家养老：家中会发生什么改变</a></li><li><a href="../powered-hip-assist-for-stairs/">楼梯上的动力髋助力：地铁站、天桥与组屋</a></li><li><a href="../trekking-poles-vs-powered-exoskeleton/">登山杖 vs 动力外骨骼：力气究竟花在哪</a></li></ul>
+  </div>
+ </div>
+ <div class="btm"><div class="wrap">
+   <span>© 2026 HT Science &amp; Development Pte. Ltd. · 型号: US-H-1.0Pro</span>
+   <span class="mono">走得更远，感觉更好。</span>
+ </div></div>
+</footer>
+<script src="../../../assets/site.js" defer></script>
+</body>
+</html>

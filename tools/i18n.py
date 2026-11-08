@@ -825,6 +825,14 @@ def write_llms(avail):
         block.append("- [%s — home](%s%s)%s" % (L[c]["name"], SITE, lang_path(c, "/"),
                      (" · [guides](%s%s) (%d translated)" % (SITE, lang_path(c, "/guides/"), n)) if "/guides/" in avail[c] else ""))
     block = "\n".join(block) + "\n\n"
+    # Simplified Chinese mirror list (kept from the original llms.txt), regenerated from built pages
+    zh = ["## Chinese (Simplified) mirrors", ""]
+    for path in sorted(avail["zh-hans"], key=lambda x: (x != "/", x != "/guides/", x)):
+        h = read(os.path.join(ROOT, lang_path("zh-hans", path).lstrip("/"), "index.html"))
+        m = re.search(r'<h1[^>]*>(.*?)</h1>', h, re.S)
+        name = "首页" if path == "/" else ("指南" if path == "/guides/" else html.unescape(re.sub(r"<[^>]+>", "", m.group(1))))
+        zh.append("- [%s](%s%s)" % (name, SITE, lang_path("zh-hans", path)))
+    t = re.sub(r"## Chinese \(Simplified\) mirrors\n.*?\n\n(?=## )", "\n".join(zh) + "\n\n", t, flags=re.S)
     if "## Other languages" in t:
         t = re.sub(r"## Other languages\n.*?\n\n(?=## )", block, t, flags=re.S)
     else:
