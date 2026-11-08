@@ -372,3 +372,5 @@ html:is([lang="zh-Hant"],[lang="ja"],[lang="ko"]) .art-head h1{max-width:24ch}
 [dir="rtl"] .kick::before{order:0}
 [dir="rtl"] .faq summary{padding:22px 24px 22px 54px}
 @media(max-width:560px){[dir="rtl"] .faq summary{padding-right:24px;padding-left:46px}}
+[dir="rtl"] .skip{left:auto;right:8px;top:-999px}
+[dir="rtl"] .skip:focus{left:auto;right:8px;top:8px}
