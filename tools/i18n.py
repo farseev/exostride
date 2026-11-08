@@ -502,6 +502,8 @@ def render(doc, en_rel, code, tm, avail, clusters):
             else:
                 repl[a] = html.escape(v, quote=True)
         for a in ("href", "src"):
+            if code == "en":
+                break  # English is the source: leave its links exactly as authored
             v = at.get(a)
             if v is None or re.match(r"^(?:[a-z]+:|//|#)", v):
                 continue
