@@ -1,0 +1,90 @@
+order: 26
+slug: travelling-with-a-powered-exoskeleton
+w: W3
+pillar: Smoother Commutes
+title: Travelling with a powered exoskeleton: airports and flights
+desc: How to fly and travel with a powered hip exoskeleton: lithium battery rules, security screening, long airport walks, charging abroad and sightseeing.
+keywords: travelling with an exoskeleton, can I bring an exoskeleton on a plane, exoskeleton battery airline rules, mobility aid travel tips, walking long distances at airports
+q: Can you take a powered exoskeleton on a flight?
+a: Usually, but check first. The device contains a lithium-ion battery, and airlines and aviation authorities set rules for lithium batteries based on their watt-hour (Wh) rating. Ask the seller for the battery's Wh rating, then check with your airline before you book; rules can differ between airlines and routes. Keep the device in your cabin bag unless the airline tells you otherwise, and allow time at security. Once there, it can make long airport walks and sightseeing days far easier.
+stats: Wh|the battery number airlines ask for;; 2.4 kg|folded in a cabin bag;; 2 h|to a full charge (spec sheet)
+hero: exostride-commuter-portrait-mrt-singapore.jpg
+duo: exostride-summit-rest-energy-to-spare.jpg, exostride-station-stairs-dhoby-ghaut.jpg
+og: og-commute.jpg
+wa: Hi, I'm planning to travel with ExoStride. Could you tell me the battery's watt-hour rating and anything I should know?
+related: exoskeleton-battery-life-explained, exoskeleton-daily-commute-singapore, park-connector-walks-with-hip-assist
+---
+## Why travel is where walking gets hard
+
+Holidays involve far more walking than most people do at home. Long airport corridors, immigration queues, train stations with stairs, old towns with cobbles and hills, and museum days on your feet. For people who manage fine at home, it is often travel that shows how much stamina has dropped. For people who already find walking tiring, it can be the reason they stop travelling.
+
+A powered hip exoskeleton can help on the ground. Getting it there takes a little planning.
+
+## Lithium batteries and flying
+
+Powered exoskeletons run on rechargeable lithium-ion batteries. Aviation rules treat lithium batteries carefully, and airlines apply limits based on the battery's energy rating in watt-hours (Wh). Under widely used international guidance, batteries up to 100 Wh are generally allowed in cabin baggage, batteries between 100 and 160 Wh usually need airline approval, and spare batteries must be carried in the cabin, not in checked bags. Rules can change and airlines may apply their own policies.
+
+What to do:
+
+- Ask the ExoStride team for the battery's watt-hour rating and any documentation they can provide.
+- Check your airline's dangerous goods or battery page, or call them, before booking.
+- Note the answer and the name of the person you spoke to, if you called.
+- Pack the device in your cabin bag unless the airline says otherwise.
+
+## Security screening
+
+Treat it like any electronic device. Take it out of your bag if asked, and be ready to explain that it is a wearable walking assist. If you are wearing it, it is usually easier to take it off before the scanner and put it in a tray, since it contains metal and electronics. Allow extra time.
+
+## The airport itself
+
+Large airports involve long walks between check-in, security, gates and baggage halls. Many people find it most useful here:
+
+- Wear it from the moment you arrive at the airport, after security if that is easier.
+- Use travelators and lifts as well; the goal is arriving rested, not walking every metre.
+- Most airports offer mobility assistance on request, such as a buggy or wheelchair. You can arrange it through your airline in advance, and it is worth doing if you have any doubt about long walks.
+
+[[duo]]
+
+## Charging abroad
+
+The US-H-1.0Pro charges fully in two hours and gives up to 4 hours of assistance per charge, according to the spec sheet. Before you travel:
+
+- Check the charger's voltage rating and bring the right plug adapter for your destination.
+- Charge every night, and if you have a long sightseeing day, top up over lunch.
+- Never leave it charging in a hot car.
+
+## Sightseeing days on foot
+
+Holiday walking is often slower than commuting, with lots of stopping and starting, which suits on-demand assistance. Plan days around the battery as well as your legs: hilly towns and stair-heavy sights use more charge. Posture detection pauses assistance when you sit in a café, so stops do not drain it.
+
+For the US-H-1.0Pro, the manufacturer claims a two- to three-fold increase in walking range and up to 35% less energy on climbs. Those are manufacturer claims; your own result depends on you, the terrain and the assistance level. Our [battery guide](guide:exoskeleton-battery-life-explained) explains how terrain changes the hours.
+
+## Weather abroad
+
+IP54 covers dust and splashing water from any direction, so rain is not a problem. Very cold weather affects lithium batteries temporarily; keep the device warm when not in use. Sustained heat is worse for batteries than use in the sun; do not store it in a car.
+
+## Travel insurance
+
+Check whether your travel insurance covers the device against loss, damage or theft. It may need to be declared as a valuable item.
+
+## A simple packing list
+
+- The device, folded in your cabin bag.
+- Its charger and the right plug adapter for your destination.
+- The battery's watt-hour rating and any documents from the seller, on paper and on your phone.
+- Your airline's written confirmation, if you asked for one.
+- Comfortable walking shoes you have already worn with the device.
+
+## FAQ
+
+? Can I check in the exoskeleton with my luggage?
+Lithium battery rules usually require batteries to travel in the cabin. Check with your airline; in most cases it is simplest to carry the device in your cabin bag.
+
+? What is the battery's watt-hour rating?
+Ask the Singapore team for the current figure and documentation before booking, and give that figure to your airline.
+
+? Will it set off the airport scanner?
+It contains metal and electronics, so expect it to be screened like a laptop. Taking it off and placing it in a tray is usually quickest.
+
+? Can I use it on a cruise or tour bus?
+Usually yes, as a worn walking aid. Ask the operator about charging facilities on board.

@@ -1,0 +1,79 @@
+order: 16
+slug: powered-vs-passive-exoskeleton
+w: W2
+pillar: Smoother Commutes
+title: Powered vs passive exoskeletons: what is the difference?
+desc: Passive exoskeletons use springs and elastic; powered ones use motors, sensors and a battery. How each works, what each is good at, and which suits walking.
+keywords: powered vs passive exoskeleton, passive exoskeleton, unpowered exoskeleton, active exoskeleton, difference between powered and passive exoskeleton
+q: What is the difference between a powered and a passive exoskeleton?
+a: A passive exoskeleton has no motor. It uses springs, elastic bands or counterweights to store energy in one part of a movement and give it back in another, so it can only return energy you put in. A powered exoskeleton has motors, sensors and a battery, so it can add energy at a chosen moment. For walking up stairs and slopes, where the body has to lift itself, adding energy at the right moment is the key difference. Passive devices are simpler, lighter and need no charging.
+stats: 0 vs 16 Nm|added torque: passive vs US-H-1.0Pro;; 0 h|charging for passive;; Up to 4 h|US-H-1.0Pro per charge
+hero: exostride-commuter-hip-exoskeleton-overpass.jpg
+duo: exostride-adaptive-power-stairs-closeup.jpg, exostride-commuter-portrait-mrt-singapore.jpg
+og: og-commute.jpg
+wa: Hi, I'm deciding between powered and passive exoskeletons and would like to try ExoStride on my own route.
+related: how-exoskeletons-sense-gait, hip-vs-knee-vs-ankle-exoskeleton, how-to-read-an-exoskeleton-spec-sheet
+---
+## Two families of exoskeleton
+
+The word exoskeleton covers a wide range of devices, from spring-loaded vests used in factories to motorised suits used in research. For anyone choosing one for walking, the first split to understand is between passive and powered.
+
+## How a passive exoskeleton works
+
+A passive, or unpowered, exoskeleton has no motor and no battery. It works with mechanical elements:
+
+- Springs that compress or stretch in one phase of a movement and release in another.
+- Elastic bands that resist one direction and assist the return.
+- Clutches or locks that hold a position, such as a supported crouch.
+
+The key physical point is that a passive device cannot add energy overall. It can only store energy you put in and return it at another moment, or redirect load to a different part of the body. In industrial settings that is very useful: a passive shoulder exoskeleton can transfer the weight of raised arms to the hips for hours of overhead work.
+
+## How a powered exoskeleton works
+
+A powered, or active, exoskeleton adds three things:
+
+- Motors (actuators) at one or more joints that can add torque.
+- Sensors that read movement, such as joint angle and the timing of each step.
+- A controller and battery that decide when and how much torque to deliver.
+
+Because it has a power source, a powered device can put energy into a movement at the moment it is needed. The ExoStride US-H-1.0Pro is a powered hip exoskeleton: it reads your gait and adds up to 16 Nm of torque at the hip as each leg lifts (spec-sheet figure), and changes its assistance automatically between level ground, stairs and slopes. Our guide to [how exoskeletons sense gait](guide:how-exoskeletons-sense-gait) explains the sensing side.
+
+[[duo]]
+
+## Why the difference matters for walking
+
+On flat ground, walking is already quite efficient, and much of each step recovers energy naturally. Climbing is different. Going up stairs or a slope, the body has to raise its own weight, and that energy has to come from somewhere. A passive device can help redistribute effort, but it cannot supply the extra energy that lifting requires. A powered device can.
+
+That is why stairs, overhead bridges and hill paths are where powered hip assistance is most noticeable. For the US-H-1.0Pro, the manufacturer claims up to 35% less energy on climbs and up to 80% less lower-body load per step; those are manufacturer claims, and results vary with the person and terrain.
+
+## Side by side
+
+- Energy: passive stores and returns; powered can add.
+- Timing: passive responds to your movement mechanically; powered decides when to assist based on sensors.
+- Adaptation: passive behaves the same everywhere; powered can change its profile for stairs and slopes.
+- Weight: passive is usually lighter; powered carries motors and a battery (2.4 kg in total for the US-H-1.0Pro).
+- Charging: passive needs none; powered needs charging (2 hours to full for the US-H-1.0Pro).
+- Failure mode: passive keeps working; a powered device stops assisting when the battery is flat. The US-H-1.0Pro does not lock the legs when that happens.
+- Water: both can be affected; check the IP rating on powered devices. The US-H-1.0Pro is IP54.
+
+## Which suits you
+
+A passive device can make sense for repetitive, predictable work tasks, or where charging is impractical. For walking in daily life, especially with stairs and slopes, a powered device that adds energy at the right moment is usually the more useful category. Whichever you consider, compare the joint assisted, weight, battery and controls; our [spec-sheet guide](guide:how-to-read-an-exoskeleton-spec-sheet) walks through each line. The joint matters too: see our comparison of [hip, knee and ankle exoskeletons](guide:hip-vs-knee-vs-ankle-exoskeleton).
+
+## A note on names
+
+Brands use many terms: active, robotic, motorised, wearable robot, smart exoskeleton. In practice, if a device has a battery and a motor, it is powered. If it has neither, it is passive. Some hybrid designs use small motors only to adjust a spring or lock; ask what the motor actually does.
+
+## FAQ
+
+? Can a passive exoskeleton help me climb stairs?
+It can redistribute some effort, but it cannot add the energy needed to lift your body. Powered devices are designed to add assistance at that moment.
+
+? Are powered exoskeletons safe if the battery dies?
+That depends on the device. The US-H-1.0Pro stops assisting but does not lock your legs, so you keep walking normally, carrying 2.4 kg.
+
+? Is a powered exoskeleton a robot?
+In a loose sense, yes: it senses, decides and acts. In practice it is a wearable assist device that responds to your own movement rather than moving you on its own.
+
+? Do passive exoskeletons need fitting?
+Yes. Any exoskeleton needs to fit well to transfer force comfortably. Powered devices also need their assistance level set, which is part of a fitting.

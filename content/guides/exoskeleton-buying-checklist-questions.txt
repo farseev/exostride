@@ -1,0 +1,73 @@
+order: 21
+slug: exoskeleton-buying-checklist-questions
+w: W2
+pillar: Smoother Commutes
+title: Before you buy an exoskeleton: 12 questions to ask the seller
+desc: Twelve plain questions to ask any exoskeleton seller before you buy — specs, claims, fitting, battery, servicing, returns — and what good answers sound like.
+keywords: exoskeleton buying guide, questions to ask before buying an exoskeleton, exoskeleton checklist, what to know before buying an exoskeleton, exoskeleton warranty questions
+q: What should you ask before buying a powered exoskeleton?
+a: Ask what joint it assists and how, what the performance figures are based on, whether you can try it on your own route first, how fitting and sizing work, what happens when the battery runs out, how it handles rain, who services it locally, what the warranty and return terms are, and the full price including anything extra. A good seller answers plainly and puts it in writing. For the ExoStride US-H-1.0Pro in Singapore, the exclusive seller is HT Science & Development Pte. Ltd.
+stats: 12|questions worth asking;; 1|trial on your own route;; In writing|warranty and price
+hero: exostride-commuter-hip-exoskeleton-overpass.jpg
+duo: exostride-station-stairs-dhoby-ghaut.jpg, exostride-elderly-couple-afternoon-walk.jpg
+og: og-commute.jpg
+wa: Hi, I'm considering ExoStride and have a list of questions before buying. Could you help me with them?
+related: how-to-read-an-exoskeleton-spec-sheet, how-to-judge-exoskeleton-performance-claims, exoskeleton-for-elderly-parent-caregiver-guide
+---
+## Why a checklist helps
+
+Powered exoskeletons are a new category for most buyers. There is no familiar reference point, as there is for a phone or a washing machine, and the person buying is often an adult child buying for a parent. A short list of questions keeps the conversation focused on what matters and makes it easy to compare answers.
+
+You are welcome to use this list with us. For the ExoStride US-H-1.0Pro, the answers come from HT Science & Development Pte. Ltd., the exclusive Singapore seller.
+
+## About the device
+
+- 1. Which joint does it assist, and in which direction? A hip device helps lift the leg; knee and ankle devices do different jobs. The US-H-1.0Pro assists hip flexion. See our [spec-sheet guide](guide:how-to-read-an-exoskeleton-spec-sheet).
+- 2. What are the measured specifications? Peak torque, total weight, assistance time per charge, charge time and IP rating. For the US-H-1.0Pro: 16 Nm, 2.4 kg, up to 4 hours, 2 hours, IP54.
+- 3. What are the performance figures based on? Ask what was measured, how, on whom and on what terrain. The US-H-1.0Pro's figures (up to 80% less lower-body load per step, up to 35% less energy on climbs, 30–50% less commute exertion, 2–3× range) are manufacturer claims. Our guide to [judging performance claims](guide:how-to-judge-exoskeleton-performance-claims) explains what to listen for.
+- 4. Is it a medical device or a consumer device? It affects what the seller can claim and whether you need a prescription. The US-H-1.0Pro is a consumer mobility-assist device.
+
+## About trying and fitting
+
+- 5. Can I try it on my own route before buying? The stairs at home, the walk to the station, the trail you hike. A demonstration in a showroom is not the same. ExoStride fittings in Singapore are done on your own route.
+- 6. Who does the fitting, and what does it include? Sizing, setting the assistance level and walking a real route with the user. Ask how long it takes and whether a family member or physiotherapist can attend.
+- 7. What sizes does it fit? Ask for the waist and thigh range before booking.
+
+[[duo]]
+
+## About daily use
+
+- 8. What happens when the battery runs out? A good answer: it stops assisting but does not lock your legs. That is the case for the US-H-1.0Pro.
+- 9. How does it handle rain and sweat? Ask for the IP rating and what it does not cover. IP54 covers dust and splashing water from any direction, not immersion or pressure jets.
+- 10. Does it need an app or settings to walk? The US-H-1.0Pro starts with one button; the app is optional and only used for settings.
+
+## About after the sale
+
+- 11. Who services it in Singapore, and what does the warranty cover? Ask for warranty length, what is excluded, how repairs are handled and how long they take, and whether a replacement is available meanwhile. Get it in writing.
+- 12. What is the full price, and what are the return terms? Ask for a written quote that includes everything you need to use it, and whether there is a return or exchange period. ExoStride pricing in Singapore is quoted directly by the team because it depends on configuration and fitting.
+
+## What good answers sound like
+
+Good answers are specific, admit limits and come with paperwork. "It depends" is fine if it is followed by what it depends on. Be cautious of answers that promise medical results, avoid the trial question or push for a decision on the day.
+
+## If you are buying for a parent
+
+Bring your parent into the conversation, not just the decision. Our [caregiver's guide](guide:exoskeleton-for-elderly-parent-caregiver-guide) covers how to raise the idea and what to check at the fitting.
+
+## Keep the answers together
+
+Write the answers down as you go, ideally on the same sheet as this list, and ask the seller to confirm the important ones by message or email. If you are comparing two devices, use the same twelve questions for both, in the same order. Differences that look small in a showroom, such as a charge time, a sizing range or a return period, often decide how well a device fits daily life. And if you are buying on behalf of someone else, read the answers back to them before deciding; they are the one who will wear it.
+
+## FAQ
+
+? How much does ExoStride cost in Singapore?
+Pricing is quoted directly by the Singapore team, since it depends on configuration and fitting. Message +65 9122 7009 on WhatsApp or call +65 8355 0979 for a current figure.
+
+? What warranty does ExoStride come with?
+Ask the Singapore team for the current warranty terms in writing before buying. They can explain what is covered and how servicing works.
+
+? Can I buy without a fitting?
+A fitting is strongly recommended, because sizing and assistance level affect comfort and how well the device works. It also lets you test it on your own route.
+
+? Who sells ExoStride in Singapore?
+HT Science & Development Pte. Ltd. (UEN 202033252G001) is the exclusive Singapore seller of the ExoStride US-H-1.0Pro.

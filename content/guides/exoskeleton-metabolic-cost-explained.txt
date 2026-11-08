@@ -1,0 +1,86 @@
+order: 15
+slug: exoskeleton-metabolic-cost-explained
+w: W2
+pillar: For Outdoor Sports
+title: How exoskeleton energy savings are measured: metabolic cost
+desc: What "metabolic cost" means, how labs measure the energy spent walking, why results vary so much, and how to read a claim like 35% less energy on climbs.
+keywords: exoskeleton metabolic cost, how are exoskeleton energy savings measured, metabolic cost of walking explained, exoskeleton energy reduction, exoskeleton oxygen consumption test
+q: How do researchers measure whether an exoskeleton saves energy?
+a: Usually by measuring breathing. The standard lab method, indirect calorimetry, uses a mask to record how much oxygen a person takes in and how much carbon dioxide they breathe out while walking at a steady pace. From that, the energy spent per minute is calculated and compared with and without the device. That number is the "metabolic cost". Results depend heavily on speed, slope, the person and how long they have practised with the device, which is why claims such as the US-H-1.0Pro's "up to 35% less energy on climbs" are manufacturer claims, not guarantees.
+stats: O₂|what the lab actually measures;; Steady|pace needed for a valid reading;; Up to 35%|climb energy (manufacturer claim)
+hero: gen-outdoor-trail.jpg
+duo: exostride-hiking-forest-trail-singapore.jpg, exostride-summit-rest-energy-to-spare.jpg
+og: og-outdoor.jpg
+wa: Hi, I'd like to learn how ExoStride's energy-saving figures were measured, and try it on a climb.
+related: how-to-judge-exoskeleton-performance-claims, hip-torque-16nm-explained, bukit-timah-hill-with-and-without-hip-assist
+---
+## What "metabolic cost" means
+
+Every step you take burns energy. Muscles convert fuel into movement, and that process uses oxygen and produces carbon dioxide. The total energy your body spends to walk a given distance or for a given time is called the metabolic cost of walking.
+
+When an exoskeleton brand says its device reduces energy use, it is almost always talking about this number: how much less energy the body spends to do the same walk.
+
+## How it is measured in a lab
+
+The most widely used method in research is indirect calorimetry. In plain terms:
+
+- The person wears a mask connected to a gas analyser, often a portable unit carried on the back.
+- They walk at a fixed speed, often on a treadmill, sometimes at a set incline.
+- The analyser measures how much oxygen they breathe in and how much carbon dioxide they breathe out, breath by breath.
+- After a few minutes the readings settle into a steady state. Those minutes are used for the calculation.
+- The same walk is repeated with and without the device, and the energy per minute is compared.
+
+Researchers usually subtract the energy spent standing still, so the result reflects the cost of walking itself. The percentage difference between the two conditions is the headline "energy saving".
+
+## Why results vary so much
+
+Metabolic cost is sensitive. Small changes in conditions move the result:
+
+- Speed: walking faster changes the cost and the share an exoskeleton can save.
+- Slope and stairs: climbing costs far more than walking on the flat, so there is more to save. This is why claims for climbs are often higher than for level ground.
+- The person: fitness, body size and how they walk all change the baseline.
+- Practice: people often need time to adapt to assistance. Results on the first day can differ from results after several sessions.
+- Comparison: compared with walking without the device, or with the device worn but switched off? The second comparison includes the cost of carrying it.
+
+Two studies with different conditions can produce very different percentages for similar devices. That is not necessarily anyone being dishonest; it is the nature of the measurement.
+
+[[duo]]
+
+## Reading the ExoStride figure
+
+For the US-H-1.0Pro, the manufacturer claims up to 35% less energy on steep, sustained climbs, along with up to 80% less lower-body load per step, 30–50% less exertion on a daily commute and two to three times the walking range. These are manufacturer claims for this model. "Up to" means the figure is a ceiling under favourable conditions, not what every user will measure.
+
+The questions worth asking about it, or any other brand's figure, are the ones in our guide to [judging exoskeleton performance claims](guide:how-to-judge-exoskeleton-performance-claims): what was measured, how, on whom, on what terrain and against what comparison.
+
+## Effort is not the same as energy
+
+Lab energy and how hard a walk feels are related but not identical. People often report a bigger difference in perceived effort than the gas analyser shows, or the other way round. For most buyers, how tiring the walk feels is the more useful measure anyway, and it is easy to record yourself on a 0 to 10 scale.
+
+## Measuring it yourself, roughly
+
+You cannot run indirect calorimetry at home, but you can make a fair, rough comparison on a climb:
+
+- Choose a steady climb you know, such as a long staircase or a hill path.
+- Walk it at the same pace twice on similar days: once without assistance, once with.
+- Note your heart rate at the top if you have a watch, your time, and your effort score.
+- Rest fully between attempts, or do them on separate days.
+
+Heart rate is a rough proxy for effort and is affected by heat, sleep and caffeine, so look for consistent differences over several attempts. Our [Bukit Timah Hill comparison](guide:bukit-timah-hill-with-and-without-hip-assist) walks through a structured version.
+
+## Why timing matters to energy
+
+An exoskeleton only saves energy if it helps at the right moment. Assistance that arrives late can make walking harder. That is why control matters as much as torque; our [16 Nm explainer](guide:hip-torque-16nm-explained) covers it.
+
+## FAQ
+
+? Is metabolic cost the same as calories burned?
+They are closely related. Metabolic cost is the energy the body spends, which can be expressed in calories. Lab studies usually report it in watts or per kilogram of body weight.
+
+? Why are energy savings higher on climbs?
+Climbing costs much more energy than walking on the flat, and much of that cost comes from lifting the leg and body. There is more effort to remove, so the percentage that assistance can save is often larger.
+
+? Can I measure it with a smartwatch?
+Not precisely. A watch estimates energy from heart rate and movement. It is useful for rough comparisons on the same route, but it is not a lab measurement.
+
+? Does the 35% figure apply to walking on flat ground?
+No. The manufacturer's 35% claim refers to steep, sustained climbs. On flat ground, the commute figure of 30–50% less exertion is the relevant manufacturer claim.

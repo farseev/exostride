@@ -1,0 +1,88 @@
+order: 6
+slug: wearing-a-mobility-aid-in-public
+w: W1
+pillar: Intelligent Rehabilitation
+title: Wearing a mobility aid without feeling old
+desc: Pride, looks and questions from strangers stop many people using a walking aid. Practical ways to handle them, and why a hip exoskeleton reads differently.
+keywords: embarrassed to use walking aid, mobility aid stigma, refusing walking stick elderly, wearing exoskeleton in public, discreet mobility aid
+q: How do you get past feeling embarrassed about using a mobility aid?
+a: By focusing on what the aid gives back rather than what it says about you. Most people refuse a walking aid because of how it looks, not how it works, and the cost is staying home. Choosing an aid that fits your life, practising on familiar routes, and having a short answer ready for curious people all help. A powered hip exoskeleton is worn at the waist over clothing and is often read as sports or back-support gear, which some people find easier to accept than a stick or frame.
+stats: 2.4 kg|worn at the waist;; 0|hands needed to use it;; 1|button to start
+hero: exostride-wet-market-morning-run.jpg
+duo: exostride-elderly-couple-afternoon-walk.jpg, exostride-commuter-portrait-mrt-singapore.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'd like to learn about ExoStride. I'd rather not use a walking stick — can I try it at a private fitting first?
+related: exoskeleton-for-elderly-parent-caregiver-guide, keeping-up-with-grandchildren-mobility, daily-walking-routine-older-adults-singapore
+---
+## The aid that stays in the cupboard
+
+Ask any physiotherapist and you will hear the same story. A walking stick is prescribed, bought, and then left behind the door. A frame is used at home but never outside. The reason is rarely that the aid does not work. It is that using it in front of the neighbours feels like announcing that you have become old.
+
+That feeling deserves respect rather than a lecture. It is also worth naming its cost: when the aid stays in the cupboard, the walk often does too.
+
+## Why it feels the way it does
+
+Visible aids carry strong associations. A stick or a frame says "frail" to many people of our parents' generation, and nobody wants to be seen that way by the uncle at the coffee shop or the aunties at the market. Pride is also wrapped up with independence: accepting help with walking can feel like the first step towards needing help with everything.
+
+Understanding this helps families too. Arguing about safety statistics rarely works. Talking about what the person wants to keep doing usually does.
+
+## Reframe the aid around what it gives back
+
+People accept tools that let them do things. Very few people feel embarrassed about reading glasses, because glasses mean reading. The same shift works for walking aids:
+
+- Not "you need a stick", but "this means you can do the market on your own again".
+- Not "you are not safe", but "this would make the stairs to your friend's flat easier".
+- Not "everyone your age uses one", but "try it once on the walk you miss".
+
+## Where a hip exoskeleton reads differently
+
+A powered hip exoskeleton such as the ExoStride US-H-1.0Pro is a slim belt at the waist with short links along the outside of each thigh, worn over clothing. Nothing is held in the hands. Many people who see it assume it is sports equipment or a back support. Some wearers like that it looks like technology rather than infirmity.
+
+It is not invisible, and it is not for everyone. It does a different job from a stick or frame: it takes some of the effort out of lifting each leg, with a peak of 16 Nm on the spec sheet, rather than giving you something to lean on. If balance is the main problem, a stick or frame is still the right tool, and the pride question has to be faced directly. Our [comparison of mobility aids](guide:exoskeleton-vs-walking-frame-cane-wheelchair) explains which problem each one solves.
+
+[[duo]]
+
+## Practise where nobody is watching
+
+The first outing with any new aid is the hardest. Make it easy:
+
+- Start at home and in the corridor, where nobody you know will pass.
+- Next, try a quiet time at a familiar place, such as the park early in the morning.
+- Then the real target: the market, the temple, the bus stop.
+
+The Singapore team fits the exoskeleton at home or on your own route, so the first try can be private.
+
+## Have a one-line answer ready
+
+Curious people will ask. A short, cheerful answer ends the conversation on your terms:
+
+- "It's a walking assist. Makes the stairs easier."
+- "It's like an e-bike for walking."
+- "My grandson made me get it. It's actually quite good."
+
+Most people ask because they are interested, and many ask because they are thinking about a parent of their own.
+
+## For families raising the subject
+
+If you are the son, daughter or spouse, let the person choose. Offer a trial rather than a purchase, attach it to a place they miss, and do not make it a conversation about decline. Our [caregiver's guide](guide:exoskeleton-for-elderly-parent-caregiver-guide) has more on how to raise it without it landing as an insult, and our guide to [keeping up with the grandchildren](guide:keeping-up-with-grandchildren-mobility) is about the moments that often matter most.
+
+## Small things that make it easier
+
+- Wear it with clothes you feel good in; a favourite shirt helps more than you would think.
+- Go out with someone the first few times, so you can chat instead of thinking about it.
+- Choose a destination you enjoy, not just a walk for its own sake.
+- Notice how many other people use aids of all kinds. You are rarely the only one.
+
+## FAQ
+
+? Will people notice that I am wearing it?
+Some will. It is a slim hip belt with short thigh links worn over clothing. Most people read it as sports or back-support gear rather than a medical device.
+
+? Can I wear it under clothes to hide it?
+It is designed to be worn over clothing at the waist. A loose shirt or light jacket over the belt makes it less noticeable.
+
+? Is it a medical device?
+No. It is a consumer mobility-assist device. It does not need a prescription and does not diagnose or treat any condition.
+
+? Can I try it somewhere private first?
+Yes. Fittings are done at home or on your own route, so the first walk can be somewhere nobody is watching.

@@ -1,0 +1,78 @@
+order: 1
+slug: physiotherapist-guide-powered-hip-exoskeleton
+w: W1
+pillar: Intelligent Rehabilitation
+title: A physiotherapist's guide to powered hip exoskeletons
+desc: What a physiotherapist needs to know before a client tries a consumer powered hip exoskeleton: what it assists, who it suits, what to watch and how to judge it.
+keywords: exoskeleton for physiotherapy patients, physiotherapist exoskeleton guide, powered hip exoskeleton rehabilitation, hip assist device physio, consumer exoskeleton clinical questions
+q: Should a physiotherapist recommend a powered hip exoskeleton to a client?
+a: Sometimes, and only as an addition to therapy. A consumer hip exoskeleton such as the ExoStride US-H-1.0Pro adds up to 16 Nm of assistance as the hip flexes, which can make stairs, slopes and longer walks less costly for a client who can already stand and walk. It does not provide balance support, does not replace a gait programme and is not a medical device. The useful question is not "does it work?" but "does it get this client walking their real routes more often, safely, between sessions?"
+stats: 16 Nm|peak hip assist (spec sheet);; 2.4 kg|worn at the pelvis;; 0|prescriptions required
+hero: exostride-rehabilitation-walk-park-singapore.jpg
+duo: exostride-elderly-couple-afternoon-walk.jpg, exostride-climbing-stairs-confidence.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'm a physiotherapist and would like to understand how ExoStride works before a client tries it. Can we arrange a demo?
+related: who-should-not-use-powered-hip-exoskeleton, tracking-progress-with-a-powered-exoskeleton, exoskeleton-vs-walking-frame-cane-wheelchair
+---
+## What the device actually assists
+
+The US-H-1.0Pro is a hip-only, powered exoskeleton. A belt sits at the pelvis, short links run down the outside of each thigh, and a motor at each hip adds torque in the flexion direction while the wearer walks. The spec sheet gives a peak of 16 Nm. The control system reads the gait continuously and switches profile between level ground, stairs and steeper terrain on its own, so there is nothing for the client to adjust mid-walk. When the wearer sits, posture detection pauses assistance; when they stand, it resumes.
+
+What it does not do matters just as much for clinical reasoning:
+
+- It does not assist the knee or ankle directly.
+- It does not provide a static support point, so it is not a balance aid in the way a stick or frame is.
+- It does not move a limb that the client cannot move. It adds to voluntary effort; it does not create it.
+- It does not record clinical outcome measures.
+
+Think of it as a way to lower the cost of hip flexion during real-world walking, not as a training robot.
+
+## Which clients it tends to suit
+
+In practice the clients who get most from a hip assist device share three traits. They can stand up and walk independently, with or without a stick. Their limiting factor is effort and fatigue rather than balance. And there is a specific route they have stopped doing, such as the stairs to the flat, the walk to the market or an overhead bridge on the way to the clinic.
+
+That profile includes many older adults who have slowly lost walking distance, and people who have finished a formal rehabilitation block but still tire quickly. The manufacturer claims up to 80% less lower-body load per step and a 2–3× increase in walking range; treat those as manufacturer claims for this model, measured under the manufacturer's own conditions, and expect individual results to vary widely.
+
+## Where caution, or a no, is the right answer
+
+A client whose main problem is balance, dizziness or freezing is better served by the aids and training you already use. Anyone who cannot weight-bear, has not been cleared to load a recently operated joint, or has skin that breaks down easily at the belt and thigh contact points needs a clinical decision first. Our guide to [who a powered hip exoskeleton is not for](guide:who-should-not-use-powered-hip-exoskeleton) sets out the common exclusions in plain language that you can share with families.
+
+ExoStride is sold as a consumer mobility-assist device. It is not registered as a medical device, and nothing on this site should be read as a treatment claim. If a client asks whether it will fix a condition, the honest answer is no; it may make walking less tiring while they work on that condition with you.
+
+## How to fit it into a programme
+
+The most useful role a physiotherapist can play is defining the route and the measure. A guided fitting from the Singapore team sets the assistance level and walks the client's own route with them, but you know what the client should be working on, and what they should not.
+
+[[duo]]
+
+- Name one route the client has given up and agree on it as the target.
+- Decide whether some sessions or days should stay unassisted, so that assistance does not quietly replace training you want them to do.
+- Agree a simple measure that the family can record, such as distance walked, number of rest stops, or flights climbed without stopping.
+- Review at two and four weeks, as you would any other home programme.
+
+Our guide to [tracking progress in the first month](guide:tracking-progress-with-a-powered-exoskeleton) gives a simple log that families can fill in without any equipment.
+
+## Questions worth asking the seller
+
+Physiotherapists are often the only person in the room who will ask the awkward questions. These are fair ones, and the Singapore team can answer them at a demonstration:
+
+- What exactly is measured to support each performance figure, and under which conditions?
+- How is assistance level set, and can it be lowered for a cautious first week?
+- What happens if the battery runs out mid-walk? (The unit stops assisting but does not lock the legs.)
+- Can a clinician attend the fitting?
+
+You can also compare it against the aids a client already uses in our guide on [exoskeletons versus canes, frames and wheelchairs](guide:exoskeleton-vs-walking-frame-cane-wheelchair).
+
+## FAQ
+
+? Is ExoStride a medical device?
+No. The US-H-1.0Pro is a consumer mobility-assist exoskeleton. It is used without a prescription and does not diagnose or treat any condition. Clinical decisions about loading, gait training and fall risk stay with the client's doctor and physiotherapist.
+
+? Can a physiotherapist attend the fitting?
+Yes, and it helps. The fitting is done on the client's own route, and having the treating physiotherapist present means the assistance level and target route can be set with the client's programme in mind.
+
+? Will assistance reduce the training effect of walking?
+It removes part of the effort of hip flexion, so the training load changes. Many clients walk more often and further with assistance; if a specific strength goal matters, keep some sessions unassisted and decide the balance with the client.
+
+? Does it help with balance?
+Not directly. It reduces fatigue and keeps both hands free for a rail, but it does not provide a fixed support point. If balance is the main limitation, a stick or frame and balance training remain first-line.

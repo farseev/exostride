@@ -1,0 +1,76 @@
+order: 7
+slug: who-should-not-use-powered-hip-exoskeleton
+w: W1
+pillar: Intelligent Rehabilitation
+title: Who a powered hip exoskeleton is not for: an honest checklist
+desc: When a powered hip exoskeleton is the wrong choice, or needs a doctor's go-ahead first, so families can decide quickly and spend money wisely.
+keywords: who should not use an exoskeleton, exoskeleton contraindications, is an exoskeleton right for me, hip exoskeleton suitability, exoskeleton not suitable
+q: Who should not use a powered hip exoskeleton?
+a: People who cannot stand and walk on their own, people whose main problem is balance rather than effort, and anyone with a recent operation, injury or condition that a doctor has not cleared for walking with added hip assistance. Skin that breaks down easily at the waist or thighs, and devices or conditions that a doctor has flagged, also need a medical opinion first. A powered hip exoskeleton assists walking you can already do; it does not replace a wheelchair, a frame or medical care.
+stats: 3|questions to answer first;; 1|doctor's opinion when in doubt;; 0|prescriptions required
+hero: gen-rehab-stairs.jpg
+duo: exostride-elderly-couple-afternoon-walk.jpg, exostride-adaptive-power-stairs-closeup.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'd like to learn about ExoStride and check honestly whether it suits my situation before booking a fitting.
+related: exoskeleton-vs-walking-frame-cane-wheelchair, physiotherapist-guide-powered-hip-exoskeleton, exoskeleton-after-hip-or-knee-replacement
+---
+## Why we wrote a guide about who should not buy
+
+The fastest way to waste money on mobility equipment is to buy the right product for the wrong problem. A powered hip exoskeleton solves one problem well: walking that is possible but too tiring, especially on stairs, slopes and longer routes. For other problems it is the wrong tool, and an honest seller should say so before a fitting, not after.
+
+This page is general information, not medical advice. If anything below applies to you or your parent, talk to a doctor or physiotherapist first.
+
+## The three questions to answer first
+
+- Can the person stand up and walk on their own, with or without a stick? If not, a hip exoskeleton is not the right starting point.
+- Is the main problem effort or balance? Heavy legs, running out of energy and avoiding stairs point to effort. Wobbling, near-falls and needing to hold on point to balance.
+- Is there anything a doctor has said about walking, exercise or the hips that has not been checked against using an assist device?
+
+If the answers are yes, effort and no, an exoskeleton may be worth a trial. Otherwise, read on.
+
+## When it is the wrong tool
+
+- Unable to stand or walk independently. The device adds to the movement you make; it does not create movement. A wheelchair, transfer aid or supervised rehabilitation is the right category.
+- Balance as the main limitation. The exoskeleton does not provide a support point to lean on. A stick, frame and balance training are first-line. Our [comparison of mobility aids](guide:exoskeleton-vs-walking-frame-cane-wheelchair) explains the difference.
+- Severe breathlessness or chest pain on walking. Reducing the leg effort does not address the reason walking is hard. See a doctor.
+- Pain that is the main reason for not walking. If walking hurts, the cause needs to be assessed, not worked around.
+
+## When to get a doctor's go-ahead first
+
+These are not automatic exclusions, but they need a medical opinion before the first try:
+
+- A recent operation on the hip, knee, spine or abdomen, or any surgery where you have been told to limit movement or loading. Our guide to [life after a joint replacement](guide:exoskeleton-after-hip-or-knee-replacement) covers this in detail.
+- A recent fracture or significant injury of the leg, pelvis or spine.
+- Skin that is fragile, broken or slow to heal where the belt and thigh straps sit.
+- Significant swelling of the legs, or circulation problems where straps could be a concern.
+- Any implanted medical device, or a condition where your doctor has advised caution with electronic or motorised equipment worn on the body.
+- Pregnancy, because the belt sits around the pelvis.
+- Conditions affecting judgement or memory, where the wearer may not be able to say if something is uncomfortable.
+
+[[duo]]
+
+## When it may be fine, but not the best value
+
+Some people can use the device perfectly well but will not get much from it. If you walk long distances comfortably, climb stairs without thinking about it and are not trying to extend your range, the assistance may feel pleasant but unnecessary. Equally, if every journey you make is by car door to door, there may be too little walking for it to matter.
+
+## What we suggest instead of guessing
+
+If you are unsure, show this page to the person's doctor or physiotherapist. Our [guide for physiotherapists](guide:physiotherapist-guide-powered-hip-exoskeleton) explains what the device assists in clinical terms. And remember that a fitting with the Singapore team is a trial on your own route, not a commitment. If it does not suit, it is far better to find out on the stairs at home than after a purchase.
+
+## If it is a no for now
+
+A no is not always permanent. Someone recovering from surgery may become a good candidate once they are cleared and walking independently. Someone whose balance improves with training may find that effort becomes the limiting factor later. And a person for whom a hip exoskeleton is the wrong tool may still benefit from the right one: a stick, a frame, a rollator, home modifications or a physiotherapy programme. The aim is the same in every case: walking the routes that matter, safely.
+
+## FAQ
+
+? Do I need a prescription to buy one?
+No. The US-H-1.0Pro is a consumer mobility-assist device and does not need a prescription. That is exactly why it is worth checking suitability with a doctor or physiotherapist yourself when any of the points above apply.
+
+? My parent uses a walking frame. Can they switch to an exoskeleton?
+Not as a straight swap. A frame provides support for balance; the exoskeleton reduces effort. Some people use both. Ask their physiotherapist before changing aids.
+
+? Is there a weight or height limit?
+Fit depends on waist and thigh measurements and on the configuration supplied. Ask the Singapore team before booking, and the fitting will confirm it.
+
+? What if we try it and it does not suit?
+That is what the fitting is for. It is done on your own route, so you will know whether it helps before deciding anything.

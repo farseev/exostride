@@ -1,0 +1,92 @@
+order: 8
+slug: tracking-progress-with-a-powered-exoskeleton
+w: W1
+pillar: Intelligent Rehabilitation
+title: Is it working? What to track in the first month with an exoskeleton
+desc: A simple, equipment-free log for the first month with a powered hip exoskeleton: what to write down, what good progress looks like, and when to adjust.
+keywords: is my exoskeleton working, exoskeleton progress tracking, measuring walking improvement, exoskeleton first month, walking log for seniors
+q: How do you know if a powered exoskeleton is actually helping?
+a: Track the same few things before and after: one route you care about, how far you walked, how many times you stopped to rest, how many flights of stairs you managed, and how tired you felt afterwards on a 0 to 10 scale. Write them down for a week without the device, then for four weeks with it. If the route gets easier, longer or more frequent, it is helping you. If nothing changes after a month, talk to the team and your physiotherapist rather than persisting.
+stats: 5|things to write down;; 4 weeks|to judge fairly;; 0|gadgets needed
+hero: exostride-rehabilitation-walk-park-singapore.jpg
+duo: exostride-wet-market-morning-run.jpg, exostride-climbing-stairs-confidence.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'd like to learn about ExoStride and how we could measure whether it helps on my own route.
+related: how-to-judge-exoskeleton-performance-claims, physiotherapist-guide-powered-hip-exoskeleton, daily-walking-routine-older-adults-singapore
+---
+## Why your own numbers matter more than ours
+
+Every exoskeleton brand publishes performance figures. For the ExoStride US-H-1.0Pro, the manufacturer claims up to 80% less lower-body load per step, up to 35% less energy on climbs and two to three times the walking range. Those are manufacturer claims, measured under the manufacturer's conditions. They are a reason to try the device, not a prediction of what it will do for you.
+
+What actually matters is simple: does the person walk more, more comfortably, on the routes they care about? You can answer that without any equipment, as long as you write things down.
+
+## The five things to record
+
+Use a notebook, a calendar on the fridge or a note on a phone. After each walk, record:
+
+- The route: the same named route each time, such as "home to market and back".
+- Distance or time: either works, as long as you are consistent. A phone step counter is fine if you already use one.
+- Rest stops: how many times you stopped to sit or lean.
+- Stairs: how many flights climbed without stopping.
+- Effort: how tiring it felt afterwards, on a scale from 0 (no effort) to 10 (the hardest possible).
+
+Add one line of comments if something stood out, such as "very hot", "slept badly" or "walked with a friend".
+
+## First, a baseline week without the device
+
+If you can, record a normal week before the device arrives. Without a baseline, it is hard to tell whether a good day is down to the assistance or the weather. If a week is not possible, record two or three walks of the main route, unassisted, with someone alongside.
+
+## The first four weeks
+
+Keep the route the same for the first fortnight so the comparison is fair. A sensible pattern, which the fitting team will adjust to the person:
+
+- Week 1: get used to the feel. Expect your records to be similar to the baseline, or a little better.
+- Week 2: the same route, with the assistance level the fitting team set. This is where changes in rest stops and effort usually show.
+- Weeks 3 and 4: extend the route by one stretch, or add a route that had been given up.
+
+[[duo]]
+
+## What progress looks like
+
+Progress is not always a bigger number. Any of these is a good sign:
+
+- Fewer rest stops on the same route.
+- A lower effort score for the same walk.
+- The same walk done on more days of the week.
+- A route that had been given up, done again.
+- Less tiredness the evening after a walk.
+
+If the effort score drops but distance does not change, that still counts. Many people care more about arriving home with energy left than about walking further.
+
+## When to adjust, and when to stop
+
+- If effort scores go up, or new aches appear, stop and contact the team. Fit and assistance level can often be adjusted.
+- If nothing changes after four weeks of regular use, raise it honestly with the team and with a physiotherapist. The device may not suit the problem. Our guide to [who a hip exoskeleton is not for](guide:who-should-not-use-powered-hip-exoskeleton) covers the common reasons.
+- If there is pain, dizziness, a fall or a near-fall, stop and see a doctor.
+
+## Share the log
+
+A written log is the most useful thing to bring to a physiotherapy appointment. It turns "I think it's better" into evidence. Our [guide for physiotherapists](guide:physiotherapist-guide-powered-hip-exoskeleton) suggests how the treating physio can set the target route. And if you want to understand how researchers measure the same things in a lab, see our guide to [judging exoskeleton performance claims](guide:how-to-judge-exoskeleton-performance-claims).
+
+## A sample week of entries
+
+- Mon: home to market and back, 25 min, 2 rest stops, 1 flight, effort 6.
+- Wed: same route, 24 min, 2 rest stops, 1 flight, effort 5, hot.
+- Fri: same route, 23 min, 1 rest stop, 2 flights, effort 5.
+- Sun: park loop with family, 35 min, 2 rest stops, 0 flights, effort 4.
+
+Four lines a week is enough to see a trend.
+
+## FAQ
+
+? Do I need a fitness tracker or smartwatch?
+No. A notebook works. If you already use a phone step counter or watch, it can help with distance, but rest stops, stairs and how it felt are just as important and need only a pen.
+
+? How long before I should notice a difference?
+Some people feel the assistance immediately on stairs. Changes in routine and stamina take longer, which is why a fair judgement needs about four weeks of regular use.
+
+? Should I compare my results with the manufacturer's figures?
+Not directly. The manufacturer's figures are claims measured under specific conditions. Your own log on your own route is the better test of whether it helps you.
+
+? Can the app track this for me?
+The app is optional and used for settings. Walking never requires it. A simple written log is the most reliable record and easy to share with a physiotherapist.

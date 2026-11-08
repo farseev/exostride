@@ -1,0 +1,91 @@
+order: 12
+slug: how-to-read-an-exoskeleton-spec-sheet
+w: W2
+pillar: Smoother Commutes
+title: How to read an exoskeleton spec sheet: the numbers that matter
+desc: Torque, weight, battery, charge time, IP rating, joints assisted and control: a plain-language walk through an exoskeleton spec sheet, line by line.
+keywords: exoskeleton specifications explained, how to compare exoskeletons, exoskeleton spec sheet, what to look for in an exoskeleton, exoskeleton buying guide specs
+q: What should you look for on an exoskeleton spec sheet?
+a: Seven lines matter most: which joint it assists, peak torque, total weight and where it sits, assistance time per charge, charge time, ingress (IP) rating and how it is controlled. Read each in context: torque only matters if it is well timed, battery hours depend on terrain, and weight matters less than where it rests. Performance percentages are a separate category; they are manufacturer claims and should be read as "up to", under the maker's test conditions. For the ExoStride US-H-1.0Pro: hip, 16 Nm, 2.4 kg, up to 4 h, 2 h, IP54, one button.
+stats: 7|lines that matter;; 16 Nm|US-H-1.0Pro peak torque;; IP54|US-H-1.0Pro sealing
+hero: exostride-commuter-hip-exoskeleton-overpass.jpg
+duo: exostride-adaptive-power-stairs-closeup.jpg, exostride-station-stairs-dhoby-ghaut.jpg
+og: og-commute.jpg
+wa: Hi, I'm comparing exoskeletons and would like the full ExoStride US-H-1.0Pro specification. Can you help?
+related: hip-torque-16nm-explained, how-to-judge-exoskeleton-performance-claims, exoskeleton-weight-explained
+---
+## Why spec sheets are hard to compare
+
+Exoskeleton makers do not publish their specifications in the same format. One lists torque per joint, another lists combined torque. One quotes battery life in hours, another in kilometres. Some list weight without the battery. Performance percentages sit right next to measured specifications as if they were the same kind of number. They are not.
+
+This guide goes through a spec sheet line by line, using the ExoStride US-H-1.0Pro as the worked example, and says what each line tells you and what it does not.
+
+## 1. Which joint is assisted
+
+This is the most important line and often the least prominent. Exoskeletons for walking typically assist the hip, the knee, the ankle, or several joints. Each changes a different part of the step. Hip devices help lift the leg, which is where much of the effort of stairs and slopes goes. Knee devices tend to focus on support and the knee's extension. Ankle devices assist push-off.
+
+US-H-1.0Pro: hip, in the flexion direction. Our guide to [hip, knee and ankle exoskeletons](guide:hip-vs-knee-vs-ankle-exoskeleton) compares the three.
+
+## 2. Peak torque
+
+Torque is rotational force at the joint, measured in newton-metres (Nm). The peak figure is the most the motor delivers at any moment. Higher is not automatically better: beyond what the joint needs, extra torque adds motor weight and battery drain, and badly timed torque feels like a shove.
+
+US-H-1.0Pro: 16 Nm peak at the hip. Our [16 Nm explainer](guide:hip-torque-16nm-explained) covers what that feels like.
+
+## 3. Weight, and where it sits
+
+Check whether the weight includes the battery, and where on the body it rests. Weight at the waist is carried by the pelvis and feels lighter than the same weight further down the leg, which has to be swung with every step.
+
+US-H-1.0Pro: 2.4 kg total, worn at the waist, foldable. See [is 2.4 kg heavy for an exoskeleton?](guide:exoskeleton-weight-explained)
+
+## 4. Assistance time per charge
+
+Battery figures are usually quoted in hours of assistance. That number is only meaningful with terrain attached: stairs and steep slopes draw much more than flat pavement. Look for whether the figure is "up to" and what kind of use it assumes.
+
+US-H-1.0Pro: up to 4 hours of assistance.
+
+## 5. Charge time
+
+Often overlooked, but it decides whether the device is ready again after lunch. A short charge time matters more than a slightly bigger battery if you use the device in two blocks each day.
+
+US-H-1.0Pro: 2 hours to a full charge.
+
+[[duo]]
+
+## 6. Ingress protection (IP rating)
+
+The IP code is a standard rating for protection against solids (first digit) and water (second digit). In a tropical climate it decides whether you can keep walking when the rain starts.
+
+US-H-1.0Pro: IP54, meaning dust-protected and resistant to splashing water from any direction. It is not rated for immersion or pressure jets. Our [IP54 guide](guide:ip54-rating-tropical-climate) reads the two digits in detail.
+
+## 7. Controls and modes
+
+How do you start it, and do you have to change settings while walking? Some devices need an app; some need manual mode changes for stairs. Fewer decisions while walking usually means more consistent use, especially for older users.
+
+US-H-1.0Pro: one button to start, no app needed to walk, terrain-adaptive mode switching, and posture detection that pauses assistance when you sit.
+
+## The line that is not a specification
+
+Most spec sheets end with performance claims: percentages of load reduction, energy saving or range. For the US-H-1.0Pro, the manufacturer claims up to 80% less lower-body load per step, up to 35% less energy on climbs, 30–50% less exertion on a daily commute and two to three times the walking range.
+
+These are a different kind of number. A torque or weight figure describes the hardware. A performance percentage describes what happened to particular people, on particular terrain, under particular test conditions. They are useful for comparison only if you know how they were measured. Our guide to [judging exoskeleton performance claims](guide:how-to-judge-exoskeleton-performance-claims) sets out the questions to ask.
+
+## What is often missing
+
+- Price. For the US-H-1.0Pro in Singapore, pricing is quoted on request by the exclusive seller.
+- Sizing range. Ask for waist and thigh ranges before booking.
+- Classification. Whether the device is sold as a consumer product or registered as a medical device. The US-H-1.0Pro is a consumer mobility-assist device.
+
+## FAQ
+
+? Which spec matters most for stairs?
+The joint assisted and how the torque is timed. Hip assistance targets the lift of the leg, which is where stairs cost the most. A high peak torque that arrives late does less than a modest one that arrives on time.
+
+? Should I compare battery life in hours or kilometres?
+Neither is reliable on its own. Ask what terrain the figure assumes. A stair-heavy day uses more energy than a flat one, whatever the unit.
+
+? Is a lighter exoskeleton always better?
+Not always. A lighter device may have less torque or less battery. Where the weight sits matters as much as the total.
+
+? Are the performance percentages measured specifications?
+No. They are manufacturer claims describing results under the maker's own test conditions. Treat them as "up to" figures, and test the device on your own route.

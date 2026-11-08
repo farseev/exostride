@@ -1,0 +1,95 @@
+order: 29
+slug: bukit-timah-hill-with-and-without-hip-assist
+w: W4
+pillar: For Outdoor Sports
+title: Bukit Timah Hill with and without hip assist: measure it yourself
+desc: A simple, fair way to measure what powered hip assistance changes on Bukit Timah Hill: same route, same pace, two climbs, and the five numbers worth recording.
+keywords: Bukit Timah Hill climb, hiking exoskeleton test, does an exoskeleton help hiking, Bukit Timah summit walk, measure hiking effort heart rate
+q: How can you measure whether a hip exoskeleton helps on a climb like Bukit Timah Hill?
+a: Climb the same route twice, on similar days, at the same pace: once without assistance and once with it. Record five things: time to the summit, average and peak heart rate if you have a watch, rest stops, how hard it felt on a 0 to 10 scale, and how your legs felt on the way down. Repeat the pair at least once. If the assisted climbs are consistently easier at the same pace, the device is working for you. The manufacturer's "up to 35% less energy on climbs" is a claim to test, not a promise.
+stats: 163 m|Singapore's highest natural hill;; 5|numbers to record;; 2+|pairs of climbs for a fair test
+hero: exostride-hiking-forest-trail-singapore.jpg
+duo: exostride-summit-rest-energy-to-spare.jpg, exostride-hiker-boardwalk-macritchie.jpg
+og: og-outdoor.jpg
+wa: Hi, I'd like to learn about ExoStride and test it properly on Bukit Timah Hill. Can we arrange a trail fitting?
+related: trekking-poles-vs-powered-exoskeleton, exoskeleton-metabolic-cost-explained, knee-brace-vs-hip-exoskeleton-hiking
+---
+## Why measure instead of trusting the summit photo
+
+Outdoor exoskeleton marketing is full of summit shots. They tell you that someone reached the top, not what the device changed on the way. If you are considering a powered hip exoskeleton for hiking, the useful question is narrower: on a climb I know, at a pace I choose, how much easier is it?
+
+Bukit Timah Hill is a good test. At 163 m it is Singapore's highest natural hill, it sits in the Bukit Timah Nature Reserve managed by NParks, and the main route to the summit is short and steep. That makes it long enough to tire you and short enough to repeat.
+
+## The rules of a fair test
+
+- Same route: start and finish at the same point, using the same path to the summit.
+- Same pace: the hardest rule. Use a pace you could talk at, and if you have a watch, aim for similar times.
+- Similar conditions: same time of day, similar weather, similar sleep and food.
+- Full recovery: do the two climbs on separate days, or at least with a long rest between.
+- Repeat: one pair of climbs can be luck. Two or more pairs show a pattern.
+
+Alternate the order: unassisted first one week, assisted first the next.
+
+## The five numbers to record
+
+- Time to the summit, start to finish.
+- Heart rate: average for the climb and peak, if you have a watch or chest strap.
+- Rest stops: how many times you stopped.
+- Effort: how hard it felt at the top, from 0 (nothing) to 10 (the hardest possible).
+- Descent: how your legs felt on the way down, from 0 (fresh) to 10 (shaky).
+
+Write them down immediately at the summit and at the end.
+
+## How to read the results
+
+If you kept the pace the same, look at heart rate and effort. Lower heart rate and a lower effort score at the same time suggest the climb cost you less. If you let yourself go faster when assisted, look at time and effort together: faster with the same effort also counts as easier.
+
+Heart rate is a rough measure. Heat, humidity, caffeine and sleep all move it. Do not read much into one pair of climbs; look for the same direction across several. Our guide to [how energy savings are measured](guide:exoskeleton-metabolic-cost-explained) explains why labs use breathing, not heart rate, and why results vary.
+
+[[duo]]
+
+## What the device does on this kind of climb
+
+The ExoStride US-H-1.0Pro adds up to 16 Nm at the hip as each leg lifts (spec-sheet figure). It detects steep terrain and increases assistance automatically. For steep, sustained ascents, the manufacturer claims up to 35% less energy. That is a manufacturer claim under the maker's conditions; your own measurement is what this guide is about.
+
+On the descent, it reduces assistance so it never pushes you forward. Expect the bigger difference on the way up.
+
+## What the result does not tell you
+
+- It does not tell you how the device performs on a multi-hour hike; battery and heat come in. The spec sheet gives up to 4 hours of assistance per charge, and steep climbing draws harder.
+- It does not measure the cost of carrying 2.4 kg on flatter sections.
+- It does not replace training. If you are preparing for an unassisted climb overseas, train unassisted too.
+
+Our [trekking poles comparison](guide:trekking-poles-vs-powered-exoskeleton) looks at the same question from the other side: where poles move effort and where hip assist removes it.
+
+## Practicalities on the hill
+
+- Go early to avoid the heat and the crowds.
+- Bring water, and turn back if you feel unwell.
+- The reserve has rules for visitors; check NParks for current trail status and opening hours before you go.
+- Fittings can be arranged on a trail, so the team can set the assistance level for steep terrain.
+
+## A sample log page
+
+Keep the log in the same format every time so the climbs are easy to compare. One line per climb is enough:
+
+- Date, start time and weather, for example "Sat 7:10, 27°C, overcast".
+- Assisted or unassisted, and the assistance level if you changed it.
+- Time to summit, rest stops, average and peak heart rate.
+- Effort at the top and leg feel on the way down, each from 0 to 10.
+
+After four climbs you will have two fair pairs. Compare unassisted with assisted within each pair first, then look across the pairs. A consistent gap in effort or heart rate at the same pace is the result that matters; a single fast day is not.
+
+## FAQ
+
+? Do I need a heart rate monitor for this test?
+No. Time, rest stops and your effort score are enough to see a difference. Heart rate adds detail if you have it.
+
+? Will the battery last for Bukit Timah Hill?
+A summit climb and return is well within the spec-sheet figure of up to 4 hours of assistance per charge. Charge it fully before you go.
+
+? Does it help on the way down?
+It reduces assistance on descent so it never pushes you forward. Your legs and the path control the descent; walk carefully.
+
+? Is one test enough to decide?
+No. Do at least two pairs of climbs, alternating which comes first, and look for a consistent difference.

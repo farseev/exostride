@@ -1,0 +1,91 @@
+order: 9
+slug: keeping-up-with-grandchildren-mobility
+w: W1
+pillar: Intelligent Rehabilitation
+title: Keeping up with the grandchildren: school runs and playgrounds
+desc: For grandparents who look after grandchildren in Singapore: the school walk, the playground and long outings on tired legs — and where hip assist helps.
+keywords: grandparent mobility keeping up with grandchildren, grandparents childcare Singapore walking, mobility aid for active grandparents, tired legs grandparent, exoskeleton for grandparents
+q: How can grandparents with tired legs keep up with active grandchildren?
+a: Plan outings around rest points, keep both hands free, and reduce the effort of the parts that tire you most: stairs, overhead bridges and the walk home. Many Singapore grandparents do the school run and the playground daily. If effort rather than balance is what slows you down, a powered hip exoskeleton can take some of the work out of each step. It is worn at the waist, leaves both hands free for small hands, and pauses when you sit on the bench.
+stats: 2|hands free for little ones;; 2.4 kg|worn at the waist;; Up to 4 h|assist per charge (spec sheet)
+hero: exostride-elderly-couple-afternoon-walk.jpg
+duo: exostride-wet-market-morning-run.jpg, exostride-climbing-stairs-confidence.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I look after my grandchildren and would like to learn about ExoStride for the school run. Can we arrange a fitting?
+related: wearing-a-mobility-aid-in-public, daily-walking-routine-older-adults-singapore, exoskeleton-battery-life-explained
+---
+## The most demanding job of retirement
+
+In many Singapore families, grandparents are the after-school plan. The day might include a walk to the bus stop, the school gate, an overhead bridge, the playground, the market for dinner and back up to the flat, often carrying a school bag. It is a lot of walking for anyone, and more so for knees and hips in their seventies.
+
+Grandparents rarely complain about it. More often they quietly cut things out: the playground becomes the void deck, the outing to the park becomes the television. This guide is about keeping the good parts.
+
+## Plan the outing around rest points
+
+Children run; grandparents do not need to. Choose outings where you can sit while the children play:
+
+- Playgrounds with shaded benches facing the play area.
+- Parks with a loop path, so the children can lap you while you walk at your own pace.
+- Malls on hot or rainy days, with lifts, seating and toilets.
+
+Before a longer outing, think through the return journey. Most people tire on the way home, not the way out.
+
+## Keep both hands free
+
+A child's hand in one hand and a school bag in the other leaves nothing for the handrail. Small changes help:
+
+- Use a backpack for the school bag and the water bottles.
+- Teach older grandchildren to hold the handrail on stairs themselves.
+- Leave the umbrella in the bag unless it is raining.
+
+Any walking aid that needs a hand has a cost here. A stick competes with a small hand. This is one place where a hands-free aid has a real advantage.
+
+## Where a powered hip exoskeleton can help
+
+The ExoStride US-H-1.0Pro is a slim belt at the waist with short links on the outside of each thigh, worn over clothing. It adds up to 16 Nm of assistance as each leg lifts (spec-sheet figure), adjusts automatically for stairs and slopes, and pauses when you sit on the playground bench. The manufacturer claims up to 80% less lower-body load per step and up to 35% less energy on climbs; those are manufacturer claims, and what you feel will depend on you and your route.
+
+[[duo]]
+
+In practice, grandparents tend to notice it on:
+
+- The overhead bridge on the way to school.
+- The stairs at the MRT station or the playground.
+- The walk home at the end of the afternoon, when legs are heaviest.
+
+It runs for up to 4 hours of assistance per charge and charges fully in two hours, which covers a typical afternoon. Our guide to [battery life](guide:exoskeleton-battery-life-explained) explains how stairs and slopes affect that.
+
+## What it is not
+
+It is not a balance aid, and it will not catch you if a child pulls you off balance. If you are unsteady, a physiotherapist can advise on the right aid and exercises. It is also not something children should play with; fold it away out of reach when you take it off.
+
+## The pride question
+
+Some grandparents worry that wearing a mobility aid in front of the grandchildren, or the other parents at the school gate, will make them look frail. Children are usually more curious than anything else, and some will simply think it looks like a robot suit. Our guide to [wearing a mobility aid in public](guide:wearing-a-mobility-aid-in-public) has practical ideas for the adults.
+
+## For the parents reading this
+
+If your parents look after your children, the outings they quietly drop are a sign. Ask which part of the day is hardest. If it is stairs or the walk home, a trial fitting on that exact route is a practical, low-pressure way to find out whether hip assistance helps.
+
+## A sample school-run afternoon
+
+A realistic plan for a grandparent doing the afternoon pick-up:
+
+- Charge the device in the morning and put it on after lunch, seated.
+- Walk to school using the route with the fewest stairs, even if it is a little longer.
+- Sit on a shaded bench at the playground while the children play; assistance pauses on its own.
+- Walk home before the children are tired, so nobody needs carrying.
+- Take the device off in your usual chair and put it back on charge.
+
+## FAQ
+
+? Can I carry a child while wearing it?
+The device assists your walking; it does not support extra weight. Lifting and carrying a child adds load, so be careful on stairs and use the handrail. Talk to your doctor if lifting is a concern.
+
+? Will the battery last a whole afternoon?
+Up to 4 hours of assistance per charge, according to the spec sheet. Assistance is delivered as you walk, and stair-heavy routes draw more, so charge it fully before a long outing.
+
+? Can I sit on the playground bench with it on?
+Yes. Posture detection pauses assistance when you sit and resumes when you stand, so there is nothing to switch.
+
+? Is it safe around young children?
+Treat it like any electrical device: fold it away out of reach when you are not wearing it, and keep small fingers away from the hip joints while you are walking.

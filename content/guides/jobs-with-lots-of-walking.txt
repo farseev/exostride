@@ -1,0 +1,92 @@
+order: 27
+slug: jobs-with-lots-of-walking
+w: W3
+pillar: Smoother Commutes
+title: On your feet all shift: hip assist for jobs with lots of walking
+desc: For security, cleaning, retail, hospital and delivery staff: managing a walking-heavy shift, stairs and fatigue — and where powered hip assist fits.
+keywords: tired legs from walking at work, jobs with lots of walking, exoskeleton for workers walking, reduce leg fatigue at work, walking all day at work tips
+q: Can a powered hip exoskeleton help people whose jobs involve a lot of walking?
+a: It can help with the walking and the stairs, which is where it is designed to work. A hip exoskeleton reduces the effort of lifting each leg, so patrols, rounds, stair-heavy deliveries and long corridors cost less energy. It does not help with lifting, carrying or long periods of standing still, and it is not personal protective equipment. Check with your employer and workplace safety rules before wearing it at work, and talk to a doctor if leg pain is a problem.
+stats: Up to 4 h|assist per charge (spec sheet);; 2 h|charge, e.g. over a meal break;; Pauses|when you sit, automatically
+hero: exostride-commuter-hip-exoskeleton-overpass.jpg
+duo: exostride-station-stairs-dhoby-ghaut.jpg, exostride-commuter-portrait-mrt-singapore.jpg
+og: og-commute.jpg
+wa: Hi, my job involves a lot of walking and stairs. I'd like to learn about ExoStride and whether it would suit my shifts.
+related: exoskeleton-battery-life-explained, powered-vs-passive-exoskeleton, walking-in-singapore-heat-commute
+---
+## The walking nobody counts
+
+Some jobs involve far more walking than people realise. Security officers patrol buildings and car parks. Hospital porters and nurses cover long corridors. Cleaners and estate maintenance staff climb stairwells. Delivery riders walk the last stretch up to the flat. Retail and hospitality staff are on their feet for the whole shift. By the evening, many of them are as tired as if they had walked a long hike, and many of them are in their fifties and sixties.
+
+## Where the effort goes on a walking shift
+
+- Distance: many hours of walking at a steady pace, with little sitting.
+- Stairs: stairwells in HDB blocks, car parks and older buildings.
+- Heat: outdoor rounds in Singapore's heat and humidity.
+- Standing: long periods standing still at counters or posts.
+- Carrying: equipment, trolleys, parcels.
+
+A walking assist device addresses the first two. The others need different solutions.
+
+## Practical habits that help on any shift
+
+- Good, well-fitted shoes with cushioning, replaced before they wear flat.
+- Using lifts for long climbs where your route allows it.
+- Short sitting breaks when possible, rather than one long break.
+- Water through the shift, especially on outdoor rounds.
+- Varying routes where you can, so the stairs are not always at the end.
+
+## Where powered hip assistance fits
+
+A powered hip exoskeleton such as the ExoStride US-H-1.0Pro adds torque at the hip as each leg lifts, up to 16 Nm on the spec sheet, and increases assistance automatically on stairs and slopes. For the commute, the manufacturer claims 30–50% less exertion across a day; for climbs, up to 35% less energy. Those are manufacturer claims, and actual results depend on the person and the route.
+
+[[duo]]
+
+For a walking-heavy shift, that means:
+
+- Rounds and corridors: light assistance on the flat, adding up over hours.
+- Stairwells: the biggest difference, where each step lifts the body.
+- Sitting breaks: posture detection pauses assistance when you sit, saving battery.
+- Hands free: nothing to hold, so you can carry a radio, a tablet or a parcel.
+
+It weighs 2.4 kg, is worn over clothing or a uniform, and is IP54-rated against dust and splashing water.
+
+## What it is not for
+
+- Lifting and carrying. It assists walking, not the back or arms. For lifting tasks, workplaces use other equipment and training. Passive exoskeletons for lifting exist; see [powered vs passive exoskeletons](guide:powered-vs-passive-exoskeleton).
+- Standing still. It assists movement, not static standing.
+- Safety equipment. It is not personal protective equipment and does not replace safety boots, harnesses or other required gear.
+
+## Battery across a shift
+
+The spec sheet gives up to 4 hours of assistance per charge, and a full charge takes two hours. Because assistance is delivered only while you walk and pauses when you sit, a shift with breaks stretches further. For a long shift, charge during the meal break. Our [battery guide](guide:exoskeleton-battery-life-explained) explains how stairs and slopes change the hours.
+
+## Talk to your employer first
+
+Before wearing any device at work, check with your supervisor. Some workplaces have rules about equipment worn on the body, uniforms, or devices with batteries, especially in healthcare, food handling or secure sites. An employer may also be interested in it as a way to support older workers.
+
+## When leg pain is the problem
+
+If your legs or hips hurt rather than just feel tired, see a doctor. Pain that comes on during work has a cause worth finding.
+
+## Building it into a shift
+
+If you and your employer decide to try it, start with part of a shift rather than the whole day. Wear it for the rounds or the stair-heavy part of the work first, and note how your legs feel at the end compared with a normal day. Keep it on its charger during your meal break. After a week or two, you will know whether to wear it for the whole shift or only for the parts that tire you most. Our guide to [walking in Singapore heat](guide:walking-in-singapore-heat-commute) has pacing tips for outdoor rounds.
+
+## A note for employers
+
+Older workers often know their routes best and tire most on them. A trial on the real route, with the worker's agreement and a clear check of workplace rules, is a practical way to find out whether walking assistance helps your team.
+
+## FAQ
+
+? Can I wear it under my uniform?
+It is designed to be worn over clothing at the waist and thighs. Ask your employer whether it can be worn over your uniform.
+
+? Will it help with lifting boxes?
+No. It assists walking, specifically lifting the leg as you step. It does not support the back or arms when lifting.
+
+? Is it allowed in hospitals or secure sites?
+That depends on the workplace's rules. Check with your employer before wearing it at work.
+
+? Can I charge it at work?
+It charges fully in two hours with its charger. A meal break is often enough for a useful top-up; ask your employer about a place to charge it.

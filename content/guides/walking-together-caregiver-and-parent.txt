@@ -1,0 +1,94 @@
+order: 10
+slug: walking-together-caregiver-and-parent
+w: W1
+pillar: Intelligent Rehabilitation
+title: Walking together again: pacing outings with an older parent
+desc: How adult children and helpers can plan shared walks with an older parent: pace, routes, rest stops, heat and the quiet signs of tiredness.
+keywords: walking with elderly parent, outings with elderly parent Singapore, how to walk with an older person, caregiver walking tips, elderly parent tires easily walking
+q: How do you plan a walk with an elderly parent who tires easily?
+a: Let them set the pace, plan the route backwards from the way home, and build in a rest stop before they need one. Choose shade, seats and toilets, walk early or late in the day, and watch for quiet signs of tiredness such as shorter steps, a dragging foot or going silent. If effort on stairs and slopes is what limits the outing, a powered hip exoskeleton can reduce the work of each step; if balance is the issue, ask a physiotherapist about the right aid.
+stats: 1|pace setter, and it's not you;; 2|hands free for both of you;; 16 Nm|peak hip assist (spec sheet)
+hero: gen-rehab-couple.jpg
+duo: exostride-elderly-couple-afternoon-walk.jpg, exostride-rehabilitation-walk-park-singapore.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'd like to learn about ExoStride so my parent and I can walk together more. Can we book a fitting on our usual route?
+related: exoskeleton-for-elderly-parent-caregiver-guide, daily-walking-routine-older-adults-singapore, fear-of-falling-walking-confidence
+---
+## The outing that used to be easy
+
+There is a moment many adult children recognise. The Sunday walk around the reservoir, the trip to the temple or the family dinner across town starts to end early. A parent who used to stride ahead now says "you go, I'll wait here". Nobody decides to stop going out together; it just happens, one shortened outing at a time.
+
+This guide is about getting those outings back, with your parent still in charge of them.
+
+## Let them set the pace
+
+The single biggest change is also the simplest: walk at their speed, not yours. Adults walking with an older parent often slow down without realising they are still pulling slightly ahead. That creates pressure to keep up, which is tiring and can lead to rushed, careless steps.
+
+- Walk beside them, not in front.
+- If you are pushing a pram or carrying bags, let them lead.
+- Stop when they stop, without comment.
+
+## Plan the route backwards
+
+Most people tire on the way back. Plan the outing from the return journey:
+
+- Where is the nearest taxi stand or bus stop to the furthest point?
+- Is there a route home with fewer stairs, even if it is longer?
+- Where are the seats, toilets and shade?
+
+A loop with a café or bench at the halfway point works better than an out-and-back walk to a distant destination.
+
+## Rest before it is needed
+
+Build in a sit-down at regular intervals, and take it whether or not your parent asks. Many older people will not ask for a rest because they do not want to slow the family down. Making it part of the plan removes the awkwardness.
+
+## Watch for the quiet signs
+
+People rarely say "I'm exhausted". Watch instead for:
+
+- Shorter steps, or a foot that scuffs the ground.
+- Holding on to railings or walls more than usual.
+- Going quiet, or becoming irritable.
+- Asking how much further it is.
+
+When you see these, find a seat. Pushing on is when stumbles happen.
+
+[[duo]]
+
+## Mind the heat
+
+Singapore's heat and humidity are hard on older bodies. Walk in the early morning or late afternoon, carry water for both of you, and choose covered walkways and shaded paths. On very hot days, a mall walk is a perfectly good outing. Our guide to [walking in Singapore heat](guide:walking-in-singapore-heat-commute) has more on pacing.
+
+## When effort is the limit
+
+If your parent can walk but runs out of energy, especially on stairs, slopes and overhead bridges, reducing the effort of each step can extend the outing. The ExoStride US-H-1.0Pro is a powered hip exoskeleton worn over clothing at the waist. It adds up to 16 Nm of assistance as each leg lifts (spec-sheet figure), adjusts on its own for stairs and slopes, and pauses when they sit down. The manufacturer claims up to 80% less lower-body load per step and two to three times the walking range; those are manufacturer claims, and individual results vary.
+
+Because nothing is held in the hands, your parent can hold your arm or a handrail. That matters on stairs.
+
+If balance rather than effort is the issue, a stick or frame recommended by a physiotherapist is the better tool. Our [caregiver's guide](guide:exoskeleton-for-elderly-parent-caregiver-guide) covers how to choose and how to raise the subject.
+
+## Do not take over
+
+The aim is a shared walk, not a supervised one. Avoid narrating every kerb, holding their arm without being asked, or deciding for them when the walk is over. Ask. Most parents will tell you more about how they feel if they do not feel managed.
+
+## A sample Sunday outing
+
+- Choose a loop in a park near a taxi stand or bus stop, with a café or bench at the halfway point.
+- Leave early, before the heat builds.
+- Walk side by side at your parent's pace and stop at the halfway point whether or not they ask.
+- Decide together whether to finish the loop or head straight home.
+- Keep a note of how far you went, so next week can be a little longer if they want.
+
+## FAQ
+
+? My parent insists they are fine but always stops early. What should I do?
+Plan the rest stops in advance so they do not have to ask. Choose shorter loops with a pleasant halfway point. If they still tire quickly, a check with their doctor is worth it.
+
+? Should I hold my parent's arm while walking?
+Offer, do not insist. Some people find it reassuring, others feel patronised. On stairs, a handrail is usually more stable than another person's arm.
+
+? Can a hip exoskeleton replace the walking stick on outings?
+Not if the stick is for balance. The exoskeleton reduces effort but does not provide a support point. Many people use both; ask a physiotherapist.
+
+? How long does the battery last on a family day out?
+Up to 4 hours of assistance per charge on the spec sheet, with a full charge in two hours. Stairs and slopes use more, so charge it fully before a long outing.

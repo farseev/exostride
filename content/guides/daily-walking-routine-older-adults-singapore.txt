@@ -1,0 +1,83 @@
+order: 5
+slug: daily-walking-routine-older-adults-singapore
+w: W1
+pillar: Intelligent Rehabilitation
+title: Keeping a daily walk in your 70s and 80s in Singapore
+desc: A realistic daily walking routine for older adults in Singapore: timing around the heat, routes with rest stops, building distance and when assistance helps.
+keywords: daily walking routine elderly Singapore, walking exercise for seniors Singapore, how far should a 75 year old walk, keeping active in old age Singapore, senior walking routes Singapore
+q: How can an older adult keep up a daily walk in Singapore?
+a: Make it short, regular and planned around the climate. Walk early in the morning or in the late afternoon, choose routes with shade, seats and toilets, and build up slowly from a distance that feels easy. Consistency matters more than distance. If stairs, slopes or tiredness are what stop the walk, a powered hip exoskeleton can take some of the effort out of each step. Check with a doctor before starting a new exercise routine, especially after illness or a fall.
+stats: Daily|beats occasional and long;; 2.4 kg|if you add hip assist;; Up to 4 h|assist per charge (spec sheet)
+hero: exostride-rehabilitation-walk-park-singapore.jpg
+duo: exostride-elderly-couple-afternoon-walk.jpg, exostride-wet-market-morning-run.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'd like to learn about ExoStride for keeping up a daily walk. Can we arrange a fitting on my usual route?
+related: park-connector-walks-with-hip-assist, walking-in-singapore-heat-commute, fear-of-falling-walking-confidence
+---
+## Why the daily walk is worth protecting
+
+For many older Singaporeans, the daily walk is more than exercise. It is the trip to the market, the coffee shop catch-up, the stroll around the void deck and the reason to get dressed. When it stops, a lot else stops with it. Protecting the walk is protecting independence.
+
+The good news is that a useful routine does not have to be long or strenuous. What matters most is doing something most days.
+
+## Start with a check, then start small
+
+If you have been unwell, had a fall, have a heart or lung condition, or have not walked regularly for a while, see your doctor before starting. They can tell you whether there is anything to watch for.
+
+Then start with a walk that feels comfortably easy. For some people that is five minutes along the corridor; for others it is a lap of the neighbourhood park. Finish feeling like you could have done a little more. That feeling is what brings you back tomorrow.
+
+## Plan around the heat
+
+Singapore is hot and humid all year, and older bodies handle heat less well. A few habits make a big difference:
+
+- Walk early, before mid-morning, or in the late afternoon once the sun is lower.
+- Choose covered walkways, void decks and tree-lined park paths.
+- Carry water and drink before you feel thirsty.
+- Wear a hat, light loose clothing and shoes with a good grip.
+- On a very hot day, walk indoors instead, such as in a shopping mall or the corridors of your block.
+
+Our guide to [walking in Singapore's heat](guide:walking-in-singapore-heat-commute) goes into pacing and warning signs in more detail.
+
+## Choose routes with somewhere to stop
+
+A route with benches every few hundred metres is far more inviting than one without. Good options in most estates include the neighbourhood park, the estate's covered linkways and the nearest park connector. Our guide to [park connector walks](guide:park-connector-walks-with-hip-assist) covers planning longer, flat routes.
+
+Make each walk end somewhere pleasant: a kopitiam, a friend's block, the market. A walk with a destination happens far more reliably than a walk for its own sake.
+
+[[duo]]
+
+## Build distance slowly
+
+A simple way to progress without overdoing it:
+
+- Weeks 1 and 2: the same short route every day, at the same time.
+- Weeks 3 and 4: add one extra stretch, such as one more block or one more lap.
+- After that: add one longer walk a week, keeping the others short.
+
+Keep a note of each walk. The note is useful for you, and for your doctor or physiotherapist.
+
+## When stairs and tiredness are the problem
+
+Some people can walk on the flat but avoid routes with stairs, slopes or an overhead bridge. Others manage the first half of a walk and dread the way back. In those cases, reducing the effort of each step can keep the routine going.
+
+The ExoStride US-H-1.0Pro is a powered hip exoskeleton that adds up to 16 Nm of assistance as each leg lifts. The manufacturer claims up to 80% less lower-body load per step and a two- to three-fold increase in walking range for this model; those are manufacturer claims and individual results vary. It weighs 2.4 kg, is worn over clothing, starts with one button and pauses when you sit on a bench.
+
+It is not a substitute for the routine itself, and it is not a balance aid. If you are unsteady rather than tired, a walking stick and balance exercises suggested by a physiotherapist come first. Our guide to [fear of falling](guide:fear-of-falling-walking-confidence) covers that side.
+
+## Walking with company
+
+Walking with a friend, a spouse or a walking group makes it much more likely to happen. Many community centres and residents' networks run group walks; ask at yours. If a family member walks with you once a week, make that the longer walk.
+
+## FAQ
+
+? How far should an older adult walk each day?
+There is no single right number. It depends on health, fitness and what your doctor advises. Regular, comfortable walks most days are more useful than an occasional long one. Increase gradually.
+
+? Is it safe to walk in the afternoon heat?
+Midday and early afternoon are the hardest times for older adults. Walk early or in the late afternoon, stay in the shade, drink water, and stop if you feel dizzy, unwell or unusually breathless.
+
+? Does a hip exoskeleton make the walk too easy to be exercise?
+You are still walking on your own legs; it removes part of the effort of lifting each leg. Many people walk further and more often with assistance. If a specific strength goal matters, ask a physiotherapist how to balance assisted and unassisted walks.
+
+? Can I use it on a rainy day?
+It is IP54-rated, which covers splashing water from any direction, such as rain while walking. For your own safety, wet surfaces are still slippery.

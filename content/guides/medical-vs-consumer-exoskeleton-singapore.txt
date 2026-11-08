@@ -1,0 +1,89 @@
+order: 19
+slug: medical-vs-consumer-exoskeleton-singapore
+w: W2
+pillar: Intelligent Rehabilitation
+title: Medical vs consumer exoskeleton: what the label means in Singapore
+desc: What separates a medical exoskeleton from a consumer mobility-assist device, who regulates medical devices in Singapore, and what the label means for buyers.
+keywords: is an exoskeleton a medical device, medical exoskeleton Singapore, consumer exoskeleton, HSA medical device exoskeleton, exoskeleton prescription Singapore
+q: Is a powered exoskeleton a medical device in Singapore?
+a: It depends on how it is made and what it is sold to do. Devices intended to diagnose, treat or rehabilitate a medical condition are regulated as medical devices, which in Singapore falls under the Health Sciences Authority (HSA). Consumer mobility-assist devices are sold to make walking easier, without medical claims. The ExoStride US-H-1.0Pro is a consumer mobility-assist device: no prescription is needed, and it does not diagnose or treat any condition. That is also why it should be used alongside, not instead of, medical care.
+stats: HSA|regulates medical devices in Singapore;; 0|prescriptions for US-H-1.0Pro;; 0|treatment claims made
+hero: exostride-rehabilitation-walk-park-singapore.jpg
+duo: exostride-elderly-couple-afternoon-walk.jpg, exostride-wet-market-morning-run.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'd like to learn about ExoStride and understand how it is classified before booking a fitting.
+related: how-to-judge-exoskeleton-performance-claims, physiotherapist-guide-powered-hip-exoskeleton, who-should-not-use-powered-hip-exoskeleton
+---
+## Why the label matters
+
+Two exoskeletons can look similar and be sold under completely different rules. One is a medical device, with a stated medical purpose and the regulatory process that comes with it. The other is a consumer product, sold to make an everyday activity easier. The difference affects what the seller can claim, who can buy it, how it is used and what you should expect from it.
+
+## What makes something a medical device
+
+In general terms, a product is a medical device when its manufacturer intends it to be used for a medical purpose, such as diagnosing, preventing, monitoring, treating or alleviating a disease or injury, or compensating for or rehabilitating an injury or disability. The intended purpose, as described by the manufacturer, is central.
+
+Exoskeletons sold for clinical gait rehabilitation, often used in hospitals under the supervision of therapists, typically fall into this group.
+
+## Who regulates medical devices in Singapore
+
+In Singapore, medical devices are regulated by the Health Sciences Authority (HSA). Medical devices generally need to be registered before they can be supplied, with requirements that depend on the device's risk class. If a seller describes an exoskeleton as a medical device, it is reasonable to ask about its registration status.
+
+This guide is a plain-language overview, not legal advice. HSA's own website is the authoritative source on the current rules.
+
+## What a consumer mobility-assist device is
+
+A consumer device is sold for general use, without a medical purpose. In the case of a powered hip exoskeleton, that means making walking, stairs and longer routes less tiring for people who can already walk.
+
+The ExoStride US-H-1.0Pro is sold in Singapore as a consumer mobility-assist device. Practically, that means:
+
+- No prescription is needed to buy or use it.
+- It is used at home, on the commute and outdoors, without clinical supervision.
+- It does not diagnose, treat or cure any condition, and we do not claim that it does.
+- Its performance figures (up to 80% less lower-body load per step, up to 35% less energy on climbs, 30–50% less commute exertion, 2–3× range) are manufacturer claims, not clinical outcomes.
+
+[[duo]]
+
+## What the consumer label does not mean
+
+It does not mean the device is a toy, or that safety does not matter. It does mean that judgements about your health remain with your doctor and physiotherapist. If you are recovering from surgery, injury or illness, or if a doctor has advised caution about exercise, ask them before using any walking assist device. Our guide to [who a hip exoskeleton is not for](guide:who-should-not-use-powered-hip-exoskeleton) lists the common situations.
+
+## How to read medical-sounding marketing
+
+Across the industry, consumer products sometimes borrow clinical language. Watch for:
+
+- Words such as treats, cures, heals, reverses or prevents attached to a condition.
+- Claims of being "clinically proven" without saying what was tested, on whom and where it was published.
+- Before-and-after stories presented as evidence.
+
+A consumer device should talk about what it helps you do, not what it does to a disease. Our guide to [judging performance claims](guide:how-to-judge-exoskeleton-performance-claims) has more questions to ask.
+
+## Using a consumer device alongside therapy
+
+Many people use a consumer exoskeleton in daily life while continuing physiotherapy. That can work well when the physiotherapist knows about it and helps set goals. Our [guide for physiotherapists](guide:physiotherapist-guide-powered-hip-exoskeleton) explains what the device does in clinical terms, so the conversation is easier.
+
+## Funding and insurance
+
+Because classification affects how a product is treated by funding schemes and insurers, do not assume that a consumer device is covered by any medical subsidy or policy. Check directly with the scheme or insurer before buying.
+
+## Questions to ask any seller about classification
+
+- Is this device sold as a medical device or as a consumer product?
+- If it is a medical device, is it registered with HSA, and for what intended purpose?
+- If it is a consumer product, does the seller make any medical claims about it?
+- Does the device need a prescription or clinical supervision to use?
+
+Clear answers to these four questions tell you how to read everything else on the box.
+
+## FAQ
+
+? Do I need a doctor's prescription to buy ExoStride?
+No. It is a consumer mobility-assist device. If you have a health condition, recent surgery or injury, talk to your doctor or physiotherapist before using it.
+
+? Can a physiotherapist recommend a consumer device?
+Yes. Physiotherapists often advise on consumer equipment. The decision about whether it suits your recovery is theirs and yours together.
+
+? Is a medical exoskeleton better than a consumer one?
+Not necessarily; they are designed for different jobs. Clinical exoskeletons are often used to help people who cannot walk unaided, under supervision. A consumer hip device is designed for people who can walk but find it tiring.
+
+? Will my insurance or a subsidy cover it?
+Do not assume so. Coverage depends on the scheme or policy and on how a product is classified. Check with them directly before buying.

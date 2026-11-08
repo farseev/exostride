@@ -1,0 +1,79 @@
+order: 13
+slug: exoskeleton-weight-explained
+w: W2
+pillar: Smoother Commutes
+title: Is 2.4 kg heavy for an exoskeleton? Where the weight sits
+desc: What 2.4 kg feels like worn at the waist, why where weight sits matters more than the total, and what happens to that weight when the battery runs flat.
+keywords: how heavy is an exoskeleton, exoskeleton weight, lightweight exoskeleton, 2.4 kg exoskeleton, wearable exoskeleton weight comparison
+q: Is 2.4 kg heavy for a wearable exoskeleton?
+a: Not for a powered device worn at the waist. 2.4 kg is a little more than a 2-litre bottle of water, and on the ExoStride US-H-1.0Pro it rests on the pelvis rather than hanging from the shoulders or swinging at the ankle. Weight low on the leg costs much more energy to walk with than the same weight at the waist. The trade-off is that a lighter device usually means a smaller motor or battery, so total weight only makes sense next to torque and battery figures.
+stats: 2.4 kg|total, worn at the waist;; 16 Nm|peak hip assist (spec sheet);; Folds|for a bag or a shelf
+hero: exostride-commuter-portrait-mrt-singapore.jpg
+duo: exostride-adaptive-power-stairs-closeup.jpg, exostride-hiker-boardwalk-macritchie.jpg
+og: og-commute.jpg
+wa: Hi, I'd like to learn about ExoStride and feel how the 2.4 kg sits before deciding. Can I book a fitting?
+related: how-to-read-an-exoskeleton-spec-sheet, exoskeleton-fit-and-sizing, hip-torque-16nm-explained
+---
+## What 2.4 kg is, in everyday terms
+
+2.4 kg is roughly a 2-litre bottle of water plus a mug, a medium bag of rice, or a laptop with its charger. Carried in your hand, you would notice it within a few minutes. Worn well, at the waist, most people stop noticing it once they are walking.
+
+That difference between carrying and wearing is the whole story of exoskeleton weight.
+
+## Why where the weight sits matters more than how much
+
+When you walk, your legs swing forward with every step. Anything attached low on the leg, such as a heavy shoe or an ankle weight, has to be accelerated and stopped with each stride. It is well established in walking research that added mass is more costly the further it sits from the body's centre, which is why runners care so much about shoe weight.
+
+Weight at the waist, by contrast, moves with the body's centre of mass. It still has to be carried up stairs and slopes, but it does not have to be swung back and forth. That is why a hip-mounted device can weigh more than an ankle brace and still feel lighter in use.
+
+- At the waist: carried by the pelvis, moves with the body, least costly.
+- On the thigh: swung with each step, but close to the hip.
+- At the knee or ankle: swung through the widest arc, most costly per gram.
+
+The US-H-1.0Pro puts its motors and battery at the hip, with only short links along the thigh.
+
+## Weight against what it does
+
+Total weight is meaningless on its own. An unpowered brace can be very light because it has no motor or battery. A powered device must carry both. So compare weight together with:
+
+- Peak torque: 16 Nm for the US-H-1.0Pro.
+- Assistance time: up to 4 hours per charge.
+- Charge time: 2 hours.
+
+A device that is half the weight but delivers far less assistance or runs out after an hour is not lighter in any way that matters. Our [spec-sheet guide](guide:how-to-read-an-exoskeleton-spec-sheet) shows how these lines relate.
+
+[[duo]]
+
+## What happens to the weight when you are being assisted
+
+While the device is working, it adds assistance at the hip as each leg lifts. The manufacturer claims up to 80% less lower-body load per step for this model. Treat that as a manufacturer claim; your own result depends on you, the terrain and the assistance level. Practically, on stairs and slopes most users feel the assistance far more than the weight.
+
+## And when the battery runs out
+
+This is the honest test of any powered device. When the US-H-1.0Pro's battery runs out, it stops assisting but does not lock the legs. You keep walking normally, carrying 2.4 kg at your waist. That is noticeable on a long climb but not a hazard. Planning a charge around longer days avoids it; our [battery guide](guide:exoskeleton-battery-life-explained) covers how.
+
+## Weight for older users
+
+For an older person, weight matters at two moments: putting the device on and carrying it when it is off. Worn at the waist and put on seated, 2.4 kg is manageable for most people after a fitting. Folded, it can sit on a shelf by the door or go in a tote bag. If lifting even that is difficult, a family member can help with putting it on. Our guide to [putting it on seated](guide:how-to-put-on-a-hip-exoskeleton) explains the routine.
+
+## Weight for hikers and commuters
+
+For a commuter, the question is whether it fits in a bag at the office: folded, it does. For a hiker, it is the trade between carrying 2.4 kg and having assistance on the climbs. Our [trekking poles comparison](guide:trekking-poles-vs-powered-exoskeleton) looks at where those grams are earned back.
+
+## How to judge it yourself
+
+Spec sheets cannot tell you how weight feels. At a fitting, walk the same short stretch twice: once with the device switched off, once switched on. The first tells you what the weight feels like; the second tells you whether the assistance outweighs it on your route.
+
+## FAQ
+
+? Is the 2.4 kg including the battery?
+Yes. 2.4 kg is the total weight of the US-H-1.0Pro as worn.
+
+? Will the weight pull my trousers down or press on my back?
+The belt sits on the pelvis, not the waistband, and should be fitted snugly. If it slides or presses on the lower back, the fit needs adjusting; raise it with the team.
+
+? Is it heavy to carry when folded?
+It weighs the same 2.4 kg folded, about the same as a laptop with its charger, and fits in a daypack or tote bag.
+
+? Do lighter exoskeletons exist?
+Unpowered devices can be lighter because they have no motor or battery. Among powered devices, compare weight together with torque and battery figures rather than on its own.

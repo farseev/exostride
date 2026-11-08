@@ -1,0 +1,86 @@
+order: 24
+slug: park-connector-walks-with-hip-assist
+w: W3
+pillar: Smoother Commutes
+title: Park connector walks with hip assist: planning longer routes
+desc: How to plan longer walks on Singapore's park connectors: flat sections, rest and toilet stops, sharing paths with cyclists, battery planning and hip assist.
+keywords: park connector walking Singapore, long walks Singapore, park connector network walking route, walking route for seniors Singapore, how to walk further
+q: How do you plan a longer walk on Singapore's park connectors?
+a: Pick a flat section with shelters, toilets and an easy way home at several points, walk it in the cooler part of the day, keep to the walking side of shared paths, and turn back before you feel tired. Build distance gradually. A powered hip exoskeleton can extend how far you comfortably go: the manufacturer claims a two- to three-fold increase in walking range for the ExoStride US-H-1.0Pro. Plan the battery for the full walk, out and back.
+stats: 2–3×|walking range (manufacturer claim);; Up to 4 h|assist per charge (spec sheet);; IP54|for the sudden shower
+hero: exostride-rainforest-boardwalk-singapore.jpg
+duo: exostride-elderly-couple-afternoon-walk.jpg, exostride-hiker-boardwalk-macritchie.jpg
+og: og-commute.jpg
+wa: Hi, I'd like to walk further on the park connectors. I'd like to learn about ExoStride and try it on a route.
+related: daily-walking-routine-older-adults-singapore, exoskeleton-battery-life-explained, walking-in-singapore-heat-commute
+---
+## Why park connectors suit longer walks
+
+Singapore's Park Connector Network, managed by the National Parks Board (NParks), links parks and green spaces across the island with paths designed for walking, jogging and cycling. For anyone building up walking distance, park connectors have big advantages over streets: few road crossings, mostly flat surfaces, greenery and shade, and regular access points back to housing estates and transport.
+
+They are a good place to turn a short daily walk into an occasional long one.
+
+## Choose the right section
+
+Not every stretch is equally suitable for someone building up distance. Look for:
+
+- Flat sections along canals, rivers and reservoirs rather than hilly park interiors.
+- Regular shelters and benches.
+- Toilets along the way or at the parks the connector joins.
+- Exits back to bus stops or MRT stations at several points, so you can cut the walk short.
+
+NParks publishes maps of the network, and many sections are signposted. Walk a new section in daylight the first time.
+
+## Plan out and back
+
+The most common mistake on long walks is going too far out. Plan the walk as an out-and-back or a loop and turn around while you still feel fresh. A useful rule is to turn back when you have used about 40% of your energy, not 50%, because the return usually feels harder.
+
+Keep a simple note of where you turned and how you felt, so next time you can go one shelter further.
+
+## Share the path safely
+
+Many park connectors are shared with cyclists and personal mobility users. Where paths are marked, keep to the pedestrian side. Walk predictably, look before stepping sideways, and keep to the left on unmarked paths. If you walk with a friend, walk single file when bicycles pass.
+
+## Time it around the heat
+
+Early morning and late afternoon are the most comfortable times. Carry water, wear a hat, and have a plan for a sudden shower, since storms can arrive quickly. Our guide to [walking in Singapore heat](guide:walking-in-singapore-heat-commute) has more on pacing.
+
+[[duo]]
+
+## Where hip assist extends the walk
+
+On a long, flat walk, the problem is not one hard climb but slow accumulation of tiredness. A powered hip exoskeleton removes part of the effort of every step, which adds up over a long distance.
+
+For the ExoStride US-H-1.0Pro, the manufacturer claims a two- to three-fold increase in walking range and up to 80% less lower-body load per step. Those are manufacturer claims; your own increase depends on your fitness, the route and the assistance level. On flat ground the assistance is light, and many users describe it as walking on a gentle downhill. On the short bridges and ramps that cross canals and roads, it ramps up automatically.
+
+It weighs 2.4 kg, is worn over clothing, leaves both hands free and pauses when you sit on a bench. It is IP54-rated, so a passing shower is not a problem for the device.
+
+## Plan the battery like you plan water
+
+The spec sheet gives up to 4 hours of assistance per charge, with a full charge in two hours. On a flat route, that covers a long walk. Charge it fully the night before, and plan the walk so that the return leg is within your battery as well as your legs. If the battery runs out, it stops assisting but does not lock your legs; you walk home normally, carrying 2.4 kg. Our [battery guide](guide:exoskeleton-battery-life-explained) explains how terrain affects the hours.
+
+## Build up gradually
+
+Increase your longest walk by a modest amount each week rather than doubling it. Keep your shorter daily walks going. Our guide to [a daily walking routine](guide:daily-walking-routine-older-adults-singapore) covers that side. If you have a health condition, check with your doctor before taking on longer walks.
+
+## A sample first long walk
+
+- Choose a flat section near home with a bus stop or MRT station at each end.
+- Charge the device fully the night before and set off before the heat builds.
+- Walk at an easy pace to the first shelter beyond your usual distance.
+- Sit for a few minutes, drink water and decide: continue to the next shelter, or turn back.
+- Note how far you went and how you felt, so next week's walk can go a little further.
+
+## FAQ
+
+? Are park connectors suitable for older walkers?
+Many sections are flat, paved and well shaded, with shelters and exits along the way, which makes them a good choice. Pick sections with toilets and transport nearby, and walk at cooler times.
+
+? How far should I walk on my first long walk?
+Only a little further than your usual walk. Turn back while you still feel fresh, and increase gradually over the following weeks.
+
+? Is it a problem to wear the exoskeleton near cyclists?
+No more than walking normally. Keep to the pedestrian side where marked and walk predictably.
+
+? What if it rains during the walk?
+The device is IP54-rated and handles rain while walking. Shelter from heavy storms for your own safety, especially if there is lightning.

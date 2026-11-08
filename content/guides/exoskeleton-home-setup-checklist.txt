@@ -1,0 +1,93 @@
+order: 11
+slug: exoskeleton-home-setup-checklist
+w: W1
+pillar: Intelligent Rehabilitation
+title: Getting the home ready for a powered exoskeleton: a checklist
+desc: Where to keep it, where to charge it, which chair to dress in and what to clear from the floor: a home checklist before a powered hip exoskeleton arrives.
+keywords: exoskeleton home setup, preparing home for mobility aid, where to store exoskeleton, charging exoskeleton at home, elderly home safety walking aid
+q: How should you prepare a home for a powered hip exoskeleton?
+a: Pick one sturdy chair with armrests as the dressing spot, store the folded device beside it rather than on the floor, put the charger within reach of the same spot, and clear trip hazards on the routes it will be used on. The ExoStride US-H-1.0Pro is 2.4 kg and folds, so it needs no special storage, but a fixed routine around one spot makes daily use far more likely. Basic fall-prevention steps at home still apply.
+stats: 1|chair, the same one every day;; 2 h|to a full charge (spec sheet);; 2.4 kg|folded on a shelf
+hero: exostride-wet-market-morning-run.jpg
+duo: exostride-elderly-couple-afternoon-walk.jpg, exostride-adaptive-power-stairs-closeup.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'd like to learn about ExoStride and book a home fitting. Is there anything we should prepare at home?
+related: how-to-put-on-a-hip-exoskeleton, aging-in-place-powered-exoskeleton, exoskeleton-battery-life-explained
+---
+## Why the home set-up decides whether it gets used
+
+Most mobility aids fail not on the walk but at the door. If a device lives in a cupboard, needs hunting for the charger, or has to be put on standing up in a narrow corridor, it gets used less and less. A small amount of planning before the device arrives turns it into part of the daily routine instead of a project.
+
+Everything below can be done in an afternoon, and most of it is useful whether or not you end up using an exoskeleton.
+
+## Choose the dressing spot
+
+Pick one chair and use it every time.
+
+- Firm, stable and with armrests to push up from.
+- Seat height so that the knees are roughly level with the hips when the feet are flat.
+- Not on wheels, and not a low sofa or the edge of a soft bed.
+- Near the main door, so the device goes on as part of leaving the flat.
+- With enough clear space in front to stand up and take the first steps.
+
+Our step-by-step guide to [putting on a hip exoskeleton seated](guide:how-to-put-on-a-hip-exoskeleton) is built around this chair.
+
+## Storage
+
+The US-H-1.0Pro weighs 2.4 kg and folds. Store it:
+
+- Folded, on a low shelf, stool or side table next to the dressing chair, at a height that needs no bending to the floor.
+- Out of reach of small children and pets.
+- Away from direct sunlight and not in a car boot, since sustained heat is bad for any lithium battery.
+- Somewhere dry. It is IP54-rated against dust and splashing water, but it should not sit in a wet bathroom.
+
+## Charging
+
+A full charge takes two hours, and the spec sheet gives up to 4 hours of assistance per charge. The simplest habit is to charge it every time it comes off.
+
+- Put the charger at a socket beside the dressing spot, so charging needs no walking or bending.
+- Route the cable along the wall, never across a walkway.
+- Choose a socket that is easy to reach without kneeling.
+- If an older person will charge it themselves, show them once and leave a simple written note by the socket.
+
+Our guide to [battery life](guide:exoskeleton-battery-life-explained) explains how terrain affects how long a charge lasts.
+
+[[duo]]
+
+## Clear the routes it will be used on
+
+An exoskeleton helps with effort; it does nothing for a loose mat. Walk the routes the person uses most, at home and just outside, and look for:
+
+- Loose rugs and mats, especially at the bathroom and kitchen doors.
+- Cables and clutter on the floor.
+- Poor lighting in the corridor and at the main door, including at night.
+- Shoe racks and pots that narrow the corridor outside the flat.
+- Steps or a raised threshold at the main door or the bathroom that are easy to miss.
+
+Grab bars in the bathroom and good lighting are worth having anyway. For a broader view of staying independent at home, read our guide to [aging in place with a powered exoskeleton](guide:aging-in-place-powered-exoskeleton).
+
+## Plan the first routes
+
+Before the fitting, decide which one or two routes matter most, such as the corridor to the lift, the stairs to the next floor, the walk to the market or the bus stop. The fitting team will walk them with the user, so it helps if they are agreed in advance.
+
+## Who will help, and when
+
+If a family member or helper will assist with putting it on, charging or the first walks, agree it in advance and make sure they attend the fitting. One person who knows how everything works makes a big difference in the first fortnight.
+
+## The first week at home
+
+Keep the first week simple. Use the same chair, the same time of day and the same short route, so the routine forms before the walks get longer. Put a small note by the chair with the order of steps from the fitting, and another by the charger. If anything is awkward, such as a strap that is hard to reach or a cable in the way, change the set-up rather than working around it. Small frictions in the first week are what decide whether the device is still being used a month later.
+
+## FAQ
+
+? Where is the best place for the charger?
+Next to the dressing chair, at a socket you can reach without kneeling, with the cable running along the wall rather than across the floor. Charging then becomes part of taking it off.
+
+? Can it be stored in the bathroom or kitchen?
+It is better kept in a dry room. IP54 covers dust and splashing water, but a humid bathroom is not ideal storage for electronics.
+
+? Do we need to change anything at the HDB block?
+No changes are needed to use it. Stairs and slopes are where the assistance is most noticeable. It is still worth noting which routes have handrails.
+
+? Does the fitting happen at home?
+Yes. A team member brings the unit, sizes it, sets the assistance level and walks the chosen route with the user.

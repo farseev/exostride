@@ -1,0 +1,85 @@
+order: 2
+slug: exoskeleton-after-hip-or-knee-replacement
+w: W1
+pillar: Intelligent Rehabilitation
+title: After a hip or knee replacement: where a hip exoskeleton fits
+desc: Where a powered hip exoskeleton can fit into life after a joint replacement, where it does not, and what to clear with your surgeon and physiotherapist first.
+keywords: exoskeleton after hip replacement, exoskeleton after knee replacement, walking aid after joint replacement, hip assist recovery, powered exoskeleton recovery Singapore
+q: Can I use a powered hip exoskeleton after a hip or knee replacement?
+a: Possibly, but only once your surgeon or physiotherapist has cleared you to bear weight and walk the distances you are aiming for. A powered hip exoskeleton is not part of the early, supervised recovery phase. Where it can help is later: when you are walking independently again but still tire on stairs, slopes or longer routes. It is a consumer mobility-assist device, not a medical device, and it works alongside physiotherapy, never instead of it.
+stats: 1st|ask your surgeon or physio;; 2.4 kg|added at the waist;; 16 Nm|peak hip assist (spec sheet)
+hero: gen-rehab-stairs.jpg
+duo: exostride-wet-market-morning-run.jpg, exostride-elderly-couple-afternoon-walk.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I had a joint replacement and my physio has cleared me to walk. I'd like to learn about ExoStride and whether a fitting makes sense.
+related: physiotherapist-guide-powered-hip-exoskeleton, who-should-not-use-powered-hip-exoskeleton, fear-of-falling-walking-confidence
+---
+## The short version for families
+
+Joint replacement recovery is a clinical process with its own timeline, exercises and restrictions, and those come from the surgical team. Nothing about a consumer exoskeleton changes that. The sensible way to think about a powered hip exoskeleton is as a possible later step: something to consider once the formal recovery work is well under way and walking is safe, but everyday routes still feel harder than they should.
+
+If you only take one thing from this guide, take this: ask the surgeon or physiotherapist before the first try, and bring this page if it helps the conversation.
+
+## Why timing matters
+
+In the early weeks after an operation, the priorities are wound healing, managing swelling and pain, protecting the new joint, and relearning a safe walking pattern with whatever aid the team has prescribed. A hip exoskeleton adds torque at the hip as it flexes. For a newly operated hip, that is a load the surgical team needs to agree to. For a newly operated knee, the hip is not the problem joint, but adding a device to the walking pattern while it is still being retrained is still a decision for the team.
+
+Later, the picture changes. Many people reach a point where they are walking without a frame, the exercises are routine, and the remaining problem is stamina: they can do the walk, but it costs more than it used to and they avoid it. That is where an assist device may have a role.
+
+## What it can and cannot do for you
+
+What the device does, in plain terms:
+
+- It adds up to 16 Nm of assistance at the hip as you lift each leg (spec-sheet figure).
+- It reads your gait and adjusts on its own between level ground, stairs and slopes.
+- It pauses when you sit down and resumes when you stand.
+- The manufacturer claims up to 80% less lower-body load per step and up to 35% less energy on climbs for this model. Those are manufacturer claims; your own result depends on your body, your route and the assistance level.
+
+What it does not do:
+
+- It does not speed up healing or treat the joint.
+- It does not replace the strengthening exercises your physiotherapist prescribes.
+- It is not a balance aid. If you still need a stick for stability, keep the stick.
+- It does not assist the knee directly. After a knee replacement, any benefit comes from making hip flexion cheaper, not from supporting the knee.
+
+## Questions to clear with your surgical team
+
+Take these to your next review. They are written so you can read them out as they are.
+
+- Am I cleared to bear full weight and walk without restriction on distance?
+- Are there any movements or ranges I should still avoid at the hip?
+- Is there any reason a belt at the pelvis and straps on the outer thigh would be a problem for my wound or skin?
+- Would you prefer that some of my walking stays unassisted, for strength?
+- Who should I tell if something feels wrong while using it?
+
+If the answer to the first question is not yet, wait. There is no benefit in rushing.
+
+[[duo]]
+
+## What a sensible first month looks like
+
+Once you are cleared, the Singapore team can do a guided fitting at home or on your own route. The assistance level is set conservatively at first. A pattern that works for many people:
+
+- Week 1: short level walks indoors or along the corridor, 10 to 15 minutes, to get used to the feel.
+- Week 2: one flight of stairs, a ramp or a gentle slope, with the handrail.
+- Weeks 3 and 4: the route you most want back, such as the market, the park or the bus stop.
+
+Keep your physiotherapy exercises going throughout. Write down how far you walked and how you felt, so you have something concrete to show at your next review. Our guide to [fear of falling and walking confidence](guide:fear-of-falling-walking-confidence) covers the other half of recovery that rarely gets discussed: the nerves that stay after the joint has healed.
+
+## For the physiotherapist reading this
+
+If a patient hands you this page, the device is a hip-only, powered flexion assist with automatic terrain switching, no balance function, and a peak of 16 Nm. Our [guide for physiotherapists](guide:physiotherapist-guide-powered-hip-exoskeleton) covers suitability, exclusions and how to set a measurable target route.
+
+## FAQ
+
+? How soon after surgery can I try it?
+There is no product rule for this; it is a clinical decision. Ask your surgeon or physiotherapist, and wait until you are cleared to bear weight and walk independently on the routes you want to use it for.
+
+? Is it safe to wear over a healing scar?
+The belt sits at the pelvis and the links run along the outer thigh. Whether that contact is a problem for your wound depends on where your incision is and how it is healing. Ask your surgical team before wearing it.
+
+? Will it help me stop using my walking stick?
+Not necessarily. A stick provides a support point for balance, which the exoskeleton does not. Some people use both. Whether you can stop using the stick is a question for your physiotherapist.
+
+? Can I try it before deciding?
+Yes. Fittings in Singapore are done on your own route, so you can feel the assistance on the stairs or slope that matters to you before making any decision.

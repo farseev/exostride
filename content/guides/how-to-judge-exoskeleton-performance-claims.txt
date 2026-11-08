@@ -1,0 +1,89 @@
+order: 14
+slug: how-to-judge-exoskeleton-performance-claims
+w: W2
+pillar: Intelligent Rehabilitation
+title: "Up to 80%": how to read exoskeleton performance claims
+desc: What "up to 80% less load" and "2–3× range" can and cannot tell you, the questions to ask any exoskeleton brand, and how to test a claim on your own route.
+keywords: exoskeleton claims, does an exoskeleton really work, exoskeleton evidence, how to read exoskeleton studies, exoskeleton marketing claims explained
+q: How should you read exoskeleton performance claims like "up to 80% less load"?
+a: As the best result under the manufacturer's own test conditions, not as what you will personally get. "Up to" sets a ceiling, not an average. A useful claim tells you what was measured, how, on whom, on what terrain and against what comparison. For the ExoStride US-H-1.0Pro, the 80% load reduction, 35% climbing energy saving, 30–50% commute exertion reduction and 2–3× range are manufacturer claims. The fairest test is your own route, walked with and without the device.
+stats: Up to|means a ceiling, not an average;; 5|questions to ask any claim;; 1|test that counts: your route
+hero: exostride-rehabilitation-walk-park-singapore.jpg
+duo: exostride-climbing-stairs-confidence.jpg, exostride-station-stairs-dhoby-ghaut.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'd like to understand how ExoStride's performance figures were measured, and try it on my own route.
+related: exoskeleton-metabolic-cost-explained, tracking-progress-with-a-powered-exoskeleton, how-to-read-an-exoskeleton-spec-sheet
+---
+## Why this guide exists on a seller's website
+
+ExoStride's own pages quote performance figures. We think the people reading them deserve to know how to read them, including ours. Every brand in this category publishes percentages, and very few explain what is behind them. That leaves buyers, families and physiotherapists either believing everything or believing nothing. Neither is useful.
+
+## Two kinds of number
+
+An exoskeleton spec sheet mixes two different kinds of figure:
+
+- Specifications describe the hardware: 16 Nm peak torque, 2.4 kg, IP54, up to 4 hours of assistance, 2-hour charge. They can be checked on the device.
+- Performance claims describe what happened to people using it: less load, less energy, more range. They depend on who was tested, where, how and against what.
+
+The US-H-1.0Pro's performance figures are manufacturer claims: up to 80% less lower-body load per step, up to 35% less energy on climbs, 30–50% less exertion on a daily commute and two to three times the walking range. Every page on this site labels them that way.
+
+## What "up to" really means
+
+"Up to 80%" means that 80% was the best result observed or achievable under the conditions used. It does not mean the average, and it does not mean the typical user. A range such as "30–50%" is more informative, because it admits variation, but it still depends on conditions.
+
+When you see "up to", read it as: under the right conditions, it can be this much. Then ask what those conditions were.
+
+## Five questions to ask about any claim
+
+- What was measured? Load on a joint, energy used, distance walked and perceived effort are all different things, measured in different ways.
+- How was it measured? In a laboratory with instruments, outdoors with a wearable sensor, or by asking users how it felt?
+- Who was tested? Young healthy adults, older adults, people in rehabilitation? How many?
+- On what terrain? Flat treadmill, stairs, an incline, a real commute?
+- Compared with what? Walking without the device, walking with it switched off, or walking with a different device?
+
+A brand that can answer these is giving you something you can weigh. A brand that cannot is giving you an advertisement. Ask the ExoStride team the same questions; that is a fair request.
+
+[[duo]]
+
+## Lab results and real life
+
+Laboratory measurements are controlled, which makes them good for comparison and poor at predicting daily life. Real routes include heat, crowds, carrying bags, stopping at traffic lights and walking more slowly than on a treadmill. That usually narrows the difference. On the other hand, real life also contains the steepest stairs and the longest walks, which is often where assistance matters most.
+
+Our guide to [how energy savings are measured](guide:exoskeleton-metabolic-cost-explained) explains the most common laboratory method in plain language.
+
+## Testimonials are not evidence, but your experience is
+
+Individual stories can be honest and still unrepresentative. This site does not publish testimonials as proof. What you can trust is a careful comparison you make yourself:
+
+- Pick one route you walk often.
+- Walk it once without the device and once with it, on similar days.
+- Record time, rest stops, stairs climbed and how tired you felt on a 0 to 10 scale.
+- Repeat over a few weeks.
+
+Our guide to [tracking progress in the first month](guide:tracking-progress-with-a-powered-exoskeleton) has a simple log for this.
+
+## Red flags in any exoskeleton marketing
+
+- Medical-sounding promises from a product that is not registered as a medical device.
+- Claims of curing, treating or reversing a condition.
+- A single headline percentage with no mention of terrain or conditions.
+- Before-and-after stories with no way of knowing what else changed.
+- Pressure to buy without a trial on your own route.
+
+## How we label our own figures
+
+On this site, every ExoStride performance figure is described as a manufacturer claim for the US-H-1.0Pro, and the footer of every page repeats that the figures vary with user, terrain and assistance level. Measured specifications, such as 16 Nm, 2.4 kg, IP54, up to 4 hours and 2 hours, are listed separately. If you ever find a figure on this site that is not labelled that way, tell us and we will fix it.
+
+## FAQ
+
+? Are ExoStride's performance figures independently verified?
+They are manufacturer claims for the US-H-1.0Pro, and we label them that way. Ask the Singapore team what was measured and how; the honest test is a fitting on your own route.
+
+? What is the difference between less load and less energy?
+Load refers to the force the body's joints and muscles handle with each step. Energy refers to how much the body burns to walk, usually measured through breathing. They are related but measured differently, so the percentages are not interchangeable.
+
+? Why do different brands' percentages vary so much?
+Because they measure different things, on different people, on different terrain. Two percentages from different test conditions cannot be compared directly.
+
+? What is the most reliable way to judge an exoskeleton?
+Walk your own route with and without it, several times, and write down the results. That tells you more about your situation than any headline figure.

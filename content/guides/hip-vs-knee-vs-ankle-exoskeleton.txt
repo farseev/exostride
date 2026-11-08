@@ -1,0 +1,88 @@
+order: 17
+slug: hip-vs-knee-vs-ankle-exoskeleton
+w: W2
+pillar: Intelligent Rehabilitation
+title: Hip, knee or ankle exoskeleton: which joint should be assisted?
+desc: What each joint does in a step, what hip, knee and ankle exoskeletons change, and how to match the joint to the problem: stairs, stamina, support or push-off.
+keywords: hip vs knee exoskeleton, ankle exoskeleton vs hip exoskeleton, which exoskeleton is best for walking, knee exoskeleton, types of walking exoskeleton
+q: Is a hip, knee or ankle exoskeleton best for walking?
+a: It depends on what makes walking hard. Hip devices help lift the leg forward, which is where stairs, slopes and long walks cost the most effort, and they keep the weight high on the body. Knee devices are usually about support and extension, for example rising from a chair or controlling a bent knee. Ankle devices assist push-off at the end of each step. For stamina on stairs and longer routes, hip assistance is often the most efficient choice; for knee instability or foot drop, a clinician may point elsewhere.
+stats: 3|joints, three different jobs;; Hip|US-H-1.0Pro assists here;; 2.4 kg|carried at the waist
+hero: gen-rehab-stairs.jpg
+duo: exostride-adaptive-power-stairs-closeup.jpg, exostride-climbing-stairs-confidence.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'm trying to work out whether hip assistance suits me. I'd like to learn about ExoStride and try it.
+related: hip-torque-16nm-explained, powered-vs-passive-exoskeleton, exoskeleton-weight-explained
+---
+## Each joint does a different job in a step
+
+Walking looks simple, but each joint has its own role in every stride:
+
+- The ankle pushes off at the end of the step, propelling the body forward.
+- The knee bends to swing the leg through, then straightens and absorbs the shock as the foot lands.
+- The hip swings the whole leg forward and, on stairs or slopes, lifts it up against gravity.
+
+An exoskeleton that assists one joint changes one part of this sequence. Choosing a device is mostly about matching that part to the problem.
+
+## Hip exoskeletons
+
+A hip exoskeleton sits at the waist with links down the thigh and assists the movement of the thigh, usually as the leg swings forward and lifts (flexion), and sometimes as it pushes back (extension).
+
+- Strongest case: stairs, slopes, overhead bridges and long walks, where lifting the leg is what tires you.
+- Weight: carried at the pelvis, close to the body's centre, which makes it less costly to walk with.
+- Knee: left free, so its natural shock absorption is untouched.
+- Limits: it does not support a knee that gives way or an ankle that drops.
+
+The ExoStride US-H-1.0Pro is a hip device. It adds up to 16 Nm in the flexion direction (spec-sheet figure), reads the gait continuously and switches profile automatically between level ground, stairs and steep terrain. Our [16 Nm explainer](guide:hip-torque-16nm-explained) covers why the hip gives the most assistance per gram.
+
+## Knee exoskeletons and braces
+
+Powered knee devices assist extension, for instance when standing up or climbing a step, or help control the knee as it bends. Unpowered knee braces mostly provide support and stability.
+
+- Strongest case: knee weakness, a knee that buckles, or rising from a chair.
+- Weight: sits mid-leg and is swung with every step, so each gram costs more.
+- Limits: it does less for the effort of lifting the whole leg.
+
+If the knee itself is the problem, a doctor or physiotherapist should guide the choice. Our [knee brace and hip assist comparison for hiking](guide:knee-brace-vs-hip-exoskeleton-hiking) covers the outdoor version of this question.
+
+[[duo]]
+
+## Ankle exoskeletons
+
+Ankle devices assist push-off, or in some designs lift the toes during swing. They have been widely studied in research labs because the ankle produces a lot of the power in each step.
+
+- Strongest case: weak push-off, or toes catching the ground.
+- Weight: right at the end of the leg, the most costly place to carry mass.
+- Limits: footwear and fit become critical; they can be harder to put on.
+
+Foot drop and similar problems are clinical issues; a physiotherapist or orthotist is the right person to advise.
+
+## Matching the joint to the problem
+
+- "Stairs and slopes wear me out." Hip.
+- "I can walk, but not as far as I used to." Hip, often.
+- "My knee gives way or hurts." See a doctor; knee support may be relevant.
+- "My toes catch, or my foot slaps down." See a physiotherapist; ankle support may be relevant.
+- "I lose my balance." None of these is a balance aid; a stick or frame and balance training come first.
+
+## What about multi-joint exoskeletons?
+
+Full-leg exoskeletons that assist the hip, knee and ankle together exist, mostly for clinical rehabilitation of people who cannot walk unaided. They are heavier and more complex and are usually used under supervision. For everyday walking by people who can already walk, a single-joint device is lighter and simpler.
+
+## Weight follows the joint
+
+The further from the hip a device sits, the more each gram costs to walk with, because it must be swung with every step. Our guide to [exoskeleton weight](guide:exoskeleton-weight-explained) explains why a hip device can weigh more and still feel lighter. Whether the device is powered or passive matters too; see [powered vs passive exoskeletons](guide:powered-vs-passive-exoskeleton).
+
+## FAQ
+
+? Will a hip exoskeleton help my knee pain?
+It is not designed to treat knee pain. It reduces the effort of lifting the leg, which some people find makes walking easier overall, but if your knee hurts, see a doctor or physiotherapist about the cause first.
+
+? Why do many walking exoskeletons assist the hip?
+On stairs and slopes, the hip does much of the expensive work of lifting the leg, and hardware at the waist is cheaper to carry than hardware lower down the leg.
+
+? Can I wear a knee brace with a hip exoskeleton?
+Often, yes, as long as the brace does not interfere with the thigh links. Bring it to the fitting and ask your physiotherapist whether you still need it.
+
+? Which type is best for older adults?
+For older adults whose main problem is stamina on stairs and longer routes, hip assistance is a common fit. If balance or a specific joint problem is the issue, a clinician should guide the choice.

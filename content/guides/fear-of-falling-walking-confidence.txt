@@ -1,0 +1,83 @@
+order: 4
+slug: fear-of-falling-walking-confidence
+w: W1
+pillar: Intelligent Rehabilitation
+title: Fear of falling: rebuilding walking confidence after a fall
+desc: Why fear of falling shrinks daily life, how to rebuild walking confidence step by step, and where a powered hip exoskeleton fits — and where it does not.
+keywords: fear of falling elderly, walking confidence after a fall, afraid to walk after fall, rebuilding confidence walking, mobility aid fear of falling
+q: How do you rebuild walking confidence after a fall?
+a: Gradually, on routes that matter, with the actual cause of the fall dealt with first. Start with a check-up with a doctor or physiotherapist, fix what made the fall likely, then rebuild short, successful walks before longer ones. A powered hip exoskeleton can help when tiredness is part of the problem, because it takes some of the effort out of stairs and longer walks. It does not stop falls and is not a balance aid; if balance is the main issue, a stick, frame and balance training come first.
+stats: 1st|find the cause of the fall;; 2|hands free for the rail;; 0|devices that prevent every fall
+hero: exostride-elderly-couple-afternoon-walk.jpg
+duo: exostride-wet-market-morning-run.jpg, exostride-climbing-stairs-confidence.jpg
+og: og-rehabilitation.jpg
+wa: Hi, my parent had a fall and has been walking much less since. I'd like to learn about ExoStride and whether a fitting could help.
+related: daily-walking-routine-older-adults-singapore, who-should-not-use-powered-hip-exoskeleton, exoskeleton-vs-walking-frame-cane-wheelchair
+---
+## The fall is one event. The fear can last for years.
+
+A fall often heals faster than the confidence it takes away. Bruises fade in a fortnight; the habit of avoiding the stairs, skipping the market and staying in the chair can settle in for good. Families notice it as a quiet shrinking of routine: fewer outings, shorter walks, more "I'll go tomorrow".
+
+The difficult part is that avoiding walking is understandable and also makes things worse. Less walking means less strength and stamina, which makes the next walk harder and more tiring, which makes a stumble more likely. Breaking that loop is the real goal, and it is mostly about small, successful walks rather than equipment.
+
+## Step one: find out why the fall happened
+
+Before anything is bought, the person who fell should see a doctor. Falls in older adults can have many causes, and some of them are treatable: eyesight, blood pressure on standing, medication side effects, foot problems, or a home hazard such as a loose mat. A physiotherapist can assess strength and balance and suggest the right aid.
+
+This guide does not replace that check. It is about what comes after.
+
+## Step two: separate balance from tiredness
+
+It helps to ask honestly which of these describes the fall:
+
+- Balance: a wobble or loss of footing, often at a turn, a kerb or when standing up.
+- Tiredness: legs that felt heavy, a foot that did not lift high enough on a step, a stumble near the end of a long walk.
+- Environment: a wet floor, poor light, an uneven surface.
+
+Different answers lead to different help. For balance, the established tools are a walking stick or frame, balance exercises and sometimes a home assessment. For environment, it is lighting, rails and removing trip hazards. For tiredness, the options are building stamina gradually and, for some people, reducing the effort each step costs. That last one is where a powered hip exoskeleton can play a part.
+
+## Where a hip exoskeleton fits, honestly
+
+The ExoStride US-H-1.0Pro adds assistance at the hip as each leg lifts, with a peak of 16 Nm on the spec sheet. The manufacturer claims it reduces lower-body load per step by up to 80% and extends walking range by two to three times. Treat those as manufacturer claims; your own experience will depend on your body and your route.
+
+What this can mean in daily life is that the last flight of stairs, or the last stretch home from the market, costs less. Feet that drag when tired may lift more easily on steps. And because nothing is held in the hands, both hands stay free for a handrail.
+
+[[duo]]
+
+What it cannot do is just as important:
+
+- It does not catch you or stop a fall.
+- It does not give you a fixed support point the way a stick or frame does.
+- It does not fix dizziness, poor eyesight or a medication problem.
+
+If the honest answer to step two was balance, start with the aids and training your physiotherapist recommends. Our comparison of [exoskeletons, canes, frames and wheelchairs](guide:exoskeleton-vs-walking-frame-cane-wheelchair) shows what each one restores.
+
+## Step three: rebuild with small wins
+
+Confidence returns through experience, not reassurance. A simple plan:
+
+- Pick one route that was given up, such as the corridor to the lift, the walk to the bus stop or one flight of stairs.
+- Walk it at the best time of day, usually mid-morning, with someone alongside at first.
+- Keep it short enough to finish feeling fine, not exhausted.
+- Repeat it until it feels ordinary, then extend it by one stop, one block or one flight.
+- Write down each walk. Seeing the list grow is more convincing than any encouragement.
+
+Our guide to [keeping a daily walking routine in Singapore](guide:daily-walking-routine-older-adults-singapore) has practical ideas for timing walks around the heat and finding routes with places to rest.
+
+## Talking about it without making it worse
+
+People who are afraid of falling often feel embarrassed about it. "You need to be more careful" tends to land as criticism. "Shall we try the walk to the market together on Saturday?" lands as an invitation. Focus on the place they miss, not the fall.
+
+## FAQ
+
+? Will an exoskeleton stop my parent from falling?
+No device can promise that. A powered hip exoskeleton reduces the effort of walking and can help when tiredness contributes to stumbles, but it does not catch a fall or provide a support point. Talk to their doctor or physiotherapist about fall risk.
+
+? Should they stop using their walking stick?
+Not because of an exoskeleton. A stick provides balance support, which the exoskeleton does not. Many people use both. Any change to walking aids should be agreed with a physiotherapist.
+
+? What if they are too nervous to try it?
+That is common. A single, no-obligation fitting on a short route they already know, with a family member present, is usually the gentlest start.
+
+? Is it heavy to wear?
+It weighs 2.4 kg and sits at the waist, so the weight rests on the pelvis rather than the shoulders.

@@ -386,6 +386,2221 @@ FAQ:
 - Q: Can I train with it for an overseas climb?
   A: Yes, and many users do — but train unassisted sessions too if the summit attempt itself will be unassisted. Assistance changes the training load, which is the point and also the caveat.
 
+<!-- generated-guides:start -->
+### A physiotherapist's guide to powered hip exoskeletons
+
+URL: https://exostride.sg/guides/physiotherapist-guide-powered-hip-exoskeleton/
+
+Question: Should a physiotherapist recommend a powered hip exoskeleton to a client?
+
+Answer: Sometimes, and only as an addition to therapy. A consumer hip exoskeleton such as the ExoStride US-H-1.0Pro adds up to 16 Nm of assistance as the hip flexes, which can make stairs, slopes and longer walks less costly for a client who can already stand and walk. It does not provide balance support, does not replace a gait programme and is not a medical device. The useful question is not "does it work?" but "does it get this client walking their real routes more often, safely, between sessions?"
+
+#### What the device actually assists
+
+The US-H-1.0Pro is a hip-only, powered exoskeleton. A belt sits at the pelvis, short links run down the outside of each thigh, and a motor at each hip adds torque in the flexion direction while the wearer walks. The spec sheet gives a peak of 16 Nm. The control system reads the gait continuously and switches profile between level ground, stairs and steeper terrain on its own, so there is nothing for the client to adjust mid-walk. When the wearer sits, posture detection pauses assistance; when they stand, it resumes.
+
+What it does not do matters just as much for clinical reasoning:
+
+- It does not assist the knee or ankle directly.
+- It does not provide a static support point, so it is not a balance aid in the way a stick or frame is.
+- It does not move a limb that the client cannot move. It adds to voluntary effort; it does not create it.
+- It does not record clinical outcome measures.
+
+Think of it as a way to lower the cost of hip flexion during real-world walking, not as a training robot.
+
+#### Which clients it tends to suit
+
+In practice the clients who get most from a hip assist device share three traits. They can stand up and walk independently, with or without a stick. Their limiting factor is effort and fatigue rather than balance. And there is a specific route they have stopped doing, such as the stairs to the flat, the walk to the market or an overhead bridge on the way to the clinic.
+
+That profile includes many older adults who have slowly lost walking distance, and people who have finished a formal rehabilitation block but still tire quickly. The manufacturer claims up to 80% less lower-body load per step and a 2–3× increase in walking range; treat those as manufacturer claims for this model, measured under the manufacturer's own conditions, and expect individual results to vary widely.
+
+#### Where caution, or a no, is the right answer
+
+A client whose main problem is balance, dizziness or freezing is better served by the aids and training you already use. Anyone who cannot weight-bear, has not been cleared to load a recently operated joint, or has skin that breaks down easily at the belt and thigh contact points needs a clinical decision first. Our guide to who a powered hip exoskeleton is not for sets out the common exclusions in plain language that you can share with families.
+
+ExoStride is sold as a consumer mobility-assist device. It is not registered as a medical device, and nothing on this site should be read as a treatment claim. If a client asks whether it will fix a condition, the honest answer is no; it may make walking less tiring while they work on that condition with you.
+
+#### How to fit it into a programme
+
+The most useful role a physiotherapist can play is defining the route and the measure. A guided fitting from the Singapore team sets the assistance level and walks the client's own route with them, but you know what the client should be working on, and what they should not.
+
+
+- Name one route the client has given up and agree on it as the target.
+- Decide whether some sessions or days should stay unassisted, so that assistance does not quietly replace training you want them to do.
+- Agree a simple measure that the family can record, such as distance walked, number of rest stops, or flights climbed without stopping.
+- Review at two and four weeks, as you would any other home programme.
+
+Our guide to tracking progress in the first month gives a simple log that families can fill in without any equipment.
+
+#### Questions worth asking the seller
+
+Physiotherapists are often the only person in the room who will ask the awkward questions. These are fair ones, and the Singapore team can answer them at a demonstration:
+
+- What exactly is measured to support each performance figure, and under which conditions?
+- How is assistance level set, and can it be lowered for a cautious first week?
+- What happens if the battery runs out mid-walk? (The unit stops assisting but does not lock the legs.)
+- Can a clinician attend the fitting?
+
+You can also compare it against the aids a client already uses in our guide on exoskeletons versus canes, frames and wheelchairs.
+
+
+- Q: Is ExoStride a medical device?
+  A: No. The US-H-1.0Pro is a consumer mobility-assist exoskeleton. It is used without a prescription and does not diagnose or treat any condition. Clinical decisions about loading, gait training and fall risk stay with the client's doctor and physiotherapist.
+- Q: Can a physiotherapist attend the fitting?
+  A: Yes, and it helps. The fitting is done on the client's own route, and having the treating physiotherapist present means the assistance level and target route can be set with the client's programme in mind.
+- Q: Will assistance reduce the training effect of walking?
+  A: It removes part of the effort of hip flexion, so the training load changes. Many clients walk more often and further with assistance; if a specific strength goal matters, keep some sessions unassisted and decide the balance with the client.
+- Q: Does it help with balance?
+  A: Not directly. It reduces fatigue and keeps both hands free for a rail, but it does not provide a fixed support point. If balance is the main limitation, a stick or frame and balance training remain first-line.
+
+### After a hip or knee replacement: where a hip exoskeleton fits
+
+URL: https://exostride.sg/guides/exoskeleton-after-hip-or-knee-replacement/
+
+Question: Can I use a powered hip exoskeleton after a hip or knee replacement?
+
+Answer: Possibly, but only once your surgeon or physiotherapist has cleared you to bear weight and walk the distances you are aiming for. A powered hip exoskeleton is not part of the early, supervised recovery phase. Where it can help is later: when you are walking independently again but still tire on stairs, slopes or longer routes. It is a consumer mobility-assist device, not a medical device, and it works alongside physiotherapy, never instead of it.
+
+#### The short version for families
+
+Joint replacement recovery is a clinical process with its own timeline, exercises and restrictions, and those come from the surgical team. Nothing about a consumer exoskeleton changes that. The sensible way to think about a powered hip exoskeleton is as a possible later step: something to consider once the formal recovery work is well under way and walking is safe, but everyday routes still feel harder than they should.
+
+If you only take one thing from this guide, take this: ask the surgeon or physiotherapist before the first try, and bring this page if it helps the conversation.
+
+#### Why timing matters
+
+In the early weeks after an operation, the priorities are wound healing, managing swelling and pain, protecting the new joint, and relearning a safe walking pattern with whatever aid the team has prescribed. A hip exoskeleton adds torque at the hip as it flexes. For a newly operated hip, that is a load the surgical team needs to agree to. For a newly operated knee, the hip is not the problem joint, but adding a device to the walking pattern while it is still being retrained is still a decision for the team.
+
+Later, the picture changes. Many people reach a point where they are walking without a frame, the exercises are routine, and the remaining problem is stamina: they can do the walk, but it costs more than it used to and they avoid it. That is where an assist device may have a role.
+
+#### What it can and cannot do for you
+
+What the device does, in plain terms:
+
+- It adds up to 16 Nm of assistance at the hip as you lift each leg (spec-sheet figure).
+- It reads your gait and adjusts on its own between level ground, stairs and slopes.
+- It pauses when you sit down and resumes when you stand.
+- The manufacturer claims up to 80% less lower-body load per step and up to 35% less energy on climbs for this model. Those are manufacturer claims; your own result depends on your body, your route and the assistance level.
+
+What it does not do:
+
+- It does not speed up healing or treat the joint.
+- It does not replace the strengthening exercises your physiotherapist prescribes.
+- It is not a balance aid. If you still need a stick for stability, keep the stick.
+- It does not assist the knee directly. After a knee replacement, any benefit comes from making hip flexion cheaper, not from supporting the knee.
+
+#### Questions to clear with your surgical team
+
+Take these to your next review. They are written so you can read them out as they are.
+
+- Am I cleared to bear full weight and walk without restriction on distance?
+- Are there any movements or ranges I should still avoid at the hip?
+- Is there any reason a belt at the pelvis and straps on the outer thigh would be a problem for my wound or skin?
+- Would you prefer that some of my walking stays unassisted, for strength?
+- Who should I tell if something feels wrong while using it?
+
+If the answer to the first question is not yet, wait. There is no benefit in rushing.
+
+
+#### What a sensible first month looks like
+
+Once you are cleared, the Singapore team can do a guided fitting at home or on your own route. The assistance level is set conservatively at first. A pattern that works for many people:
+
+- Week 1: short level walks indoors or along the corridor, 10 to 15 minutes, to get used to the feel.
+- Week 2: one flight of stairs, a ramp or a gentle slope, with the handrail.
+- Weeks 3 and 4: the route you most want back, such as the market, the park or the bus stop.
+
+Keep your physiotherapy exercises going throughout. Write down how far you walked and how you felt, so you have something concrete to show at your next review. Our guide to fear of falling and walking confidence covers the other half of recovery that rarely gets discussed: the nerves that stay after the joint has healed.
+
+#### For the physiotherapist reading this
+
+If a patient hands you this page, the device is a hip-only, powered flexion assist with automatic terrain switching, no balance function, and a peak of 16 Nm. Our guide for physiotherapists covers suitability, exclusions and how to set a measurable target route.
+
+
+- Q: How soon after surgery can I try it?
+  A: There is no product rule for this; it is a clinical decision. Ask your surgeon or physiotherapist, and wait until you are cleared to bear weight and walk independently on the routes you want to use it for.
+- Q: Is it safe to wear over a healing scar?
+  A: The belt sits at the pelvis and the links run along the outer thigh. Whether that contact is a problem for your wound depends on where your incision is and how it is healing. Ask your surgical team before wearing it.
+- Q: Will it help me stop using my walking stick?
+  A: Not necessarily. A stick provides a support point for balance, which the exoskeleton does not. Some people use both. Whether you can stop using the stick is a question for your physiotherapist.
+- Q: Can I try it before deciding?
+  A: Yes. Fittings in Singapore are done on your own route, so you can feel the assistance on the stairs or slope that matters to you before making any decision.
+
+### How to put on a hip exoskeleton seated: a calm routine
+
+URL: https://exostride.sg/guides/how-to-put-on-a-hip-exoskeleton/
+
+Question: How do you put on a powered hip exoskeleton if you have limited mobility?
+
+Answer: Sitting down, in the same chair every time. With the ExoStride US-H-1.0Pro the routine is: sit with feet flat, place the belt around the waist and fasten it, settle the thigh straps on the outside of each thigh, check that nothing pinches, then stand with support before pressing the one button. After a fitting, most users can do it seated in under a minute. Nothing requires standing on one leg or bending to the floor.
+
+#### Why a routine matters more than speed
+
+For someone with stiff hips, a sore back or uncertain balance, the hardest part of any walking aid is often not the walk. It is getting ready. Bending to fasten shoes, standing on one leg to step into something, or fiddling with a strap behind the back are all moments where people give up, or fall. A walking aid that is awkward to put on gets left by the door.
+
+A powered hip exoskeleton is worn at the waist and along the outside of the thighs, over normal clothing. That makes it easier than most braces, because nothing goes over the feet. But a good routine still makes the difference between using it every day and using it twice.
+
+#### Before the first time: set up the spot
+
+Choose one chair and keep the device next to it. A firm dining chair with arms is ideal: high enough that standing up is easy, with armrests to push from. Avoid low sofas and soft beds.
+
+- Keep the chair in a well-lit place with a clear path to the door.
+- Store the exoskeleton folded on a low shelf or stool beside the chair, not on the floor.
+- Put the charger within reach of the same spot, so charging becomes part of taking it off.
+
+Our home set-up checklist covers flooring, charging and storage in more detail.
+
+#### Putting it on, step by step
+
+The exact buckles and adjustments are shown at the fitting, and the team sets the strap lengths so that later you only need to fasten, not adjust. The order below is the general pattern.
+
+- Sit right back in the chair with both feet flat on the floor and knees roughly level with the hips.
+- Unfold the device on your lap so the belt faces you and the thigh links hang down on each side.
+- Bring the belt around your waist and fasten it at the front. It should sit low, on the bony part of the pelvis, snug but not tight enough to restrict breathing.
+- Lay each thigh link along the outside of the thigh and close the thigh strap. You should be able to slide two fingers under it.
+- Check for pinching at the waist and the thighs, and that clothing is not bunched underneath.
+- Place both hands on the armrests and stand up the way you normally would. If you use a stick or a frame, have it ready.
+- Once you are standing steadily, press the one button to start assistance.
+
+After a fitting, the manufacturer says most users can do this seated in under a minute. In the first week, give it five. Rushing is how straps end up twisted.
+
+
+#### Sitting down and getting up again
+
+You do not need to switch the device off to sit. Posture detection pauses assistance when you sit and resumes it when you stand, so a rest on a bench or at the kopitiam does not need any action. If you are going to sit for a long time, switching off saves battery.
+
+#### Taking it off
+
+- Sit down in your chair first.
+- Switch the device off.
+- Open the thigh straps, then the belt.
+- Fold it on your lap and put it back on its shelf.
+- Plug in the charger if you will use it again tomorrow. A full charge takes two hours.
+
+#### When a family member helps
+
+If a son, daughter, spouse or helper assists, agree who does what. A good split is that the wearer fastens the belt themselves and the helper closes the thigh straps. That keeps the wearer in charge, which matters more than it sounds. Our caregiver's guide covers how to raise the idea without it feeling like a judgement.
+
+#### Signs the fit needs adjusting
+
+- Red marks that are still visible twenty minutes after taking it off.
+- The belt slides up towards the ribs as you walk.
+- The thigh links rotate to the front of the leg.
+- You feel the assistance pushing at a moment that feels wrong.
+
+Any of these is a reason to contact the team rather than live with it. See our guide to how a hip exoskeleton should fit for what good looks like.
+
+
+- Q: Do I need to stand to put it on?
+  A: No. The whole routine is done seated, and you only stand once the belt and thigh straps are fastened. Start the assistance after you are standing steadily.
+- Q: Can I wear it over a sarong, skirt or dress?
+  A: It is designed to be worn over clothing at the waist and thighs. Loose or long fabric can bunch under the straps, so try your usual clothing at the fitting and the team will advise.
+- Q: What if my hands are weak or arthritic?
+  A: Raise it at the fitting. The team sets strap lengths in advance so that daily use is mostly fastening, and a family member or helper can do the thigh straps.
+- Q: Does it need an app to start?
+  A: No. One button starts assistance. The app is optional and is only used for settings.
+
+### Fear of falling: rebuilding walking confidence after a fall
+
+URL: https://exostride.sg/guides/fear-of-falling-walking-confidence/
+
+Question: How do you rebuild walking confidence after a fall?
+
+Answer: Gradually, on routes that matter, with the actual cause of the fall dealt with first. Start with a check-up with a doctor or physiotherapist, fix what made the fall likely, then rebuild short, successful walks before longer ones. A powered hip exoskeleton can help when tiredness is part of the problem, because it takes some of the effort out of stairs and longer walks. It does not stop falls and is not a balance aid; if balance is the main issue, a stick, frame and balance training come first.
+
+#### The fall is one event. The fear can last for years.
+
+A fall often heals faster than the confidence it takes away. Bruises fade in a fortnight; the habit of avoiding the stairs, skipping the market and staying in the chair can settle in for good. Families notice it as a quiet shrinking of routine: fewer outings, shorter walks, more "I'll go tomorrow".
+
+The difficult part is that avoiding walking is understandable and also makes things worse. Less walking means less strength and stamina, which makes the next walk harder and more tiring, which makes a stumble more likely. Breaking that loop is the real goal, and it is mostly about small, successful walks rather than equipment.
+
+#### Step one: find out why the fall happened
+
+Before anything is bought, the person who fell should see a doctor. Falls in older adults can have many causes, and some of them are treatable: eyesight, blood pressure on standing, medication side effects, foot problems, or a home hazard such as a loose mat. A physiotherapist can assess strength and balance and suggest the right aid.
+
+This guide does not replace that check. It is about what comes after.
+
+#### Step two: separate balance from tiredness
+
+It helps to ask honestly which of these describes the fall:
+
+- Balance: a wobble or loss of footing, often at a turn, a kerb or when standing up.
+- Tiredness: legs that felt heavy, a foot that did not lift high enough on a step, a stumble near the end of a long walk.
+- Environment: a wet floor, poor light, an uneven surface.
+
+Different answers lead to different help. For balance, the established tools are a walking stick or frame, balance exercises and sometimes a home assessment. For environment, it is lighting, rails and removing trip hazards. For tiredness, the options are building stamina gradually and, for some people, reducing the effort each step costs. That last one is where a powered hip exoskeleton can play a part.
+
+#### Where a hip exoskeleton fits, honestly
+
+The ExoStride US-H-1.0Pro adds assistance at the hip as each leg lifts, with a peak of 16 Nm on the spec sheet. The manufacturer claims it reduces lower-body load per step by up to 80% and extends walking range by two to three times. Treat those as manufacturer claims; your own experience will depend on your body and your route.
+
+What this can mean in daily life is that the last flight of stairs, or the last stretch home from the market, costs less. Feet that drag when tired may lift more easily on steps. And because nothing is held in the hands, both hands stay free for a handrail.
+
+
+What it cannot do is just as important:
+
+- It does not catch you or stop a fall.
+- It does not give you a fixed support point the way a stick or frame does.
+- It does not fix dizziness, poor eyesight or a medication problem.
+
+If the honest answer to step two was balance, start with the aids and training your physiotherapist recommends. Our comparison of exoskeletons, canes, frames and wheelchairs shows what each one restores.
+
+#### Step three: rebuild with small wins
+
+Confidence returns through experience, not reassurance. A simple plan:
+
+- Pick one route that was given up, such as the corridor to the lift, the walk to the bus stop or one flight of stairs.
+- Walk it at the best time of day, usually mid-morning, with someone alongside at first.
+- Keep it short enough to finish feeling fine, not exhausted.
+- Repeat it until it feels ordinary, then extend it by one stop, one block or one flight.
+- Write down each walk. Seeing the list grow is more convincing than any encouragement.
+
+Our guide to keeping a daily walking routine in Singapore has practical ideas for timing walks around the heat and finding routes with places to rest.
+
+#### Talking about it without making it worse
+
+People who are afraid of falling often feel embarrassed about it. "You need to be more careful" tends to land as criticism. "Shall we try the walk to the market together on Saturday?" lands as an invitation. Focus on the place they miss, not the fall.
+
+
+- Q: Will an exoskeleton stop my parent from falling?
+  A: No device can promise that. A powered hip exoskeleton reduces the effort of walking and can help when tiredness contributes to stumbles, but it does not catch a fall or provide a support point. Talk to their doctor or physiotherapist about fall risk.
+- Q: Should they stop using their walking stick?
+  A: Not because of an exoskeleton. A stick provides balance support, which the exoskeleton does not. Many people use both. Any change to walking aids should be agreed with a physiotherapist.
+- Q: What if they are too nervous to try it?
+  A: That is common. A single, no-obligation fitting on a short route they already know, with a family member present, is usually the gentlest start.
+- Q: Is it heavy to wear?
+  A: It weighs 2.4 kg and sits at the waist, so the weight rests on the pelvis rather than the shoulders.
+
+### Keeping a daily walk in your 70s and 80s in Singapore
+
+URL: https://exostride.sg/guides/daily-walking-routine-older-adults-singapore/
+
+Question: How can an older adult keep up a daily walk in Singapore?
+
+Answer: Make it short, regular and planned around the climate. Walk early in the morning or in the late afternoon, choose routes with shade, seats and toilets, and build up slowly from a distance that feels easy. Consistency matters more than distance. If stairs, slopes or tiredness are what stop the walk, a powered hip exoskeleton can take some of the effort out of each step. Check with a doctor before starting a new exercise routine, especially after illness or a fall.
+
+#### Why the daily walk is worth protecting
+
+For many older Singaporeans, the daily walk is more than exercise. It is the trip to the market, the coffee shop catch-up, the stroll around the void deck and the reason to get dressed. When it stops, a lot else stops with it. Protecting the walk is protecting independence.
+
+The good news is that a useful routine does not have to be long or strenuous. What matters most is doing something most days.
+
+#### Start with a check, then start small
+
+If you have been unwell, had a fall, have a heart or lung condition, or have not walked regularly for a while, see your doctor before starting. They can tell you whether there is anything to watch for.
+
+Then start with a walk that feels comfortably easy. For some people that is five minutes along the corridor; for others it is a lap of the neighbourhood park. Finish feeling like you could have done a little more. That feeling is what brings you back tomorrow.
+
+#### Plan around the heat
+
+Singapore is hot and humid all year, and older bodies handle heat less well. A few habits make a big difference:
+
+- Walk early, before mid-morning, or in the late afternoon once the sun is lower.
+- Choose covered walkways, void decks and tree-lined park paths.
+- Carry water and drink before you feel thirsty.
+- Wear a hat, light loose clothing and shoes with a good grip.
+- On a very hot day, walk indoors instead, such as in a shopping mall or the corridors of your block.
+
+Our guide to walking in Singapore's heat goes into pacing and warning signs in more detail.
+
+#### Choose routes with somewhere to stop
+
+A route with benches every few hundred metres is far more inviting than one without. Good options in most estates include the neighbourhood park, the estate's covered linkways and the nearest park connector. Our guide to park connector walks covers planning longer, flat routes.
+
+Make each walk end somewhere pleasant: a kopitiam, a friend's block, the market. A walk with a destination happens far more reliably than a walk for its own sake.
+
+
+#### Build distance slowly
+
+A simple way to progress without overdoing it:
+
+- Weeks 1 and 2: the same short route every day, at the same time.
+- Weeks 3 and 4: add one extra stretch, such as one more block or one more lap.
+- After that: add one longer walk a week, keeping the others short.
+
+Keep a note of each walk. The note is useful for you, and for your doctor or physiotherapist.
+
+#### When stairs and tiredness are the problem
+
+Some people can walk on the flat but avoid routes with stairs, slopes or an overhead bridge. Others manage the first half of a walk and dread the way back. In those cases, reducing the effort of each step can keep the routine going.
+
+The ExoStride US-H-1.0Pro is a powered hip exoskeleton that adds up to 16 Nm of assistance as each leg lifts. The manufacturer claims up to 80% less lower-body load per step and a two- to three-fold increase in walking range for this model; those are manufacturer claims and individual results vary. It weighs 2.4 kg, is worn over clothing, starts with one button and pauses when you sit on a bench.
+
+It is not a substitute for the routine itself, and it is not a balance aid. If you are unsteady rather than tired, a walking stick and balance exercises suggested by a physiotherapist come first. Our guide to fear of falling covers that side.
+
+#### Walking with company
+
+Walking with a friend, a spouse or a walking group makes it much more likely to happen. Many community centres and residents' networks run group walks; ask at yours. If a family member walks with you once a week, make that the longer walk.
+
+
+- Q: How far should an older adult walk each day?
+  A: There is no single right number. It depends on health, fitness and what your doctor advises. Regular, comfortable walks most days are more useful than an occasional long one. Increase gradually.
+- Q: Is it safe to walk in the afternoon heat?
+  A: Midday and early afternoon are the hardest times for older adults. Walk early or in the late afternoon, stay in the shade, drink water, and stop if you feel dizzy, unwell or unusually breathless.
+- Q: Does a hip exoskeleton make the walk too easy to be exercise?
+  A: You are still walking on your own legs; it removes part of the effort of lifting each leg. Many people walk further and more often with assistance. If a specific strength goal matters, ask a physiotherapist how to balance assisted and unassisted walks.
+- Q: Can I use it on a rainy day?
+  A: It is IP54-rated, which covers splashing water from any direction, such as rain while walking. For your own safety, wet surfaces are still slippery.
+
+### Wearing a mobility aid without feeling old
+
+URL: https://exostride.sg/guides/wearing-a-mobility-aid-in-public/
+
+Question: How do you get past feeling embarrassed about using a mobility aid?
+
+Answer: By focusing on what the aid gives back rather than what it says about you. Most people refuse a walking aid because of how it looks, not how it works, and the cost is staying home. Choosing an aid that fits your life, practising on familiar routes, and having a short answer ready for curious people all help. A powered hip exoskeleton is worn at the waist over clothing and is often read as sports or back-support gear, which some people find easier to accept than a stick or frame.
+
+#### The aid that stays in the cupboard
+
+Ask any physiotherapist and you will hear the same story. A walking stick is prescribed, bought, and then left behind the door. A frame is used at home but never outside. The reason is rarely that the aid does not work. It is that using it in front of the neighbours feels like announcing that you have become old.
+
+That feeling deserves respect rather than a lecture. It is also worth naming its cost: when the aid stays in the cupboard, the walk often does too.
+
+#### Why it feels the way it does
+
+Visible aids carry strong associations. A stick or a frame says "frail" to many people of our parents' generation, and nobody wants to be seen that way by the uncle at the coffee shop or the aunties at the market. Pride is also wrapped up with independence: accepting help with walking can feel like the first step towards needing help with everything.
+
+Understanding this helps families too. Arguing about safety statistics rarely works. Talking about what the person wants to keep doing usually does.
+
+#### Reframe the aid around what it gives back
+
+People accept tools that let them do things. Very few people feel embarrassed about reading glasses, because glasses mean reading. The same shift works for walking aids:
+
+- Not "you need a stick", but "this means you can do the market on your own again".
+- Not "you are not safe", but "this would make the stairs to your friend's flat easier".
+- Not "everyone your age uses one", but "try it once on the walk you miss".
+
+#### Where a hip exoskeleton reads differently
+
+A powered hip exoskeleton such as the ExoStride US-H-1.0Pro is a slim belt at the waist with short links along the outside of each thigh, worn over clothing. Nothing is held in the hands. Many people who see it assume it is sports equipment or a back support. Some wearers like that it looks like technology rather than infirmity.
+
+It is not invisible, and it is not for everyone. It does a different job from a stick or frame: it takes some of the effort out of lifting each leg, with a peak of 16 Nm on the spec sheet, rather than giving you something to lean on. If balance is the main problem, a stick or frame is still the right tool, and the pride question has to be faced directly. Our comparison of mobility aids explains which problem each one solves.
+
+
+#### Practise where nobody is watching
+
+The first outing with any new aid is the hardest. Make it easy:
+
+- Start at home and in the corridor, where nobody you know will pass.
+- Next, try a quiet time at a familiar place, such as the park early in the morning.
+- Then the real target: the market, the temple, the bus stop.
+
+The Singapore team fits the exoskeleton at home or on your own route, so the first try can be private.
+
+#### Have a one-line answer ready
+
+Curious people will ask. A short, cheerful answer ends the conversation on your terms:
+
+- "It's a walking assist. Makes the stairs easier."
+- "It's like an e-bike for walking."
+- "My grandson made me get it. It's actually quite good."
+
+Most people ask because they are interested, and many ask because they are thinking about a parent of their own.
+
+#### For families raising the subject
+
+If you are the son, daughter or spouse, let the person choose. Offer a trial rather than a purchase, attach it to a place they miss, and do not make it a conversation about decline. Our caregiver's guide has more on how to raise it without it landing as an insult, and our guide to keeping up with the grandchildren is about the moments that often matter most.
+
+#### Small things that make it easier
+
+- Wear it with clothes you feel good in; a favourite shirt helps more than you would think.
+- Go out with someone the first few times, so you can chat instead of thinking about it.
+- Choose a destination you enjoy, not just a walk for its own sake.
+- Notice how many other people use aids of all kinds. You are rarely the only one.
+
+
+- Q: Will people notice that I am wearing it?
+  A: Some will. It is a slim hip belt with short thigh links worn over clothing. Most people read it as sports or back-support gear rather than a medical device.
+- Q: Can I wear it under clothes to hide it?
+  A: It is designed to be worn over clothing at the waist. A loose shirt or light jacket over the belt makes it less noticeable.
+- Q: Is it a medical device?
+  A: No. It is a consumer mobility-assist device. It does not need a prescription and does not diagnose or treat any condition.
+- Q: Can I try it somewhere private first?
+  A: Yes. Fittings are done at home or on your own route, so the first walk can be somewhere nobody is watching.
+
+### Who a powered hip exoskeleton is not for: an honest checklist
+
+URL: https://exostride.sg/guides/who-should-not-use-powered-hip-exoskeleton/
+
+Question: Who should not use a powered hip exoskeleton?
+
+Answer: People who cannot stand and walk on their own, people whose main problem is balance rather than effort, and anyone with a recent operation, injury or condition that a doctor has not cleared for walking with added hip assistance. Skin that breaks down easily at the waist or thighs, and devices or conditions that a doctor has flagged, also need a medical opinion first. A powered hip exoskeleton assists walking you can already do; it does not replace a wheelchair, a frame or medical care.
+
+#### Why we wrote a guide about who should not buy
+
+The fastest way to waste money on mobility equipment is to buy the right product for the wrong problem. A powered hip exoskeleton solves one problem well: walking that is possible but too tiring, especially on stairs, slopes and longer routes. For other problems it is the wrong tool, and an honest seller should say so before a fitting, not after.
+
+This page is general information, not medical advice. If anything below applies to you or your parent, talk to a doctor or physiotherapist first.
+
+#### The three questions to answer first
+
+- Can the person stand up and walk on their own, with or without a stick? If not, a hip exoskeleton is not the right starting point.
+- Is the main problem effort or balance? Heavy legs, running out of energy and avoiding stairs point to effort. Wobbling, near-falls and needing to hold on point to balance.
+- Is there anything a doctor has said about walking, exercise or the hips that has not been checked against using an assist device?
+
+If the answers are yes, effort and no, an exoskeleton may be worth a trial. Otherwise, read on.
+
+#### When it is the wrong tool
+
+- Unable to stand or walk independently. The device adds to the movement you make; it does not create movement. A wheelchair, transfer aid or supervised rehabilitation is the right category.
+- Balance as the main limitation. The exoskeleton does not provide a support point to lean on. A stick, frame and balance training are first-line. Our comparison of mobility aids explains the difference.
+- Severe breathlessness or chest pain on walking. Reducing the leg effort does not address the reason walking is hard. See a doctor.
+- Pain that is the main reason for not walking. If walking hurts, the cause needs to be assessed, not worked around.
+
+#### When to get a doctor's go-ahead first
+
+These are not automatic exclusions, but they need a medical opinion before the first try:
+
+- A recent operation on the hip, knee, spine or abdomen, or any surgery where you have been told to limit movement or loading. Our guide to life after a joint replacement covers this in detail.
+- A recent fracture or significant injury of the leg, pelvis or spine.
+- Skin that is fragile, broken or slow to heal where the belt and thigh straps sit.
+- Significant swelling of the legs, or circulation problems where straps could be a concern.
+- Any implanted medical device, or a condition where your doctor has advised caution with electronic or motorised equipment worn on the body.
+- Pregnancy, because the belt sits around the pelvis.
+- Conditions affecting judgement or memory, where the wearer may not be able to say if something is uncomfortable.
+
+
+#### When it may be fine, but not the best value
+
+Some people can use the device perfectly well but will not get much from it. If you walk long distances comfortably, climb stairs without thinking about it and are not trying to extend your range, the assistance may feel pleasant but unnecessary. Equally, if every journey you make is by car door to door, there may be too little walking for it to matter.
+
+#### What we suggest instead of guessing
+
+If you are unsure, show this page to the person's doctor or physiotherapist. Our guide for physiotherapists explains what the device assists in clinical terms. And remember that a fitting with the Singapore team is a trial on your own route, not a commitment. If it does not suit, it is far better to find out on the stairs at home than after a purchase.
+
+#### If it is a no for now
+
+A no is not always permanent. Someone recovering from surgery may become a good candidate once they are cleared and walking independently. Someone whose balance improves with training may find that effort becomes the limiting factor later. And a person for whom a hip exoskeleton is the wrong tool may still benefit from the right one: a stick, a frame, a rollator, home modifications or a physiotherapy programme. The aim is the same in every case: walking the routes that matter, safely.
+
+
+- Q: Do I need a prescription to buy one?
+  A: No. The US-H-1.0Pro is a consumer mobility-assist device and does not need a prescription. That is exactly why it is worth checking suitability with a doctor or physiotherapist yourself when any of the points above apply.
+- Q: My parent uses a walking frame. Can they switch to an exoskeleton?
+  A: Not as a straight swap. A frame provides support for balance; the exoskeleton reduces effort. Some people use both. Ask their physiotherapist before changing aids.
+- Q: Is there a weight or height limit?
+  A: Fit depends on waist and thigh measurements and on the configuration supplied. Ask the Singapore team before booking, and the fitting will confirm it.
+- Q: What if we try it and it does not suit?
+  A: That is what the fitting is for. It is done on your own route, so you will know whether it helps before deciding anything.
+
+### Is it working? What to track in the first month with an exoskeleton
+
+URL: https://exostride.sg/guides/tracking-progress-with-a-powered-exoskeleton/
+
+Question: How do you know if a powered exoskeleton is actually helping?
+
+Answer: Track the same few things before and after: one route you care about, how far you walked, how many times you stopped to rest, how many flights of stairs you managed, and how tired you felt afterwards on a 0 to 10 scale. Write them down for a week without the device, then for four weeks with it. If the route gets easier, longer or more frequent, it is helping you. If nothing changes after a month, talk to the team and your physiotherapist rather than persisting.
+
+#### Why your own numbers matter more than ours
+
+Every exoskeleton brand publishes performance figures. For the ExoStride US-H-1.0Pro, the manufacturer claims up to 80% less lower-body load per step, up to 35% less energy on climbs and two to three times the walking range. Those are manufacturer claims, measured under the manufacturer's conditions. They are a reason to try the device, not a prediction of what it will do for you.
+
+What actually matters is simple: does the person walk more, more comfortably, on the routes they care about? You can answer that without any equipment, as long as you write things down.
+
+#### The five things to record
+
+Use a notebook, a calendar on the fridge or a note on a phone. After each walk, record:
+
+- The route: the same named route each time, such as "home to market and back".
+- Distance or time: either works, as long as you are consistent. A phone step counter is fine if you already use one.
+- Rest stops: how many times you stopped to sit or lean.
+- Stairs: how many flights climbed without stopping.
+- Effort: how tiring it felt afterwards, on a scale from 0 (no effort) to 10 (the hardest possible).
+
+Add one line of comments if something stood out, such as "very hot", "slept badly" or "walked with a friend".
+
+#### First, a baseline week without the device
+
+If you can, record a normal week before the device arrives. Without a baseline, it is hard to tell whether a good day is down to the assistance or the weather. If a week is not possible, record two or three walks of the main route, unassisted, with someone alongside.
+
+#### The first four weeks
+
+Keep the route the same for the first fortnight so the comparison is fair. A sensible pattern, which the fitting team will adjust to the person:
+
+- Week 1: get used to the feel. Expect your records to be similar to the baseline, or a little better.
+- Week 2: the same route, with the assistance level the fitting team set. This is where changes in rest stops and effort usually show.
+- Weeks 3 and 4: extend the route by one stretch, or add a route that had been given up.
+
+
+#### What progress looks like
+
+Progress is not always a bigger number. Any of these is a good sign:
+
+- Fewer rest stops on the same route.
+- A lower effort score for the same walk.
+- The same walk done on more days of the week.
+- A route that had been given up, done again.
+- Less tiredness the evening after a walk.
+
+If the effort score drops but distance does not change, that still counts. Many people care more about arriving home with energy left than about walking further.
+
+#### When to adjust, and when to stop
+
+- If effort scores go up, or new aches appear, stop and contact the team. Fit and assistance level can often be adjusted.
+- If nothing changes after four weeks of regular use, raise it honestly with the team and with a physiotherapist. The device may not suit the problem. Our guide to who a hip exoskeleton is not for covers the common reasons.
+- If there is pain, dizziness, a fall or a near-fall, stop and see a doctor.
+
+#### Share the log
+
+A written log is the most useful thing to bring to a physiotherapy appointment. It turns "I think it's better" into evidence. Our guide for physiotherapists suggests how the treating physio can set the target route. And if you want to understand how researchers measure the same things in a lab, see our guide to judging exoskeleton performance claims.
+
+#### A sample week of entries
+
+- Mon: home to market and back, 25 min, 2 rest stops, 1 flight, effort 6.
+- Wed: same route, 24 min, 2 rest stops, 1 flight, effort 5, hot.
+- Fri: same route, 23 min, 1 rest stop, 2 flights, effort 5.
+- Sun: park loop with family, 35 min, 2 rest stops, 0 flights, effort 4.
+
+Four lines a week is enough to see a trend.
+
+
+- Q: Do I need a fitness tracker or smartwatch?
+  A: No. A notebook works. If you already use a phone step counter or watch, it can help with distance, but rest stops, stairs and how it felt are just as important and need only a pen.
+- Q: How long before I should notice a difference?
+  A: Some people feel the assistance immediately on stairs. Changes in routine and stamina take longer, which is why a fair judgement needs about four weeks of regular use.
+- Q: Should I compare my results with the manufacturer's figures?
+  A: Not directly. The manufacturer's figures are claims measured under specific conditions. Your own log on your own route is the better test of whether it helps you.
+- Q: Can the app track this for me?
+  A: The app is optional and used for settings. Walking never requires it. A simple written log is the most reliable record and easy to share with a physiotherapist.
+
+### Keeping up with the grandchildren: school runs and playgrounds
+
+URL: https://exostride.sg/guides/keeping-up-with-grandchildren-mobility/
+
+Question: How can grandparents with tired legs keep up with active grandchildren?
+
+Answer: Plan outings around rest points, keep both hands free, and reduce the effort of the parts that tire you most: stairs, overhead bridges and the walk home. Many Singapore grandparents do the school run and the playground daily. If effort rather than balance is what slows you down, a powered hip exoskeleton can take some of the work out of each step. It is worn at the waist, leaves both hands free for small hands, and pauses when you sit on the bench.
+
+#### The most demanding job of retirement
+
+In many Singapore families, grandparents are the after-school plan. The day might include a walk to the bus stop, the school gate, an overhead bridge, the playground, the market for dinner and back up to the flat, often carrying a school bag. It is a lot of walking for anyone, and more so for knees and hips in their seventies.
+
+Grandparents rarely complain about it. More often they quietly cut things out: the playground becomes the void deck, the outing to the park becomes the television. This guide is about keeping the good parts.
+
+#### Plan the outing around rest points
+
+Children run; grandparents do not need to. Choose outings where you can sit while the children play:
+
+- Playgrounds with shaded benches facing the play area.
+- Parks with a loop path, so the children can lap you while you walk at your own pace.
+- Malls on hot or rainy days, with lifts, seating and toilets.
+
+Before a longer outing, think through the return journey. Most people tire on the way home, not the way out.
+
+#### Keep both hands free
+
+A child's hand in one hand and a school bag in the other leaves nothing for the handrail. Small changes help:
+
+- Use a backpack for the school bag and the water bottles.
+- Teach older grandchildren to hold the handrail on stairs themselves.
+- Leave the umbrella in the bag unless it is raining.
+
+Any walking aid that needs a hand has a cost here. A stick competes with a small hand. This is one place where a hands-free aid has a real advantage.
+
+#### Where a powered hip exoskeleton can help
+
+The ExoStride US-H-1.0Pro is a slim belt at the waist with short links on the outside of each thigh, worn over clothing. It adds up to 16 Nm of assistance as each leg lifts (spec-sheet figure), adjusts automatically for stairs and slopes, and pauses when you sit on the playground bench. The manufacturer claims up to 80% less lower-body load per step and up to 35% less energy on climbs; those are manufacturer claims, and what you feel will depend on you and your route.
+
+
+In practice, grandparents tend to notice it on:
+
+- The overhead bridge on the way to school.
+- The stairs at the MRT station or the playground.
+- The walk home at the end of the afternoon, when legs are heaviest.
+
+It runs for up to 4 hours of assistance per charge and charges fully in two hours, which covers a typical afternoon. Our guide to battery life explains how stairs and slopes affect that.
+
+#### What it is not
+
+It is not a balance aid, and it will not catch you if a child pulls you off balance. If you are unsteady, a physiotherapist can advise on the right aid and exercises. It is also not something children should play with; fold it away out of reach when you take it off.
+
+#### The pride question
+
+Some grandparents worry that wearing a mobility aid in front of the grandchildren, or the other parents at the school gate, will make them look frail. Children are usually more curious than anything else, and some will simply think it looks like a robot suit. Our guide to wearing a mobility aid in public has practical ideas for the adults.
+
+#### For the parents reading this
+
+If your parents look after your children, the outings they quietly drop are a sign. Ask which part of the day is hardest. If it is stairs or the walk home, a trial fitting on that exact route is a practical, low-pressure way to find out whether hip assistance helps.
+
+#### A sample school-run afternoon
+
+A realistic plan for a grandparent doing the afternoon pick-up:
+
+- Charge the device in the morning and put it on after lunch, seated.
+- Walk to school using the route with the fewest stairs, even if it is a little longer.
+- Sit on a shaded bench at the playground while the children play; assistance pauses on its own.
+- Walk home before the children are tired, so nobody needs carrying.
+- Take the device off in your usual chair and put it back on charge.
+
+
+- Q: Can I carry a child while wearing it?
+  A: The device assists your walking; it does not support extra weight. Lifting and carrying a child adds load, so be careful on stairs and use the handrail. Talk to your doctor if lifting is a concern.
+- Q: Will the battery last a whole afternoon?
+  A: Up to 4 hours of assistance per charge, according to the spec sheet. Assistance is delivered as you walk, and stair-heavy routes draw more, so charge it fully before a long outing.
+- Q: Can I sit on the playground bench with it on?
+  A: Yes. Posture detection pauses assistance when you sit and resumes when you stand, so there is nothing to switch.
+- Q: Is it safe around young children?
+  A: Treat it like any electrical device: fold it away out of reach when you are not wearing it, and keep small fingers away from the hip joints while you are walking.
+
+### Walking together again: pacing outings with an older parent
+
+URL: https://exostride.sg/guides/walking-together-caregiver-and-parent/
+
+Question: How do you plan a walk with an elderly parent who tires easily?
+
+Answer: Let them set the pace, plan the route backwards from the way home, and build in a rest stop before they need one. Choose shade, seats and toilets, walk early or late in the day, and watch for quiet signs of tiredness such as shorter steps, a dragging foot or going silent. If effort on stairs and slopes is what limits the outing, a powered hip exoskeleton can reduce the work of each step; if balance is the issue, ask a physiotherapist about the right aid.
+
+#### The outing that used to be easy
+
+There is a moment many adult children recognise. The Sunday walk around the reservoir, the trip to the temple or the family dinner across town starts to end early. A parent who used to stride ahead now says "you go, I'll wait here". Nobody decides to stop going out together; it just happens, one shortened outing at a time.
+
+This guide is about getting those outings back, with your parent still in charge of them.
+
+#### Let them set the pace
+
+The single biggest change is also the simplest: walk at their speed, not yours. Adults walking with an older parent often slow down without realising they are still pulling slightly ahead. That creates pressure to keep up, which is tiring and can lead to rushed, careless steps.
+
+- Walk beside them, not in front.
+- If you are pushing a pram or carrying bags, let them lead.
+- Stop when they stop, without comment.
+
+#### Plan the route backwards
+
+Most people tire on the way back. Plan the outing from the return journey:
+
+- Where is the nearest taxi stand or bus stop to the furthest point?
+- Is there a route home with fewer stairs, even if it is longer?
+- Where are the seats, toilets and shade?
+
+A loop with a café or bench at the halfway point works better than an out-and-back walk to a distant destination.
+
+#### Rest before it is needed
+
+Build in a sit-down at regular intervals, and take it whether or not your parent asks. Many older people will not ask for a rest because they do not want to slow the family down. Making it part of the plan removes the awkwardness.
+
+#### Watch for the quiet signs
+
+People rarely say "I'm exhausted". Watch instead for:
+
+- Shorter steps, or a foot that scuffs the ground.
+- Holding on to railings or walls more than usual.
+- Going quiet, or becoming irritable.
+- Asking how much further it is.
+
+When you see these, find a seat. Pushing on is when stumbles happen.
+
+
+#### Mind the heat
+
+Singapore's heat and humidity are hard on older bodies. Walk in the early morning or late afternoon, carry water for both of you, and choose covered walkways and shaded paths. On very hot days, a mall walk is a perfectly good outing. Our guide to walking in Singapore heat has more on pacing.
+
+#### When effort is the limit
+
+If your parent can walk but runs out of energy, especially on stairs, slopes and overhead bridges, reducing the effort of each step can extend the outing. The ExoStride US-H-1.0Pro is a powered hip exoskeleton worn over clothing at the waist. It adds up to 16 Nm of assistance as each leg lifts (spec-sheet figure), adjusts on its own for stairs and slopes, and pauses when they sit down. The manufacturer claims up to 80% less lower-body load per step and two to three times the walking range; those are manufacturer claims, and individual results vary.
+
+Because nothing is held in the hands, your parent can hold your arm or a handrail. That matters on stairs.
+
+If balance rather than effort is the issue, a stick or frame recommended by a physiotherapist is the better tool. Our caregiver's guide covers how to choose and how to raise the subject.
+
+#### Do not take over
+
+The aim is a shared walk, not a supervised one. Avoid narrating every kerb, holding their arm without being asked, or deciding for them when the walk is over. Ask. Most parents will tell you more about how they feel if they do not feel managed.
+
+#### A sample Sunday outing
+
+- Choose a loop in a park near a taxi stand or bus stop, with a café or bench at the halfway point.
+- Leave early, before the heat builds.
+- Walk side by side at your parent's pace and stop at the halfway point whether or not they ask.
+- Decide together whether to finish the loop or head straight home.
+- Keep a note of how far you went, so next week can be a little longer if they want.
+
+
+- Q: My parent insists they are fine but always stops early. What should I do?
+  A: Plan the rest stops in advance so they do not have to ask. Choose shorter loops with a pleasant halfway point. If they still tire quickly, a check with their doctor is worth it.
+- Q: Should I hold my parent's arm while walking?
+  A: Offer, do not insist. Some people find it reassuring, others feel patronised. On stairs, a handrail is usually more stable than another person's arm.
+- Q: Can a hip exoskeleton replace the walking stick on outings?
+  A: Not if the stick is for balance. The exoskeleton reduces effort but does not provide a support point. Many people use both; ask a physiotherapist.
+- Q: How long does the battery last on a family day out?
+  A: Up to 4 hours of assistance per charge on the spec sheet, with a full charge in two hours. Stairs and slopes use more, so charge it fully before a long outing.
+
+### Getting the home ready for a powered exoskeleton: a checklist
+
+URL: https://exostride.sg/guides/exoskeleton-home-setup-checklist/
+
+Question: How should you prepare a home for a powered hip exoskeleton?
+
+Answer: Pick one sturdy chair with armrests as the dressing spot, store the folded device beside it rather than on the floor, put the charger within reach of the same spot, and clear trip hazards on the routes it will be used on. The ExoStride US-H-1.0Pro is 2.4 kg and folds, so it needs no special storage, but a fixed routine around one spot makes daily use far more likely. Basic fall-prevention steps at home still apply.
+
+#### Why the home set-up decides whether it gets used
+
+Most mobility aids fail not on the walk but at the door. If a device lives in a cupboard, needs hunting for the charger, or has to be put on standing up in a narrow corridor, it gets used less and less. A small amount of planning before the device arrives turns it into part of the daily routine instead of a project.
+
+Everything below can be done in an afternoon, and most of it is useful whether or not you end up using an exoskeleton.
+
+#### Choose the dressing spot
+
+Pick one chair and use it every time.
+
+- Firm, stable and with armrests to push up from.
+- Seat height so that the knees are roughly level with the hips when the feet are flat.
+- Not on wheels, and not a low sofa or the edge of a soft bed.
+- Near the main door, so the device goes on as part of leaving the flat.
+- With enough clear space in front to stand up and take the first steps.
+
+Our step-by-step guide to putting on a hip exoskeleton seated is built around this chair.
+
+#### Storage
+
+The US-H-1.0Pro weighs 2.4 kg and folds. Store it:
+
+- Folded, on a low shelf, stool or side table next to the dressing chair, at a height that needs no bending to the floor.
+- Out of reach of small children and pets.
+- Away from direct sunlight and not in a car boot, since sustained heat is bad for any lithium battery.
+- Somewhere dry. It is IP54-rated against dust and splashing water, but it should not sit in a wet bathroom.
+
+#### Charging
+
+A full charge takes two hours, and the spec sheet gives up to 4 hours of assistance per charge. The simplest habit is to charge it every time it comes off.
+
+- Put the charger at a socket beside the dressing spot, so charging needs no walking or bending.
+- Route the cable along the wall, never across a walkway.
+- Choose a socket that is easy to reach without kneeling.
+- If an older person will charge it themselves, show them once and leave a simple written note by the socket.
+
+Our guide to battery life explains how terrain affects how long a charge lasts.
+
+
+#### Clear the routes it will be used on
+
+An exoskeleton helps with effort; it does nothing for a loose mat. Walk the routes the person uses most, at home and just outside, and look for:
+
+- Loose rugs and mats, especially at the bathroom and kitchen doors.
+- Cables and clutter on the floor.
+- Poor lighting in the corridor and at the main door, including at night.
+- Shoe racks and pots that narrow the corridor outside the flat.
+- Steps or a raised threshold at the main door or the bathroom that are easy to miss.
+
+Grab bars in the bathroom and good lighting are worth having anyway. For a broader view of staying independent at home, read our guide to aging in place with a powered exoskeleton.
+
+#### Plan the first routes
+
+Before the fitting, decide which one or two routes matter most, such as the corridor to the lift, the stairs to the next floor, the walk to the market or the bus stop. The fitting team will walk them with the user, so it helps if they are agreed in advance.
+
+#### Who will help, and when
+
+If a family member or helper will assist with putting it on, charging or the first walks, agree it in advance and make sure they attend the fitting. One person who knows how everything works makes a big difference in the first fortnight.
+
+#### The first week at home
+
+Keep the first week simple. Use the same chair, the same time of day and the same short route, so the routine forms before the walks get longer. Put a small note by the chair with the order of steps from the fitting, and another by the charger. If anything is awkward, such as a strap that is hard to reach or a cable in the way, change the set-up rather than working around it. Small frictions in the first week are what decide whether the device is still being used a month later.
+
+
+- Q: Where is the best place for the charger?
+  A: Next to the dressing chair, at a socket you can reach without kneeling, with the cable running along the wall rather than across the floor. Charging then becomes part of taking it off.
+- Q: Can it be stored in the bathroom or kitchen?
+  A: It is better kept in a dry room. IP54 covers dust and splashing water, but a humid bathroom is not ideal storage for electronics.
+- Q: Do we need to change anything at the HDB block?
+  A: No changes are needed to use it. Stairs and slopes are where the assistance is most noticeable. It is still worth noting which routes have handrails.
+- Q: Does the fitting happen at home?
+  A: Yes. A team member brings the unit, sizes it, sets the assistance level and walks the chosen route with the user.
+
+### How to read an exoskeleton spec sheet: the numbers that matter
+
+URL: https://exostride.sg/guides/how-to-read-an-exoskeleton-spec-sheet/
+
+Question: What should you look for on an exoskeleton spec sheet?
+
+Answer: Seven lines matter most: which joint it assists, peak torque, total weight and where it sits, assistance time per charge, charge time, ingress (IP) rating and how it is controlled. Read each in context: torque only matters if it is well timed, battery hours depend on terrain, and weight matters less than where it rests. Performance percentages are a separate category; they are manufacturer claims and should be read as "up to", under the maker's test conditions. For the ExoStride US-H-1.0Pro: hip, 16 Nm, 2.4 kg, up to 4 h, 2 h, IP54, one button.
+
+#### Why spec sheets are hard to compare
+
+Exoskeleton makers do not publish their specifications in the same format. One lists torque per joint, another lists combined torque. One quotes battery life in hours, another in kilometres. Some list weight without the battery. Performance percentages sit right next to measured specifications as if they were the same kind of number. They are not.
+
+This guide goes through a spec sheet line by line, using the ExoStride US-H-1.0Pro as the worked example, and says what each line tells you and what it does not.
+
+#### 1. Which joint is assisted
+
+This is the most important line and often the least prominent. Exoskeletons for walking typically assist the hip, the knee, the ankle, or several joints. Each changes a different part of the step. Hip devices help lift the leg, which is where much of the effort of stairs and slopes goes. Knee devices tend to focus on support and the knee's extension. Ankle devices assist push-off.
+
+US-H-1.0Pro: hip, in the flexion direction. Our guide to hip, knee and ankle exoskeletons compares the three.
+
+#### 2. Peak torque
+
+Torque is rotational force at the joint, measured in newton-metres (Nm). The peak figure is the most the motor delivers at any moment. Higher is not automatically better: beyond what the joint needs, extra torque adds motor weight and battery drain, and badly timed torque feels like a shove.
+
+US-H-1.0Pro: 16 Nm peak at the hip. Our 16 Nm explainer covers what that feels like.
+
+#### 3. Weight, and where it sits
+
+Check whether the weight includes the battery, and where on the body it rests. Weight at the waist is carried by the pelvis and feels lighter than the same weight further down the leg, which has to be swung with every step.
+
+US-H-1.0Pro: 2.4 kg total, worn at the waist, foldable. See is 2.4 kg heavy for an exoskeleton?
+
+#### 4. Assistance time per charge
+
+Battery figures are usually quoted in hours of assistance. That number is only meaningful with terrain attached: stairs and steep slopes draw much more than flat pavement. Look for whether the figure is "up to" and what kind of use it assumes.
+
+US-H-1.0Pro: up to 4 hours of assistance.
+
+#### 5. Charge time
+
+Often overlooked, but it decides whether the device is ready again after lunch. A short charge time matters more than a slightly bigger battery if you use the device in two blocks each day.
+
+US-H-1.0Pro: 2 hours to a full charge.
+
+
+#### 6. Ingress protection (IP rating)
+
+The IP code is a standard rating for protection against solids (first digit) and water (second digit). In a tropical climate it decides whether you can keep walking when the rain starts.
+
+US-H-1.0Pro: IP54, meaning dust-protected and resistant to splashing water from any direction. It is not rated for immersion or pressure jets. Our IP54 guide reads the two digits in detail.
+
+#### 7. Controls and modes
+
+How do you start it, and do you have to change settings while walking? Some devices need an app; some need manual mode changes for stairs. Fewer decisions while walking usually means more consistent use, especially for older users.
+
+US-H-1.0Pro: one button to start, no app needed to walk, terrain-adaptive mode switching, and posture detection that pauses assistance when you sit.
+
+#### The line that is not a specification
+
+Most spec sheets end with performance claims: percentages of load reduction, energy saving or range. For the US-H-1.0Pro, the manufacturer claims up to 80% less lower-body load per step, up to 35% less energy on climbs, 30–50% less exertion on a daily commute and two to three times the walking range.
+
+These are a different kind of number. A torque or weight figure describes the hardware. A performance percentage describes what happened to particular people, on particular terrain, under particular test conditions. They are useful for comparison only if you know how they were measured. Our guide to judging exoskeleton performance claims sets out the questions to ask.
+
+#### What is often missing
+
+- Price. For the US-H-1.0Pro in Singapore, pricing is quoted on request by the exclusive seller.
+- Sizing range. Ask for waist and thigh ranges before booking.
+- Classification. Whether the device is sold as a consumer product or registered as a medical device. The US-H-1.0Pro is a consumer mobility-assist device.
+
+
+- Q: Which spec matters most for stairs?
+  A: The joint assisted and how the torque is timed. Hip assistance targets the lift of the leg, which is where stairs cost the most. A high peak torque that arrives late does less than a modest one that arrives on time.
+- Q: Should I compare battery life in hours or kilometres?
+  A: Neither is reliable on its own. Ask what terrain the figure assumes. A stair-heavy day uses more energy than a flat one, whatever the unit.
+- Q: Is a lighter exoskeleton always better?
+  A: Not always. A lighter device may have less torque or less battery. Where the weight sits matters as much as the total.
+- Q: Are the performance percentages measured specifications?
+  A: No. They are manufacturer claims describing results under the maker's own test conditions. Treat them as "up to" figures, and test the device on your own route.
+
+### Is 2.4 kg heavy for an exoskeleton? Where the weight sits
+
+URL: https://exostride.sg/guides/exoskeleton-weight-explained/
+
+Question: Is 2.4 kg heavy for a wearable exoskeleton?
+
+Answer: Not for a powered device worn at the waist. 2.4 kg is a little more than a 2-litre bottle of water, and on the ExoStride US-H-1.0Pro it rests on the pelvis rather than hanging from the shoulders or swinging at the ankle. Weight low on the leg costs much more energy to walk with than the same weight at the waist. The trade-off is that a lighter device usually means a smaller motor or battery, so total weight only makes sense next to torque and battery figures.
+
+#### What 2.4 kg is, in everyday terms
+
+2.4 kg is roughly a 2-litre bottle of water plus a mug, a medium bag of rice, or a laptop with its charger. Carried in your hand, you would notice it within a few minutes. Worn well, at the waist, most people stop noticing it once they are walking.
+
+That difference between carrying and wearing is the whole story of exoskeleton weight.
+
+#### Why where the weight sits matters more than how much
+
+When you walk, your legs swing forward with every step. Anything attached low on the leg, such as a heavy shoe or an ankle weight, has to be accelerated and stopped with each stride. It is well established in walking research that added mass is more costly the further it sits from the body's centre, which is why runners care so much about shoe weight.
+
+Weight at the waist, by contrast, moves with the body's centre of mass. It still has to be carried up stairs and slopes, but it does not have to be swung back and forth. That is why a hip-mounted device can weigh more than an ankle brace and still feel lighter in use.
+
+- At the waist: carried by the pelvis, moves with the body, least costly.
+- On the thigh: swung with each step, but close to the hip.
+- At the knee or ankle: swung through the widest arc, most costly per gram.
+
+The US-H-1.0Pro puts its motors and battery at the hip, with only short links along the thigh.
+
+#### Weight against what it does
+
+Total weight is meaningless on its own. An unpowered brace can be very light because it has no motor or battery. A powered device must carry both. So compare weight together with:
+
+- Peak torque: 16 Nm for the US-H-1.0Pro.
+- Assistance time: up to 4 hours per charge.
+- Charge time: 2 hours.
+
+A device that is half the weight but delivers far less assistance or runs out after an hour is not lighter in any way that matters. Our spec-sheet guide shows how these lines relate.
+
+
+#### What happens to the weight when you are being assisted
+
+While the device is working, it adds assistance at the hip as each leg lifts. The manufacturer claims up to 80% less lower-body load per step for this model. Treat that as a manufacturer claim; your own result depends on you, the terrain and the assistance level. Practically, on stairs and slopes most users feel the assistance far more than the weight.
+
+#### And when the battery runs out
+
+This is the honest test of any powered device. When the US-H-1.0Pro's battery runs out, it stops assisting but does not lock the legs. You keep walking normally, carrying 2.4 kg at your waist. That is noticeable on a long climb but not a hazard. Planning a charge around longer days avoids it; our battery guide covers how.
+
+#### Weight for older users
+
+For an older person, weight matters at two moments: putting the device on and carrying it when it is off. Worn at the waist and put on seated, 2.4 kg is manageable for most people after a fitting. Folded, it can sit on a shelf by the door or go in a tote bag. If lifting even that is difficult, a family member can help with putting it on. Our guide to putting it on seated explains the routine.
+
+#### Weight for hikers and commuters
+
+For a commuter, the question is whether it fits in a bag at the office: folded, it does. For a hiker, it is the trade between carrying 2.4 kg and having assistance on the climbs. Our trekking poles comparison looks at where those grams are earned back.
+
+#### How to judge it yourself
+
+Spec sheets cannot tell you how weight feels. At a fitting, walk the same short stretch twice: once with the device switched off, once switched on. The first tells you what the weight feels like; the second tells you whether the assistance outweighs it on your route.
+
+
+- Q: Is the 2.4 kg including the battery?
+  A: Yes. 2.4 kg is the total weight of the US-H-1.0Pro as worn.
+- Q: Will the weight pull my trousers down or press on my back?
+  A: The belt sits on the pelvis, not the waistband, and should be fitted snugly. If it slides or presses on the lower back, the fit needs adjusting; raise it with the team.
+- Q: Is it heavy to carry when folded?
+  A: It weighs the same 2.4 kg folded, about the same as a laptop with its charger, and fits in a daypack or tote bag.
+- Q: Do lighter exoskeletons exist?
+  A: Unpowered devices can be lighter because they have no motor or battery. Among powered devices, compare weight together with torque and battery figures rather than on its own.
+
+### "Up to 80%": how to read exoskeleton performance claims
+
+URL: https://exostride.sg/guides/how-to-judge-exoskeleton-performance-claims/
+
+Question: How should you read exoskeleton performance claims like "up to 80% less load"?
+
+Answer: As the best result under the manufacturer's own test conditions, not as what you will personally get. "Up to" sets a ceiling, not an average. A useful claim tells you what was measured, how, on whom, on what terrain and against what comparison. For the ExoStride US-H-1.0Pro, the 80% load reduction, 35% climbing energy saving, 30–50% commute exertion reduction and 2–3× range are manufacturer claims. The fairest test is your own route, walked with and without the device.
+
+#### Why this guide exists on a seller's website
+
+ExoStride's own pages quote performance figures. We think the people reading them deserve to know how to read them, including ours. Every brand in this category publishes percentages, and very few explain what is behind them. That leaves buyers, families and physiotherapists either believing everything or believing nothing. Neither is useful.
+
+#### Two kinds of number
+
+An exoskeleton spec sheet mixes two different kinds of figure:
+
+- Specifications describe the hardware: 16 Nm peak torque, 2.4 kg, IP54, up to 4 hours of assistance, 2-hour charge. They can be checked on the device.
+- Performance claims describe what happened to people using it: less load, less energy, more range. They depend on who was tested, where, how and against what.
+
+The US-H-1.0Pro's performance figures are manufacturer claims: up to 80% less lower-body load per step, up to 35% less energy on climbs, 30–50% less exertion on a daily commute and two to three times the walking range. Every page on this site labels them that way.
+
+#### What "up to" really means
+
+"Up to 80%" means that 80% was the best result observed or achievable under the conditions used. It does not mean the average, and it does not mean the typical user. A range such as "30–50%" is more informative, because it admits variation, but it still depends on conditions.
+
+When you see "up to", read it as: under the right conditions, it can be this much. Then ask what those conditions were.
+
+#### Five questions to ask about any claim
+
+- What was measured? Load on a joint, energy used, distance walked and perceived effort are all different things, measured in different ways.
+- How was it measured? In a laboratory with instruments, outdoors with a wearable sensor, or by asking users how it felt?
+- Who was tested? Young healthy adults, older adults, people in rehabilitation? How many?
+- On what terrain? Flat treadmill, stairs, an incline, a real commute?
+- Compared with what? Walking without the device, walking with it switched off, or walking with a different device?
+
+A brand that can answer these is giving you something you can weigh. A brand that cannot is giving you an advertisement. Ask the ExoStride team the same questions; that is a fair request.
+
+
+#### Lab results and real life
+
+Laboratory measurements are controlled, which makes them good for comparison and poor at predicting daily life. Real routes include heat, crowds, carrying bags, stopping at traffic lights and walking more slowly than on a treadmill. That usually narrows the difference. On the other hand, real life also contains the steepest stairs and the longest walks, which is often where assistance matters most.
+
+Our guide to how energy savings are measured explains the most common laboratory method in plain language.
+
+#### Testimonials are not evidence, but your experience is
+
+Individual stories can be honest and still unrepresentative. This site does not publish testimonials as proof. What you can trust is a careful comparison you make yourself:
+
+- Pick one route you walk often.
+- Walk it once without the device and once with it, on similar days.
+- Record time, rest stops, stairs climbed and how tired you felt on a 0 to 10 scale.
+- Repeat over a few weeks.
+
+Our guide to tracking progress in the first month has a simple log for this.
+
+#### Red flags in any exoskeleton marketing
+
+- Medical-sounding promises from a product that is not registered as a medical device.
+- Claims of curing, treating or reversing a condition.
+- A single headline percentage with no mention of terrain or conditions.
+- Before-and-after stories with no way of knowing what else changed.
+- Pressure to buy without a trial on your own route.
+
+#### How we label our own figures
+
+On this site, every ExoStride performance figure is described as a manufacturer claim for the US-H-1.0Pro, and the footer of every page repeats that the figures vary with user, terrain and assistance level. Measured specifications, such as 16 Nm, 2.4 kg, IP54, up to 4 hours and 2 hours, are listed separately. If you ever find a figure on this site that is not labelled that way, tell us and we will fix it.
+
+
+- Q: Are ExoStride's performance figures independently verified?
+  A: They are manufacturer claims for the US-H-1.0Pro, and we label them that way. Ask the Singapore team what was measured and how; the honest test is a fitting on your own route.
+- Q: What is the difference between less load and less energy?
+  A: Load refers to the force the body's joints and muscles handle with each step. Energy refers to how much the body burns to walk, usually measured through breathing. They are related but measured differently, so the percentages are not interchangeable.
+- Q: Why do different brands' percentages vary so much?
+  A: Because they measure different things, on different people, on different terrain. Two percentages from different test conditions cannot be compared directly.
+- Q: What is the most reliable way to judge an exoskeleton?
+  A: Walk your own route with and without it, several times, and write down the results. That tells you more about your situation than any headline figure.
+
+### How exoskeleton energy savings are measured: metabolic cost
+
+URL: https://exostride.sg/guides/exoskeleton-metabolic-cost-explained/
+
+Question: How do researchers measure whether an exoskeleton saves energy?
+
+Answer: Usually by measuring breathing. The standard lab method, indirect calorimetry, uses a mask to record how much oxygen a person takes in and how much carbon dioxide they breathe out while walking at a steady pace. From that, the energy spent per minute is calculated and compared with and without the device. That number is the "metabolic cost". Results depend heavily on speed, slope, the person and how long they have practised with the device, which is why claims such as the US-H-1.0Pro's "up to 35% less energy on climbs" are manufacturer claims, not guarantees.
+
+#### What "metabolic cost" means
+
+Every step you take burns energy. Muscles convert fuel into movement, and that process uses oxygen and produces carbon dioxide. The total energy your body spends to walk a given distance or for a given time is called the metabolic cost of walking.
+
+When an exoskeleton brand says its device reduces energy use, it is almost always talking about this number: how much less energy the body spends to do the same walk.
+
+#### How it is measured in a lab
+
+The most widely used method in research is indirect calorimetry. In plain terms:
+
+- The person wears a mask connected to a gas analyser, often a portable unit carried on the back.
+- They walk at a fixed speed, often on a treadmill, sometimes at a set incline.
+- The analyser measures how much oxygen they breathe in and how much carbon dioxide they breathe out, breath by breath.
+- After a few minutes the readings settle into a steady state. Those minutes are used for the calculation.
+- The same walk is repeated with and without the device, and the energy per minute is compared.
+
+Researchers usually subtract the energy spent standing still, so the result reflects the cost of walking itself. The percentage difference between the two conditions is the headline "energy saving".
+
+#### Why results vary so much
+
+Metabolic cost is sensitive. Small changes in conditions move the result:
+
+- Speed: walking faster changes the cost and the share an exoskeleton can save.
+- Slope and stairs: climbing costs far more than walking on the flat, so there is more to save. This is why claims for climbs are often higher than for level ground.
+- The person: fitness, body size and how they walk all change the baseline.
+- Practice: people often need time to adapt to assistance. Results on the first day can differ from results after several sessions.
+- Comparison: compared with walking without the device, or with the device worn but switched off? The second comparison includes the cost of carrying it.
+
+Two studies with different conditions can produce very different percentages for similar devices. That is not necessarily anyone being dishonest; it is the nature of the measurement.
+
+
+#### Reading the ExoStride figure
+
+For the US-H-1.0Pro, the manufacturer claims up to 35% less energy on steep, sustained climbs, along with up to 80% less lower-body load per step, 30–50% less exertion on a daily commute and two to three times the walking range. These are manufacturer claims for this model. "Up to" means the figure is a ceiling under favourable conditions, not what every user will measure.
+
+The questions worth asking about it, or any other brand's figure, are the ones in our guide to judging exoskeleton performance claims: what was measured, how, on whom, on what terrain and against what comparison.
+
+#### Effort is not the same as energy
+
+Lab energy and how hard a walk feels are related but not identical. People often report a bigger difference in perceived effort than the gas analyser shows, or the other way round. For most buyers, how tiring the walk feels is the more useful measure anyway, and it is easy to record yourself on a 0 to 10 scale.
+
+#### Measuring it yourself, roughly
+
+You cannot run indirect calorimetry at home, but you can make a fair, rough comparison on a climb:
+
+- Choose a steady climb you know, such as a long staircase or a hill path.
+- Walk it at the same pace twice on similar days: once without assistance, once with.
+- Note your heart rate at the top if you have a watch, your time, and your effort score.
+- Rest fully between attempts, or do them on separate days.
+
+Heart rate is a rough proxy for effort and is affected by heat, sleep and caffeine, so look for consistent differences over several attempts. Our Bukit Timah Hill comparison walks through a structured version.
+
+#### Why timing matters to energy
+
+An exoskeleton only saves energy if it helps at the right moment. Assistance that arrives late can make walking harder. That is why control matters as much as torque; our 16 Nm explainer covers it.
+
+
+- Q: Is metabolic cost the same as calories burned?
+  A: They are closely related. Metabolic cost is the energy the body spends, which can be expressed in calories. Lab studies usually report it in watts or per kilogram of body weight.
+- Q: Why are energy savings higher on climbs?
+  A: Climbing costs much more energy than walking on the flat, and much of that cost comes from lifting the leg and body. There is more effort to remove, so the percentage that assistance can save is often larger.
+- Q: Can I measure it with a smartwatch?
+  A: Not precisely. A watch estimates energy from heart rate and movement. It is useful for rough comparisons on the same route, but it is not a lab measurement.
+- Q: Does the 35% figure apply to walking on flat ground?
+  A: No. The manufacturer's 35% claim refers to steep, sustained climbs. On flat ground, the commute figure of 30–50% less exertion is the relevant manufacturer claim.
+
+### Powered vs passive exoskeletons: what is the difference?
+
+URL: https://exostride.sg/guides/powered-vs-passive-exoskeleton/
+
+Question: What is the difference between a powered and a passive exoskeleton?
+
+Answer: A passive exoskeleton has no motor. It uses springs, elastic bands or counterweights to store energy in one part of a movement and give it back in another, so it can only return energy you put in. A powered exoskeleton has motors, sensors and a battery, so it can add energy at a chosen moment. For walking up stairs and slopes, where the body has to lift itself, adding energy at the right moment is the key difference. Passive devices are simpler, lighter and need no charging.
+
+#### Two families of exoskeleton
+
+The word exoskeleton covers a wide range of devices, from spring-loaded vests used in factories to motorised suits used in research. For anyone choosing one for walking, the first split to understand is between passive and powered.
+
+#### How a passive exoskeleton works
+
+A passive, or unpowered, exoskeleton has no motor and no battery. It works with mechanical elements:
+
+- Springs that compress or stretch in one phase of a movement and release in another.
+- Elastic bands that resist one direction and assist the return.
+- Clutches or locks that hold a position, such as a supported crouch.
+
+The key physical point is that a passive device cannot add energy overall. It can only store energy you put in and return it at another moment, or redirect load to a different part of the body. In industrial settings that is very useful: a passive shoulder exoskeleton can transfer the weight of raised arms to the hips for hours of overhead work.
+
+#### How a powered exoskeleton works
+
+A powered, or active, exoskeleton adds three things:
+
+- Motors (actuators) at one or more joints that can add torque.
+- Sensors that read movement, such as joint angle and the timing of each step.
+- A controller and battery that decide when and how much torque to deliver.
+
+Because it has a power source, a powered device can put energy into a movement at the moment it is needed. The ExoStride US-H-1.0Pro is a powered hip exoskeleton: it reads your gait and adds up to 16 Nm of torque at the hip as each leg lifts (spec-sheet figure), and changes its assistance automatically between level ground, stairs and slopes. Our guide to how exoskeletons sense gait explains the sensing side.
+
+
+#### Why the difference matters for walking
+
+On flat ground, walking is already quite efficient, and much of each step recovers energy naturally. Climbing is different. Going up stairs or a slope, the body has to raise its own weight, and that energy has to come from somewhere. A passive device can help redistribute effort, but it cannot supply the extra energy that lifting requires. A powered device can.
+
+That is why stairs, overhead bridges and hill paths are where powered hip assistance is most noticeable. For the US-H-1.0Pro, the manufacturer claims up to 35% less energy on climbs and up to 80% less lower-body load per step; those are manufacturer claims, and results vary with the person and terrain.
+
+#### Side by side
+
+- Energy: passive stores and returns; powered can add.
+- Timing: passive responds to your movement mechanically; powered decides when to assist based on sensors.
+- Adaptation: passive behaves the same everywhere; powered can change its profile for stairs and slopes.
+- Weight: passive is usually lighter; powered carries motors and a battery (2.4 kg in total for the US-H-1.0Pro).
+- Charging: passive needs none; powered needs charging (2 hours to full for the US-H-1.0Pro).
+- Failure mode: passive keeps working; a powered device stops assisting when the battery is flat. The US-H-1.0Pro does not lock the legs when that happens.
+- Water: both can be affected; check the IP rating on powered devices. The US-H-1.0Pro is IP54.
+
+#### Which suits you
+
+A passive device can make sense for repetitive, predictable work tasks, or where charging is impractical. For walking in daily life, especially with stairs and slopes, a powered device that adds energy at the right moment is usually the more useful category. Whichever you consider, compare the joint assisted, weight, battery and controls; our spec-sheet guide walks through each line. The joint matters too: see our comparison of hip, knee and ankle exoskeletons.
+
+#### A note on names
+
+Brands use many terms: active, robotic, motorised, wearable robot, smart exoskeleton. In practice, if a device has a battery and a motor, it is powered. If it has neither, it is passive. Some hybrid designs use small motors only to adjust a spring or lock; ask what the motor actually does.
+
+
+- Q: Can a passive exoskeleton help me climb stairs?
+  A: It can redistribute some effort, but it cannot add the energy needed to lift your body. Powered devices are designed to add assistance at that moment.
+- Q: Are powered exoskeletons safe if the battery dies?
+  A: That depends on the device. The US-H-1.0Pro stops assisting but does not lock your legs, so you keep walking normally, carrying 2.4 kg.
+- Q: Is a powered exoskeleton a robot?
+  A: In a loose sense, yes: it senses, decides and acts. In practice it is a wearable assist device that responds to your own movement rather than moving you on its own.
+- Q: Do passive exoskeletons need fitting?
+  A: Yes. Any exoskeleton needs to fit well to transfer force comfortably. Powered devices also need their assistance level set, which is part of a fitting.
+
+### Hip, knee or ankle exoskeleton: which joint should be assisted?
+
+URL: https://exostride.sg/guides/hip-vs-knee-vs-ankle-exoskeleton/
+
+Question: Is a hip, knee or ankle exoskeleton best for walking?
+
+Answer: It depends on what makes walking hard. Hip devices help lift the leg forward, which is where stairs, slopes and long walks cost the most effort, and they keep the weight high on the body. Knee devices are usually about support and extension, for example rising from a chair or controlling a bent knee. Ankle devices assist push-off at the end of each step. For stamina on stairs and longer routes, hip assistance is often the most efficient choice; for knee instability or foot drop, a clinician may point elsewhere.
+
+#### Each joint does a different job in a step
+
+Walking looks simple, but each joint has its own role in every stride:
+
+- The ankle pushes off at the end of the step, propelling the body forward.
+- The knee bends to swing the leg through, then straightens and absorbs the shock as the foot lands.
+- The hip swings the whole leg forward and, on stairs or slopes, lifts it up against gravity.
+
+An exoskeleton that assists one joint changes one part of this sequence. Choosing a device is mostly about matching that part to the problem.
+
+#### Hip exoskeletons
+
+A hip exoskeleton sits at the waist with links down the thigh and assists the movement of the thigh, usually as the leg swings forward and lifts (flexion), and sometimes as it pushes back (extension).
+
+- Strongest case: stairs, slopes, overhead bridges and long walks, where lifting the leg is what tires you.
+- Weight: carried at the pelvis, close to the body's centre, which makes it less costly to walk with.
+- Knee: left free, so its natural shock absorption is untouched.
+- Limits: it does not support a knee that gives way or an ankle that drops.
+
+The ExoStride US-H-1.0Pro is a hip device. It adds up to 16 Nm in the flexion direction (spec-sheet figure), reads the gait continuously and switches profile automatically between level ground, stairs and steep terrain. Our 16 Nm explainer covers why the hip gives the most assistance per gram.
+
+#### Knee exoskeletons and braces
+
+Powered knee devices assist extension, for instance when standing up or climbing a step, or help control the knee as it bends. Unpowered knee braces mostly provide support and stability.
+
+- Strongest case: knee weakness, a knee that buckles, or rising from a chair.
+- Weight: sits mid-leg and is swung with every step, so each gram costs more.
+- Limits: it does less for the effort of lifting the whole leg.
+
+If the knee itself is the problem, a doctor or physiotherapist should guide the choice. Our knee brace and hip assist comparison for hiking covers the outdoor version of this question.
+
+
+#### Ankle exoskeletons
+
+Ankle devices assist push-off, or in some designs lift the toes during swing. They have been widely studied in research labs because the ankle produces a lot of the power in each step.
+
+- Strongest case: weak push-off, or toes catching the ground.
+- Weight: right at the end of the leg, the most costly place to carry mass.
+- Limits: footwear and fit become critical; they can be harder to put on.
+
+Foot drop and similar problems are clinical issues; a physiotherapist or orthotist is the right person to advise.
+
+#### Matching the joint to the problem
+
+- "Stairs and slopes wear me out." Hip.
+- "I can walk, but not as far as I used to." Hip, often.
+- "My knee gives way or hurts." See a doctor; knee support may be relevant.
+- "My toes catch, or my foot slaps down." See a physiotherapist; ankle support may be relevant.
+- "I lose my balance." None of these is a balance aid; a stick or frame and balance training come first.
+
+#### What about multi-joint exoskeletons?
+
+Full-leg exoskeletons that assist the hip, knee and ankle together exist, mostly for clinical rehabilitation of people who cannot walk unaided. They are heavier and more complex and are usually used under supervision. For everyday walking by people who can already walk, a single-joint device is lighter and simpler.
+
+#### Weight follows the joint
+
+The further from the hip a device sits, the more each gram costs to walk with, because it must be swung with every step. Our guide to exoskeleton weight explains why a hip device can weigh more and still feel lighter. Whether the device is powered or passive matters too; see powered vs passive exoskeletons.
+
+
+- Q: Will a hip exoskeleton help my knee pain?
+  A: It is not designed to treat knee pain. It reduces the effort of lifting the leg, which some people find makes walking easier overall, but if your knee hurts, see a doctor or physiotherapist about the cause first.
+- Q: Why do many walking exoskeletons assist the hip?
+  A: On stairs and slopes, the hip does much of the expensive work of lifting the leg, and hardware at the waist is cheaper to carry than hardware lower down the leg.
+- Q: Can I wear a knee brace with a hip exoskeleton?
+  A: Often, yes, as long as the brace does not interfere with the thigh links. Bring it to the fitting and ask your physiotherapist whether you still need it.
+- Q: Which type is best for older adults?
+  A: For older adults whose main problem is stamina on stairs and longer routes, hip assistance is a common fit. If balance or a specific joint problem is the issue, a clinician should guide the choice.
+
+### How does an exoskeleton know when to help? Gait sensing explained
+
+URL: https://exostride.sg/guides/how-exoskeletons-sense-gait/
+
+Question: How does a powered exoskeleton know when to help you?
+
+Answer: By reading your movement continuously. Sensors track how your thighs are moving and where you are in each step; a controller recognises the pattern of walking, climbing or sitting and releases torque at the moment the hip starts to lift. The ExoStride US-H-1.0Pro does this automatically: it reads the gait, delivers assistance inside the flexion window, switches profile between level ground, stairs and steep terrain, and pauses when you sit. There is nothing to adjust while walking.
+
+#### The problem every powered exoskeleton has to solve
+
+A motor at the hip can push the thigh forward. The hard part is knowing when. Push a fraction too early or too late and the assistance fights your stride instead of helping it. Push the same way on a staircase as on a flat pavement and it feels wrong on one or the other. Push while you are sitting down and it is a nuisance.
+
+So the real intelligence of a powered exoskeleton is not in its motor. It is in how it reads your walking.
+
+#### What the sensors measure
+
+Wearable exoskeletons commonly use some combination of:
+
+- Joint angle sensors, which measure how far the thigh has swung relative to the pelvis.
+- Inertial measurement units (IMUs), small chips like those in a phone that measure acceleration and rotation.
+- Motor feedback, which tells the controller how the joint is moving and how much force is being applied.
+
+Together these give a picture, many times a second, of where each leg is in the walking cycle. Exact sensor designs differ between manufacturers and are not usually published in detail.
+
+#### From readings to a decision
+
+The controller turns those readings into decisions:
+
+- Phase: where am I in the step? The moment that matters most for hip assistance is when the leg begins to swing forward and lift, the flexion window.
+- Activity: am I walking on the flat, climbing stairs, going up a slope, going down, standing still or sitting?
+- Amount: how much assistance does this activity call for, within the level set at the fitting?
+
+For the US-H-1.0Pro, the published behaviour is that it reads gait continuously, releases torque inside the flexion window, switches assistance profile between level ground, stairs and steep terrain on its own, and uses posture detection to pause when you sit. Peak torque is 16 Nm on the spec sheet.
+
+
+#### Why timing beats strength
+
+A useful way to picture it: a friend gives your thigh a well-timed nudge forward and up each time you start to step. A gentle nudge at the right moment helps. A strong shove at the wrong moment throws you off. This is why a high peak torque on a spec sheet means little without good timing, and why people sometimes switch off devices that feel pushy. Our 16 Nm explainer goes into the numbers.
+
+#### What changes on stairs, slopes and descents
+
+- Level ground: assistance is light. Many users describe it as walking on ground that slopes slightly downhill.
+- Stairs and climbs: each step requires lifting the leg higher against gravity, so assistance ramps up. This is where the manufacturer's claim of up to 35% less energy on climbs applies; it is a manufacturer claim and results vary.
+- Descent: going down is a control problem, not a power problem. The US-H-1.0Pro reduces assistance so it never pushes you forward, and the handrail remains your main aid.
+
+#### Sitting, standing and stopping
+
+Posture detection pauses assistance when you sit and resumes when you stand. That makes a bench at the bus stop or a seat on the train uneventful. Our guide to sitting on the MRT or bus with an exoskeleton covers the practical side.
+
+#### Why there is no app needed to walk
+
+If a device needs you to choose a mode before a staircase, you have to think about the device instead of the stairs. Automatic switching removes that step. The US-H-1.0Pro starts with one button, and the optional app is used only for settings. That design matters most for older users and for anyone who simply wants to walk.
+
+#### What it cannot sense
+
+- It does not sense balance problems or catch a fall.
+- It does not know your destination or how tired you are.
+- It does not detect a slippery surface; grip is down to your shoes and the handrail.
+
+#### Powered versus passive
+
+This kind of sensing is what separates powered devices from passive spring-based ones, which respond mechanically and cannot change behaviour between terrain types. See powered vs passive exoskeletons.
+
+
+- Q: How long does it take to adapt to my walking?
+  A: The device reads your gait from the first steps. Most people take a few walks to get used to the feel; the fitting sets an assistance level that suits you to start with.
+- Q: What if I walk unevenly or slowly?
+  A: Gait sensing works on your own pattern rather than an ideal one. If the assistance feels mistimed, tell the fitting team; the assistance level can be adjusted.
+- Q: Does it know when I am going downstairs?
+  A: It reduces assistance on descent so it never pushes you forward. Always use the handrail on stairs.
+- Q: Can I turn the automatic switching off?
+  A: The device is designed so that walking needs no settings. Ask the team about what can be adjusted in the optional app.
+
+### Medical vs consumer exoskeleton: what the label means in Singapore
+
+URL: https://exostride.sg/guides/medical-vs-consumer-exoskeleton-singapore/
+
+Question: Is a powered exoskeleton a medical device in Singapore?
+
+Answer: It depends on how it is made and what it is sold to do. Devices intended to diagnose, treat or rehabilitate a medical condition are regulated as medical devices, which in Singapore falls under the Health Sciences Authority (HSA). Consumer mobility-assist devices are sold to make walking easier, without medical claims. The ExoStride US-H-1.0Pro is a consumer mobility-assist device: no prescription is needed, and it does not diagnose or treat any condition. That is also why it should be used alongside, not instead of, medical care.
+
+#### Why the label matters
+
+Two exoskeletons can look similar and be sold under completely different rules. One is a medical device, with a stated medical purpose and the regulatory process that comes with it. The other is a consumer product, sold to make an everyday activity easier. The difference affects what the seller can claim, who can buy it, how it is used and what you should expect from it.
+
+#### What makes something a medical device
+
+In general terms, a product is a medical device when its manufacturer intends it to be used for a medical purpose, such as diagnosing, preventing, monitoring, treating or alleviating a disease or injury, or compensating for or rehabilitating an injury or disability. The intended purpose, as described by the manufacturer, is central.
+
+Exoskeletons sold for clinical gait rehabilitation, often used in hospitals under the supervision of therapists, typically fall into this group.
+
+#### Who regulates medical devices in Singapore
+
+In Singapore, medical devices are regulated by the Health Sciences Authority (HSA). Medical devices generally need to be registered before they can be supplied, with requirements that depend on the device's risk class. If a seller describes an exoskeleton as a medical device, it is reasonable to ask about its registration status.
+
+This guide is a plain-language overview, not legal advice. HSA's own website is the authoritative source on the current rules.
+
+#### What a consumer mobility-assist device is
+
+A consumer device is sold for general use, without a medical purpose. In the case of a powered hip exoskeleton, that means making walking, stairs and longer routes less tiring for people who can already walk.
+
+The ExoStride US-H-1.0Pro is sold in Singapore as a consumer mobility-assist device. Practically, that means:
+
+- No prescription is needed to buy or use it.
+- It is used at home, on the commute and outdoors, without clinical supervision.
+- It does not diagnose, treat or cure any condition, and we do not claim that it does.
+- Its performance figures (up to 80% less lower-body load per step, up to 35% less energy on climbs, 30–50% less commute exertion, 2–3× range) are manufacturer claims, not clinical outcomes.
+
+
+#### What the consumer label does not mean
+
+It does not mean the device is a toy, or that safety does not matter. It does mean that judgements about your health remain with your doctor and physiotherapist. If you are recovering from surgery, injury or illness, or if a doctor has advised caution about exercise, ask them before using any walking assist device. Our guide to who a hip exoskeleton is not for lists the common situations.
+
+#### How to read medical-sounding marketing
+
+Across the industry, consumer products sometimes borrow clinical language. Watch for:
+
+- Words such as treats, cures, heals, reverses or prevents attached to a condition.
+- Claims of being "clinically proven" without saying what was tested, on whom and where it was published.
+- Before-and-after stories presented as evidence.
+
+A consumer device should talk about what it helps you do, not what it does to a disease. Our guide to judging performance claims has more questions to ask.
+
+#### Using a consumer device alongside therapy
+
+Many people use a consumer exoskeleton in daily life while continuing physiotherapy. That can work well when the physiotherapist knows about it and helps set goals. Our guide for physiotherapists explains what the device does in clinical terms, so the conversation is easier.
+
+#### Funding and insurance
+
+Because classification affects how a product is treated by funding schemes and insurers, do not assume that a consumer device is covered by any medical subsidy or policy. Check directly with the scheme or insurer before buying.
+
+#### Questions to ask any seller about classification
+
+- Is this device sold as a medical device or as a consumer product?
+- If it is a medical device, is it registered with HSA, and for what intended purpose?
+- If it is a consumer product, does the seller make any medical claims about it?
+- Does the device need a prescription or clinical supervision to use?
+
+Clear answers to these four questions tell you how to read everything else on the box.
+
+
+- Q: Do I need a doctor's prescription to buy ExoStride?
+  A: No. It is a consumer mobility-assist device. If you have a health condition, recent surgery or injury, talk to your doctor or physiotherapist before using it.
+- Q: Can a physiotherapist recommend a consumer device?
+  A: Yes. Physiotherapists often advise on consumer equipment. The decision about whether it suits your recovery is theirs and yours together.
+- Q: Is a medical exoskeleton better than a consumer one?
+  A: Not necessarily; they are designed for different jobs. Clinical exoskeletons are often used to help people who cannot walk unaided, under supervision. A consumer hip device is designed for people who can walk but find it tiring.
+- Q: Will my insurance or a subsidy cover it?
+  A: Do not assume so. Coverage depends on the scheme or policy and on how a product is classified. Check with them directly before buying.
+
+### How a hip exoskeleton should fit: sizing, straps and pressure points
+
+URL: https://exostride.sg/guides/exoskeleton-fit-and-sizing/
+
+Question: How should a hip exoskeleton fit?
+
+Answer: Snug, low and aligned. The belt should sit low on the pelvis, not on the soft waist or the ribs, firm enough not to slide but loose enough to breathe and sit comfortably. The device's hip joints should line up with your own hip joints at the side. Thigh straps should hold the links against the outside of each thigh with room for two fingers underneath. A good fit is what turns torque into useful assistance; a poor fit wastes it and causes rubbing.
+
+#### Why fit decides how well it works
+
+A powered hip exoskeleton passes force from its motors to your legs through two contact points: the belt at the pelvis and the straps at the thighs. If those contact points move, slip or press in the wrong place, some of the assistance is lost as the device shifts instead of your leg moving. It can also feel as though the timing is off, when the real problem is fit.
+
+That is why the Singapore team does a guided fitting before first use, and why it is worth knowing what a good fit looks like.
+
+#### The belt: low and firm
+
+- Position: on the bony part of the pelvis, around the top of the hips. Not on the soft waist, and nowhere near the ribs.
+- Tightness: firm enough that it does not slide up when you walk or climb stairs, but you can breathe deeply and sit comfortably.
+- Clothing: over a single layer is best. Thick waistbands, belts with large buckles and bulky pockets under the belt create pressure points.
+
+If the belt rides up as you walk, it is usually too loose or sitting too high to begin with.
+
+#### The hip joints: aligned with yours
+
+The device has a joint at each side of the hip. For the assistance to feel natural, those joints should sit level with your own hip joints, roughly at the side of the hip where the thigh bone meets the pelvis. If they sit too high or too low, the thigh link moves in a slightly different arc from your thigh, which can rub and make the push feel awkward.
+
+#### The thigh straps: secure, not tight
+
+- Position: on the outside of the thigh, above the knee, with the link lying flat along the leg.
+- Tightness: two fingers should slide underneath. Too tight restricts circulation and leaves marks; too loose lets the link rotate.
+- Check: when you walk, the link should stay on the outside of the thigh rather than drifting to the front.
+
+
+#### What a good fit feels like
+
+- After a few minutes of walking, you stop noticing the belt.
+- On stairs, the assistance feels like a nudge at the thigh rather than a tug at the waist.
+- Sitting down is comfortable without loosening anything.
+- After taking it off, any marks fade within a few minutes.
+
+Our 16 Nm explainer describes what well-timed assistance should feel like once the fit is right.
+
+#### Signs the fit needs adjusting
+
+- Red marks or sore spots that last more than twenty minutes after taking it off.
+- The belt sliding up, or pressing into the lower back.
+- Thigh links rotating to the front or back of the leg.
+- Rubbing at the side of the hip.
+- Assistance that feels like a shove or a tug rather than a nudge.
+
+Do not put up with any of these. Contact the team; most are fixed by small adjustments.
+
+#### Sizing before you book
+
+Fit depends on waist, hip and thigh measurements and on the configuration supplied in Singapore. Before booking a fitting, it helps to have a rough idea of your measurements and to ask the team whether they fall in the device's range. The fitting confirms it.
+
+#### Fit for older users and limited mobility
+
+For older users, the priority is a fit that can be repeated every day without help. The team can set strap lengths so that daily use is mostly fastening rather than adjusting. Our step-by-step guide to putting it on seated is built around this.
+
+#### Fit and weight
+
+A good fit also changes how heavy the device feels. 2.4 kg resting firmly on the pelvis feels very different from 2.4 kg sliding around. Our guide to exoskeleton weight covers where weight should sit.
+
+#### Sharing a device
+
+The belt and thigh links adjust, so two people can physically share a unit. In practice, sizing has to be readjusted with each swap, which adds friction. If two people in a household would use it daily, raise it at the fitting.
+
+
+- Q: What should I wear to the fitting?
+  A: What you will usually wear when using it: for example, trousers or shorts and a light top, with the shoes you walk in. Avoid a thick belt or bulky pockets at the waist.
+- Q: Can I wear it over a dress or sarong?
+  A: Possibly; loose fabric can bunch under the straps. Try it at the fitting with your usual clothing.
+- Q: Will it fit if I lose or gain weight?
+  A: The belt and straps adjust within a range. Significant changes in body size may need a refit; contact the team.
+- Q: Can I adjust the fit myself later?
+  A: Yes, the straps are adjustable. If the fit keeps changing or something rubs, ask the team rather than over-tightening.
+
+### Before you buy an exoskeleton: 12 questions to ask the seller
+
+URL: https://exostride.sg/guides/exoskeleton-buying-checklist-questions/
+
+Question: What should you ask before buying a powered exoskeleton?
+
+Answer: Ask what joint it assists and how, what the performance figures are based on, whether you can try it on your own route first, how fitting and sizing work, what happens when the battery runs out, how it handles rain, who services it locally, what the warranty and return terms are, and the full price including anything extra. A good seller answers plainly and puts it in writing. For the ExoStride US-H-1.0Pro in Singapore, the exclusive seller is HT Science & Development Pte. Ltd.
+
+#### Why a checklist helps
+
+Powered exoskeletons are a new category for most buyers. There is no familiar reference point, as there is for a phone or a washing machine, and the person buying is often an adult child buying for a parent. A short list of questions keeps the conversation focused on what matters and makes it easy to compare answers.
+
+You are welcome to use this list with us. For the ExoStride US-H-1.0Pro, the answers come from HT Science & Development Pte. Ltd., the exclusive Singapore seller.
+
+#### About the device
+
+- 1. Which joint does it assist, and in which direction? A hip device helps lift the leg; knee and ankle devices do different jobs. The US-H-1.0Pro assists hip flexion. See our spec-sheet guide.
+- 2. What are the measured specifications? Peak torque, total weight, assistance time per charge, charge time and IP rating. For the US-H-1.0Pro: 16 Nm, 2.4 kg, up to 4 hours, 2 hours, IP54.
+- 3. What are the performance figures based on? Ask what was measured, how, on whom and on what terrain. The US-H-1.0Pro's figures (up to 80% less lower-body load per step, up to 35% less energy on climbs, 30–50% less commute exertion, 2–3× range) are manufacturer claims. Our guide to judging performance claims explains what to listen for.
+- 4. Is it a medical device or a consumer device? It affects what the seller can claim and whether you need a prescription. The US-H-1.0Pro is a consumer mobility-assist device.
+
+#### About trying and fitting
+
+- 5. Can I try it on my own route before buying? The stairs at home, the walk to the station, the trail you hike. A demonstration in a showroom is not the same. ExoStride fittings in Singapore are done on your own route.
+- 6. Who does the fitting, and what does it include? Sizing, setting the assistance level and walking a real route with the user. Ask how long it takes and whether a family member or physiotherapist can attend.
+- 7. What sizes does it fit? Ask for the waist and thigh range before booking.
+
+
+#### About daily use
+
+- 8. What happens when the battery runs out? A good answer: it stops assisting but does not lock your legs. That is the case for the US-H-1.0Pro.
+- 9. How does it handle rain and sweat? Ask for the IP rating and what it does not cover. IP54 covers dust and splashing water from any direction, not immersion or pressure jets.
+- 10. Does it need an app or settings to walk? The US-H-1.0Pro starts with one button; the app is optional and only used for settings.
+
+#### About after the sale
+
+- 11. Who services it in Singapore, and what does the warranty cover? Ask for warranty length, what is excluded, how repairs are handled and how long they take, and whether a replacement is available meanwhile. Get it in writing.
+- 12. What is the full price, and what are the return terms? Ask for a written quote that includes everything you need to use it, and whether there is a return or exchange period. ExoStride pricing in Singapore is quoted directly by the team because it depends on configuration and fitting.
+
+#### What good answers sound like
+
+Good answers are specific, admit limits and come with paperwork. "It depends" is fine if it is followed by what it depends on. Be cautious of answers that promise medical results, avoid the trial question or push for a decision on the day.
+
+#### If you are buying for a parent
+
+Bring your parent into the conversation, not just the decision. Our caregiver's guide covers how to raise the idea and what to check at the fitting.
+
+#### Keep the answers together
+
+Write the answers down as you go, ideally on the same sheet as this list, and ask the seller to confirm the important ones by message or email. If you are comparing two devices, use the same twelve questions for both, in the same order. Differences that look small in a showroom, such as a charge time, a sizing range or a return period, often decide how well a device fits daily life. And if you are buying on behalf of someone else, read the answers back to them before deciding; they are the one who will wear it.
+
+
+- Q: How much does ExoStride cost in Singapore?
+  A: Pricing is quoted directly by the Singapore team, since it depends on configuration and fitting. Message +65 9122 7009 on WhatsApp or call +65 8355 0979 for a current figure.
+- Q: What warranty does ExoStride come with?
+  A: Ask the Singapore team for the current warranty terms in writing before buying. They can explain what is covered and how servicing works.
+- Q: Can I buy without a fitting?
+  A: A fitting is strongly recommended, because sizing and assistance level affect comfort and how well the device works. It also lets you test it on your own route.
+- Q: Who sells ExoStride in Singapore?
+  A: HT Science & Development Pte. Ltd. (UEN 202033252G001) is the exclusive Singapore seller of the ExoStride US-H-1.0Pro.
+
+### Walking in Singapore heat: pacing a hot, humid commute
+
+URL: https://exostride.sg/guides/walking-in-singapore-heat-commute/
+
+Question: How do you walk a commute in Singapore's heat without arriving drained?
+
+Answer: Slow down on the climbs, use the shade and the covered walkways, and plan the route rather than walking the shortest line. Heat makes every effort cost more, and the stairs, overhead bridges and slopes are where commuters overheat. Walking at an even pace, drinking water before you leave, wearing light clothing and taking the lift or escalator where it saves a climb all help. A powered hip exoskeleton can reduce the effort of those climbs; the manufacturer claims 30–50% less exertion on a daily commute.
+
+#### Why a short walk feels long here
+
+Singapore's climate is hot and humid all year. Humidity matters as much as temperature: sweat cools the body by evaporating, and in humid air it evaporates slowly. So the body works harder to stay cool, and any extra effort, such as a flight of stairs or a brisk pace, adds heat that is hard to shed. That is why a 10-minute walk can leave you arriving at the office damp and tired.
+
+Most of the cost is concentrated in a few places: the climb out of the MRT station, the overhead bridge, the slope up to the office and the final stretch in the sun.
+
+#### Plan the route, not just the distance
+
+The shortest route is rarely the coolest. Before changing anything else, look at your route again:
+
+- Covered linkways and sheltered walkways between the station, bus stops and buildings.
+- Underground links and air-conditioned malls that connect to stations.
+- Escalators and lifts that replace a climb, even if they add a minute.
+- The shady side of the street, which changes between morning and evening.
+
+A route that is two minutes longer but mostly covered usually arrives cooler.
+
+#### Pace for the climbs
+
+The most effective change is pacing. Walk at a pace you could hold while talking, and slow down slightly before stairs and slopes rather than attacking them. Heat builds fastest on climbs. Arriving at the top of the overhead bridge breathless means arriving at work overheated.
+
+- Keep an even pace rather than rushing to catch a crossing.
+- On stairs, take each step without hurrying and use the handrail.
+- Pause in the shade after a long climb rather than in the sun.
+
+#### Before you leave and when you arrive
+
+- Drink water before leaving, and carry a bottle.
+- Wear light, breathable clothing for the walk; change shirts at work if needed.
+- Cool down in the air-conditioning for a few minutes before starting work.
+
+#### When the climbs are the problem
+
+For many commuters, the flat parts of the walk are fine. It is the stairs at a deep station, the overhead bridge over a main road and the slope at the end that leave them drained. Reducing the effort of those specific climbs reduces the heat your body builds up.
+
+
+A powered hip exoskeleton adds assistance as each leg lifts, with the most help on stairs and slopes. The ExoStride US-H-1.0Pro delivers up to 16 Nm at the hip (spec-sheet figure). For the commute, the manufacturer claims 30–50% less exertion across a normal day, and up to 35% less energy on climbs; both are manufacturer claims, and what you feel depends on you and your route. It is IP54-rated, which covers rain and splashing water, folds to fit a work bag, and starts with one button. Our guides to daily commuting and stairs cover the routes in more detail.
+
+#### Sweat, rain and the device
+
+Sweat and sudden downpours are part of walking here. IP54 means the device is protected against dust and splashing water from any direction, which covers rain while walking and normal sweat. It does not cover immersion or pressure jets. Our IP54 guide explains the limits. Store it out of hot car boots; sustained heat is bad for any lithium battery.
+
+#### Know the warning signs
+
+Heat illness is a real risk, especially for older people and anyone with heart conditions. Stop, find shade or air-conditioning, drink water and seek help if you feel dizzy, confused, nauseous, have a headache or stop sweating despite the heat. Talk to your doctor if you have a condition that affects how you handle heat.
+
+#### Try the route at both ends of the day
+
+A route that feels fine at 8 a.m. can be punishing at 6 p.m., when the pavement has been in the sun all day. Walk your commute in both directions before changing anything, and note where you start to feel hot: the climb out of the station, the bridge, the last stretch to the door. Those few points are where planning, pacing and, if needed, walking assistance make the most difference.
+
+
+- Q: What time of day is coolest for walking in Singapore?
+  A: Early morning is usually the most comfortable, followed by the evening once the sun is lower. Midday and early afternoon are the hottest.
+- Q: Will a hip exoskeleton make me hotter because I am wearing more?
+  A: It is a belt at the waist with short thigh links, worn over clothing, so it covers little skin. The question is whether the effort it removes on climbs outweighs the extra layer at the waist; the best test is your own route.
+- Q: Can I wear it in the rain?
+  A: Yes. It is IP54-rated, which covers splashing water from any direction, including rain while walking. Avoid immersion and standing water above the unit.
+- Q: Will people at work see it?
+  A: Many commuters wear it for the walk and fold it into a bag at the desk. Folded, it is a 2.4 kg item.
+
+### When the HDB lift is down: getting up many floors safely
+
+URL: https://exostride.sg/guides/hdb-lift-down-climbing-stairs/
+
+Question: What should you do when the lift in your HDB block is down and you need to climb many floors?
+
+Answer: First, decide whether you should climb at all. If you are older, unwell or have a heart, lung or joint condition, wait, get help or ask the town council about assistance. If you do climb, go slowly, use the handrail, rest on each landing before you need to, carry little, and keep both hands free. A powered hip exoskeleton reduces the effort of lifting each leg on stairs; the manufacturer claims up to 35% less energy on climbs. It does not replace caution.
+
+#### A routine problem with a real cost
+
+Most HDB residents rarely think about the stairs, because the lift does the work. Then the lift is down for maintenance or a fault, and for a morning or a day the stairwell is the only way home. For a fit adult on the fourth floor, that is an inconvenience. For an older resident on the fourteenth floor with shopping, it can mean being stuck downstairs or stuck at home.
+
+This guide covers how to handle it safely, how to plan ahead, and where walking assistance fits.
+
+#### First: should you climb at all?
+
+Waiting is often the right answer. Do not attempt a long climb if:
+
+- You have a heart or lung condition, or get chest pain or unusual breathlessness on exertion.
+- You have recently been ill, had surgery or a fall.
+- You feel dizzy, unwell or very tired.
+- It is the hottest part of the day and the stairwell is warm.
+
+Alternatives include waiting at a neighbour's flat or the void deck, asking the town council about the expected repair time, or asking family to bring things up. For a planned maintenance closure, the notice usually gives the dates in advance.
+
+#### If you do climb: pace it
+
+Long stair climbs go wrong when people start too fast. Climb at a pace you could keep up while talking.
+
+- Use the handrail on every flight.
+- Rest on a landing before you feel you need to, for example every two or three floors, longer as you go up.
+- Breathe steadily; do not hold your breath on the steps.
+- Carry as little as possible. A backpack is better than bags in each hand.
+- Drink water before and after.
+
+Stop and sit on a landing if you feel dizzy, breathless or unwell. Ask a neighbour for help if needed.
+
+#### Plan ahead if you have an older resident at home
+
+- Note the town council's contact number for lift faults.
+- Keep a few days of essential medication and groceries at home.
+- Agree with a neighbour or family member who can help on lift-down days.
+- Do not leave chairs or stools in the stairwell, which must stay clear. Instead, know which landings are wide enough to stop and rest on.
+
+
+#### Where hip assistance helps
+
+On stairs, the expensive part of each step is lifting the leg and body up to the next step. The hip does much of that work. A powered hip exoskeleton adds assistance at exactly that moment.
+
+The ExoStride US-H-1.0Pro delivers up to 16 Nm at the hip (spec-sheet figure), recognises stairs automatically and ramps up assistance on them. The manufacturer claims up to 35% less energy on steep, sustained climbs and up to 80% less lower-body load per step; those are manufacturer claims, and the effect on a long climb depends on the person. Both hands stay free for the handrail, it weighs 2.4 kg, and it pauses when you sit on a landing to rest.
+
+Our guide to powered hip assist for stairs explains what the device does on each step, and our guide to aging in place covers daily life on a high floor more broadly.
+
+#### What it does not change
+
+It does not make a long climb safe for someone who should not be climbing. It does not help with breathlessness from a heart or lung condition, and it does not catch a fall. Going down, it reduces assistance so it never pushes you forward; the handrail remains your main aid.
+
+#### Battery on a long climb
+
+Stairs draw more power than flat ground. The spec sheet gives up to 4 hours of assistance per charge, and a single climb uses only a fraction of that. If lift works are scheduled, charge the device fully the night before; a full charge takes two hours.
+
+#### If you live on a high floor
+
+Residents on high floors feel lift outages most. If walking is already hard, it is worth thinking about this before the next outage rather than during it. Note which neighbours are usually home, keep a list of the town council's contacts on the fridge, and practise a few flights of stairs on a good day, with someone alongside, so the stairwell is familiar. A fitting on your own stairwell is also the most realistic way to find out whether hip assistance makes a difference for you.
+
+
+- Q: How many floors can I climb with a hip exoskeleton?
+  A: It depends on your fitness and health, not on the device. It reduces the effort of each step, but the climb is still yours. Go slowly, rest on landings and stop if you feel unwell.
+- Q: Does it help coming down the stairs?
+  A: It reduces assistance on the way down so it never pushes you forward. Descent is about control; use the handrail.
+- Q: Is it safe on narrow HDB stairwells?
+  A: It is worn close to the body at the hip and thighs and adds little width. Keep one hand on the rail.
+- Q: Can I try it on my own block's stairs?
+  A: Yes. Fittings are done on your own route, including your own stairwell.
+
+### Park connector walks with hip assist: planning longer routes
+
+URL: https://exostride.sg/guides/park-connector-walks-with-hip-assist/
+
+Question: How do you plan a longer walk on Singapore's park connectors?
+
+Answer: Pick a flat section with shelters, toilets and an easy way home at several points, walk it in the cooler part of the day, keep to the walking side of shared paths, and turn back before you feel tired. Build distance gradually. A powered hip exoskeleton can extend how far you comfortably go: the manufacturer claims a two- to three-fold increase in walking range for the ExoStride US-H-1.0Pro. Plan the battery for the full walk, out and back.
+
+#### Why park connectors suit longer walks
+
+Singapore's Park Connector Network, managed by the National Parks Board (NParks), links parks and green spaces across the island with paths designed for walking, jogging and cycling. For anyone building up walking distance, park connectors have big advantages over streets: few road crossings, mostly flat surfaces, greenery and shade, and regular access points back to housing estates and transport.
+
+They are a good place to turn a short daily walk into an occasional long one.
+
+#### Choose the right section
+
+Not every stretch is equally suitable for someone building up distance. Look for:
+
+- Flat sections along canals, rivers and reservoirs rather than hilly park interiors.
+- Regular shelters and benches.
+- Toilets along the way or at the parks the connector joins.
+- Exits back to bus stops or MRT stations at several points, so you can cut the walk short.
+
+NParks publishes maps of the network, and many sections are signposted. Walk a new section in daylight the first time.
+
+#### Plan out and back
+
+The most common mistake on long walks is going too far out. Plan the walk as an out-and-back or a loop and turn around while you still feel fresh. A useful rule is to turn back when you have used about 40% of your energy, not 50%, because the return usually feels harder.
+
+Keep a simple note of where you turned and how you felt, so next time you can go one shelter further.
+
+#### Share the path safely
+
+Many park connectors are shared with cyclists and personal mobility users. Where paths are marked, keep to the pedestrian side. Walk predictably, look before stepping sideways, and keep to the left on unmarked paths. If you walk with a friend, walk single file when bicycles pass.
+
+#### Time it around the heat
+
+Early morning and late afternoon are the most comfortable times. Carry water, wear a hat, and have a plan for a sudden shower, since storms can arrive quickly. Our guide to walking in Singapore heat has more on pacing.
+
+
+#### Where hip assist extends the walk
+
+On a long, flat walk, the problem is not one hard climb but slow accumulation of tiredness. A powered hip exoskeleton removes part of the effort of every step, which adds up over a long distance.
+
+For the ExoStride US-H-1.0Pro, the manufacturer claims a two- to three-fold increase in walking range and up to 80% less lower-body load per step. Those are manufacturer claims; your own increase depends on your fitness, the route and the assistance level. On flat ground the assistance is light, and many users describe it as walking on a gentle downhill. On the short bridges and ramps that cross canals and roads, it ramps up automatically.
+
+It weighs 2.4 kg, is worn over clothing, leaves both hands free and pauses when you sit on a bench. It is IP54-rated, so a passing shower is not a problem for the device.
+
+#### Plan the battery like you plan water
+
+The spec sheet gives up to 4 hours of assistance per charge, with a full charge in two hours. On a flat route, that covers a long walk. Charge it fully the night before, and plan the walk so that the return leg is within your battery as well as your legs. If the battery runs out, it stops assisting but does not lock your legs; you walk home normally, carrying 2.4 kg. Our battery guide explains how terrain affects the hours.
+
+#### Build up gradually
+
+Increase your longest walk by a modest amount each week rather than doubling it. Keep your shorter daily walks going. Our guide to a daily walking routine covers that side. If you have a health condition, check with your doctor before taking on longer walks.
+
+#### A sample first long walk
+
+- Choose a flat section near home with a bus stop or MRT station at each end.
+- Charge the device fully the night before and set off before the heat builds.
+- Walk at an easy pace to the first shelter beyond your usual distance.
+- Sit for a few minutes, drink water and decide: continue to the next shelter, or turn back.
+- Note how far you went and how you felt, so next week's walk can go a little further.
+
+
+- Q: Are park connectors suitable for older walkers?
+  A: Many sections are flat, paved and well shaded, with shelters and exits along the way, which makes them a good choice. Pick sections with toilets and transport nearby, and walk at cooler times.
+- Q: How far should I walk on my first long walk?
+  A: Only a little further than your usual walk. Turn back while you still feel fresh, and increase gradually over the following weeks.
+- Q: Is it a problem to wear the exoskeleton near cyclists?
+  A: No more than walking normally. Keep to the pedestrian side where marked and walk predictably.
+- Q: What if it rains during the walk?
+  A: The device is IP54-rated and handles rain while walking. Shelter from heavy storms for your own safety, especially if there is lightning.
+
+### Steep slopes and ramps: what hip assist changes, up and down
+
+URL: https://exostride.sg/guides/steep-slopes-and-ramps-singapore/
+
+Question: Does a powered hip exoskeleton help on steep slopes and ramps?
+
+Answer: Yes, going up. Climbing a slope means lifting your body with every step, and the hip does much of that work, so hip assistance is most noticeable on inclines. The ExoStride US-H-1.0Pro detects steep terrain and increases assistance automatically; the manufacturer claims up to 35% less energy on steep, sustained climbs. Going down, it reduces assistance so it never pushes you forward, because descent is about control and grip, not power. Shorter steps, a steady pace and good shoes still matter most.
+
+#### Why slopes are underestimated
+
+Stairs announce themselves. Slopes do not. A long ramp up to a station entrance, the road up to a hilltop estate, the path from the bus stop to a hospital on a hill or the incline at the end of a park walk can be just as tiring as a staircase, and they often go on longer. People who avoid stairs often find they have quietly started avoiding certain slopes too.
+
+#### What a slope does to each step
+
+On level ground, much of walking is about moving forward. On an incline, every step also has to raise your body a little. That extra work falls largely on the muscles that lift the leg and drive the body up: the hip flexors as the leg swings forward, and the hip and thigh muscles as you push up. The steeper the slope, the bigger the share of effort that goes into lifting.
+
+That is why your breathing changes on a hill even at a slow pace, and why the same distance feels much longer uphill.
+
+#### How to walk uphill with less effort
+
+- Shorten your steps. Short steps keep each lift small.
+- Keep a steady pace you could talk at; slow down before the slope rather than halfway up.
+- Lean slightly forward from the ankles, not the waist.
+- Use the handrail on ramps where there is one.
+- Rest briefly at flat sections or landings rather than stopping on the steepest part.
+
+#### How to walk downhill safely
+
+Going down is less tiring but riskier. The legs work as brakes, and wet surfaces add to the slip risk.
+
+- Take shorter steps and slow down.
+- Keep your knees slightly bent.
+- Use the handrail on ramps.
+- Wear shoes with good grip, especially after rain.
+
+
+#### What a powered hip exoskeleton changes uphill
+
+The ExoStride US-H-1.0Pro reads your gait continuously and recognises when the terrain gets steep. On an incline it increases assistance at the hip as each leg lifts, with a peak of 16 Nm (spec-sheet figure). For steep, sustained climbs, the manufacturer claims up to 35% less energy, and up to 80% less lower-body load per step overall. Those are manufacturer claims, and the effect depends on the slope, your pace and your fitness.
+
+In practice, users notice it most on long ramps and steep roads, where the cumulative effort matters. Our guide to how exoskeletons sense gait explains how the switch between flat and steep profiles happens without any button.
+
+#### What it does downhill
+
+On descent, the US-H-1.0Pro reduces assistance so that it never pushes you forward. Going downhill is a control problem rather than a power problem, and extra forward push would be the wrong kind of help. It does not provide braking or grip. Your shoes, your pace and the handrail are what keep you safe on the way down.
+
+#### Slopes versus stairs
+
+Stairs concentrate the lift into high, regular steps; slopes spread it over distance. A powered hip device helps with both. Our stairs guide covers MRT stations, overhead bridges and HDB blocks, and our guide to when the HDB lift is down covers long stair climbs.
+
+#### Battery on hilly routes
+
+Climbing draws more power than flat walking. The spec sheet gives up to 4 hours of assistance per charge; a route with a lot of uphill will use it faster. Charge it fully before a hilly day.
+
+#### Wet slopes
+
+The US-H-1.0Pro is IP54-rated, so rain is not a problem for the device. It is a problem for grip. Slow down and use handrails on wet ramps, and avoid steep, slippery paths after heavy rain.
+
+#### Find the slopes on your routes
+
+Many people do not realise how many slopes they avoid. Take a week and note every route you skip or shorten because of a hill or a long ramp: the road up to a friend's estate, the path to a hilltop clinic, the ramp at a station entrance. Those are the routes to test first. A fitting on your own route lets you feel the difference on the slope that actually matters to you, rather than on a demonstration ramp.
+
+
+- Q: Does it push me downhill?
+  A: No. On descent it reduces assistance so it never pushes you forward. Use short steps and the handrail.
+- Q: How steep a slope can it handle?
+  A: It is designed for everyday slopes, ramps and hill paths and switches to a steep-terrain profile automatically. Your own fitness and footing set the limit; if a slope feels unsafe, take another route.
+- Q: Is it useful on gentle slopes?
+  A: On gentle slopes the assistance is lighter. Most people notice the biggest difference on longer, steeper inclines.
+- Q: Can I try it on my own hill?
+  A: Yes. Fittings in Singapore are done on your own route, so you can test it on the slope that matters to you.
+
+### Travelling with a powered exoskeleton: airports and flights
+
+URL: https://exostride.sg/guides/travelling-with-a-powered-exoskeleton/
+
+Question: Can you take a powered exoskeleton on a flight?
+
+Answer: Usually, but check first. The device contains a lithium-ion battery, and airlines and aviation authorities set rules for lithium batteries based on their watt-hour (Wh) rating. Ask the seller for the battery's Wh rating, then check with your airline before you book; rules can differ between airlines and routes. Keep the device in your cabin bag unless the airline tells you otherwise, and allow time at security. Once there, it can make long airport walks and sightseeing days far easier.
+
+#### Why travel is where walking gets hard
+
+Holidays involve far more walking than most people do at home. Long airport corridors, immigration queues, train stations with stairs, old towns with cobbles and hills, and museum days on your feet. For people who manage fine at home, it is often travel that shows how much stamina has dropped. For people who already find walking tiring, it can be the reason they stop travelling.
+
+A powered hip exoskeleton can help on the ground. Getting it there takes a little planning.
+
+#### Lithium batteries and flying
+
+Powered exoskeletons run on rechargeable lithium-ion batteries. Aviation rules treat lithium batteries carefully, and airlines apply limits based on the battery's energy rating in watt-hours (Wh). Under widely used international guidance, batteries up to 100 Wh are generally allowed in cabin baggage, batteries between 100 and 160 Wh usually need airline approval, and spare batteries must be carried in the cabin, not in checked bags. Rules can change and airlines may apply their own policies.
+
+What to do:
+
+- Ask the ExoStride team for the battery's watt-hour rating and any documentation they can provide.
+- Check your airline's dangerous goods or battery page, or call them, before booking.
+- Note the answer and the name of the person you spoke to, if you called.
+- Pack the device in your cabin bag unless the airline says otherwise.
+
+#### Security screening
+
+Treat it like any electronic device. Take it out of your bag if asked, and be ready to explain that it is a wearable walking assist. If you are wearing it, it is usually easier to take it off before the scanner and put it in a tray, since it contains metal and electronics. Allow extra time.
+
+#### The airport itself
+
+Large airports involve long walks between check-in, security, gates and baggage halls. Many people find it most useful here:
+
+- Wear it from the moment you arrive at the airport, after security if that is easier.
+- Use travelators and lifts as well; the goal is arriving rested, not walking every metre.
+- Most airports offer mobility assistance on request, such as a buggy or wheelchair. You can arrange it through your airline in advance, and it is worth doing if you have any doubt about long walks.
+
+
+#### Charging abroad
+
+The US-H-1.0Pro charges fully in two hours and gives up to 4 hours of assistance per charge, according to the spec sheet. Before you travel:
+
+- Check the charger's voltage rating and bring the right plug adapter for your destination.
+- Charge every night, and if you have a long sightseeing day, top up over lunch.
+- Never leave it charging in a hot car.
+
+#### Sightseeing days on foot
+
+Holiday walking is often slower than commuting, with lots of stopping and starting, which suits on-demand assistance. Plan days around the battery as well as your legs: hilly towns and stair-heavy sights use more charge. Posture detection pauses assistance when you sit in a café, so stops do not drain it.
+
+For the US-H-1.0Pro, the manufacturer claims a two- to three-fold increase in walking range and up to 35% less energy on climbs. Those are manufacturer claims; your own result depends on you, the terrain and the assistance level. Our battery guide explains how terrain changes the hours.
+
+#### Weather abroad
+
+IP54 covers dust and splashing water from any direction, so rain is not a problem. Very cold weather affects lithium batteries temporarily; keep the device warm when not in use. Sustained heat is worse for batteries than use in the sun; do not store it in a car.
+
+#### Travel insurance
+
+Check whether your travel insurance covers the device against loss, damage or theft. It may need to be declared as a valuable item.
+
+#### A simple packing list
+
+- The device, folded in your cabin bag.
+- Its charger and the right plug adapter for your destination.
+- The battery's watt-hour rating and any documents from the seller, on paper and on your phone.
+- Your airline's written confirmation, if you asked for one.
+- Comfortable walking shoes you have already worn with the device.
+
+
+- Q: Can I check in the exoskeleton with my luggage?
+  A: Lithium battery rules usually require batteries to travel in the cabin. Check with your airline; in most cases it is simplest to carry the device in your cabin bag.
+- Q: What is the battery's watt-hour rating?
+  A: Ask the Singapore team for the current figure and documentation before booking, and give that figure to your airline.
+- Q: Will it set off the airport scanner?
+  A: It contains metal and electronics, so expect it to be screened like a laptop. Taking it off and placing it in a tray is usually quickest.
+- Q: Can I use it on a cruise or tour bus?
+  A: Usually yes, as a worn walking aid. Ask the operator about charging facilities on board.
+
+### On your feet all shift: hip assist for jobs with lots of walking
+
+URL: https://exostride.sg/guides/jobs-with-lots-of-walking/
+
+Question: Can a powered hip exoskeleton help people whose jobs involve a lot of walking?
+
+Answer: It can help with the walking and the stairs, which is where it is designed to work. A hip exoskeleton reduces the effort of lifting each leg, so patrols, rounds, stair-heavy deliveries and long corridors cost less energy. It does not help with lifting, carrying or long periods of standing still, and it is not personal protective equipment. Check with your employer and workplace safety rules before wearing it at work, and talk to a doctor if leg pain is a problem.
+
+#### The walking nobody counts
+
+Some jobs involve far more walking than people realise. Security officers patrol buildings and car parks. Hospital porters and nurses cover long corridors. Cleaners and estate maintenance staff climb stairwells. Delivery riders walk the last stretch up to the flat. Retail and hospitality staff are on their feet for the whole shift. By the evening, many of them are as tired as if they had walked a long hike, and many of them are in their fifties and sixties.
+
+#### Where the effort goes on a walking shift
+
+- Distance: many hours of walking at a steady pace, with little sitting.
+- Stairs: stairwells in HDB blocks, car parks and older buildings.
+- Heat: outdoor rounds in Singapore's heat and humidity.
+- Standing: long periods standing still at counters or posts.
+- Carrying: equipment, trolleys, parcels.
+
+A walking assist device addresses the first two. The others need different solutions.
+
+#### Practical habits that help on any shift
+
+- Good, well-fitted shoes with cushioning, replaced before they wear flat.
+- Using lifts for long climbs where your route allows it.
+- Short sitting breaks when possible, rather than one long break.
+- Water through the shift, especially on outdoor rounds.
+- Varying routes where you can, so the stairs are not always at the end.
+
+#### Where powered hip assistance fits
+
+A powered hip exoskeleton such as the ExoStride US-H-1.0Pro adds torque at the hip as each leg lifts, up to 16 Nm on the spec sheet, and increases assistance automatically on stairs and slopes. For the commute, the manufacturer claims 30–50% less exertion across a day; for climbs, up to 35% less energy. Those are manufacturer claims, and actual results depend on the person and the route.
+
+
+For a walking-heavy shift, that means:
+
+- Rounds and corridors: light assistance on the flat, adding up over hours.
+- Stairwells: the biggest difference, where each step lifts the body.
+- Sitting breaks: posture detection pauses assistance when you sit, saving battery.
+- Hands free: nothing to hold, so you can carry a radio, a tablet or a parcel.
+
+It weighs 2.4 kg, is worn over clothing or a uniform, and is IP54-rated against dust and splashing water.
+
+#### What it is not for
+
+- Lifting and carrying. It assists walking, not the back or arms. For lifting tasks, workplaces use other equipment and training. Passive exoskeletons for lifting exist; see powered vs passive exoskeletons.
+- Standing still. It assists movement, not static standing.
+- Safety equipment. It is not personal protective equipment and does not replace safety boots, harnesses or other required gear.
+
+#### Battery across a shift
+
+The spec sheet gives up to 4 hours of assistance per charge, and a full charge takes two hours. Because assistance is delivered only while you walk and pauses when you sit, a shift with breaks stretches further. For a long shift, charge during the meal break. Our battery guide explains how stairs and slopes change the hours.
+
+#### Talk to your employer first
+
+Before wearing any device at work, check with your supervisor. Some workplaces have rules about equipment worn on the body, uniforms, or devices with batteries, especially in healthcare, food handling or secure sites. An employer may also be interested in it as a way to support older workers.
+
+#### When leg pain is the problem
+
+If your legs or hips hurt rather than just feel tired, see a doctor. Pain that comes on during work has a cause worth finding.
+
+#### Building it into a shift
+
+If you and your employer decide to try it, start with part of a shift rather than the whole day. Wear it for the rounds or the stair-heavy part of the work first, and note how your legs feel at the end compared with a normal day. Keep it on its charger during your meal break. After a week or two, you will know whether to wear it for the whole shift or only for the parts that tire you most. Our guide to walking in Singapore heat has pacing tips for outdoor rounds.
+
+#### A note for employers
+
+Older workers often know their routes best and tire most on them. A trial on the real route, with the worker's agreement and a clear check of workplace rules, is a practical way to find out whether walking assistance helps your team.
+
+
+- Q: Can I wear it under my uniform?
+  A: It is designed to be worn over clothing at the waist and thighs. Ask your employer whether it can be worn over your uniform.
+- Q: Will it help with lifting boxes?
+  A: No. It assists walking, specifically lifting the leg as you step. It does not support the back or arms when lifting.
+- Q: Is it allowed in hospitals or secure sites?
+  A: That depends on the workplace's rules. Check with your employer before wearing it at work.
+- Q: Can I charge it at work?
+  A: It charges fully in two hours with its charger. A meal break is often enough for a useful top-up; ask your employer about a place to charge it.
+
+### Sitting on the MRT or bus with an exoskeleton on
+
+URL: https://exostride.sg/guides/sitting-on-mrt-bus-with-exoskeleton/
+
+Question: Can you sit down on the MRT or bus while wearing a powered exoskeleton?
+
+Answer: Yes. The ExoStride US-H-1.0Pro uses posture detection: when you sit, it pauses assistance, and when you stand up again it resumes, with nothing to press. It is a slim belt at the waist with short links along the outside of the thighs, so it fits normal seats. Standing in a moving train, it does not provide balance support, so hold a pole or handrail as usual. Folded, it is a 2.4 kg item you can carry like a bag.
+
+#### The question commuters actually ask
+
+Most people imagine an exoskeleton on stairs. Commuters ask a more ordinary question: what happens when I sit down? A Singapore commute alternates between walking and sitting: the walk to the bus stop, a seat on the bus, the interchange, a seat on the MRT, the stairs out of the station, the walk to the office. A device that only works when you walk has to behave sensibly the rest of the time.
+
+#### What posture detection does
+
+The US-H-1.0Pro reads your posture and movement continuously. When you sit, it recognises the change and pauses assistance, so it does not try to move your legs while you are seated. When you stand up and start walking, it resumes. There is nothing to press, which matters when you are juggling a phone, a bag and an EZ-Link card. Our guide to how exoskeletons sense gait explains how the device tells walking, climbing and sitting apart.
+
+#### Sitting down on the train or bus
+
+The device is a belt at the pelvis with short links along the outside of each thigh, worn over clothing. On normal train and bus seats:
+
+- Sit as you usually would. The hip joints sit at the sides, so they do not press into the seat back.
+- The thigh links lie along the outside of the thighs, so they take up little extra width. On a crowded bench, keep your knees together as you normally would.
+- If the belt presses when seated, the fit may need adjusting. Raise it with the team; our fit guide explains what to look for.
+
+#### Standing on a moving train
+
+Standing in a moving MRT or bus is about balance, not effort. The exoskeleton does not provide balance support and does not react to the train braking. Hold a pole or handrail as you always would, and give priority seats to those who need them, including yourself if you need one.
+
+
+#### Getting off with steady legs
+
+Standing up after a long ride is a moment when legs feel stiff. Posture detection resumes assistance as you stand and start walking. Take a moment to stand steadily before moving to the door. Then the walk out begins: the platform, the escalator or the stairs, and the climb to street level. That is where hip assistance is most noticeable. Our stairs guide covers MRT staircases and overhead bridges.
+
+#### Is it allowed on public transport?
+
+A powered hip exoskeleton is a worn mobility device. It has no wheels and no motorised travel, so it is not a personal mobility device in the sense of e-scooters or similar. Folded, it is a 2.4 kg item of luggage. If in doubt about a specific operator's policy, check with them directly.
+
+#### Battery on a commute
+
+Because assistance pauses when you sit, the seated parts of a commute use very little of the battery. The spec sheet gives up to 4 hours of assistance per charge, and a full charge takes two hours, so charging overnight keeps it ready for the next day. For the commute, the manufacturer claims 30–50% less exertion across a normal day; that is a manufacturer claim, and results vary with the person and route.
+
+#### Wearing it all day or just for the walk
+
+Many commuters wear it for the walk and take it off at the office, where it folds into a bag or sits under the desk. Others keep it on for errands at lunch. Either works; our daily commute guide covers both patterns.
+
+#### A sample commute, step by step
+
+- Walk to the bus stop: light assistance on the flat.
+- Sit on the bus: assistance pauses on its own.
+- Stand and walk through the interchange: assistance resumes as you move.
+- Sit or stand on the MRT: seated, it pauses; standing, hold the pole.
+- Climb out of the station: assistance ramps up on the stairs.
+- Arrive and fold it into your bag, or keep it on for lunch errands.
+
+
+- Q: Do I have to switch it off when I sit down?
+  A: No. Posture detection pauses assistance automatically when you sit and resumes when you stand. Switching off saves battery if you will sit for a long time.
+- Q: Is it comfortable to sit in for a long ride?
+  A: With a good fit, yes. The belt sits on the pelvis and the links run along the outside of the thighs. If anything presses, ask the team to adjust the fit.
+- Q: Will it help me balance when the train brakes?
+  A: No. It does not provide balance support. Hold a pole or handrail as usual.
+- Q: Is it allowed on the MRT and buses?
+  A: It is a worn mobility device with no wheels, not a personal mobility device. Folded, it is a 2.4 kg item. If in doubt, check with the operator.
+
+### Bukit Timah Hill with and without hip assist: measure it yourself
+
+URL: https://exostride.sg/guides/bukit-timah-hill-with-and-without-hip-assist/
+
+Question: How can you measure whether a hip exoskeleton helps on a climb like Bukit Timah Hill?
+
+Answer: Climb the same route twice, on similar days, at the same pace: once without assistance and once with it. Record five things: time to the summit, average and peak heart rate if you have a watch, rest stops, how hard it felt on a 0 to 10 scale, and how your legs felt on the way down. Repeat the pair at least once. If the assisted climbs are consistently easier at the same pace, the device is working for you. The manufacturer's "up to 35% less energy on climbs" is a claim to test, not a promise.
+
+#### Why measure instead of trusting the summit photo
+
+Outdoor exoskeleton marketing is full of summit shots. They tell you that someone reached the top, not what the device changed on the way. If you are considering a powered hip exoskeleton for hiking, the useful question is narrower: on a climb I know, at a pace I choose, how much easier is it?
+
+Bukit Timah Hill is a good test. At 163 m it is Singapore's highest natural hill, it sits in the Bukit Timah Nature Reserve managed by NParks, and the main route to the summit is short and steep. That makes it long enough to tire you and short enough to repeat.
+
+#### The rules of a fair test
+
+- Same route: start and finish at the same point, using the same path to the summit.
+- Same pace: the hardest rule. Use a pace you could talk at, and if you have a watch, aim for similar times.
+- Similar conditions: same time of day, similar weather, similar sleep and food.
+- Full recovery: do the two climbs on separate days, or at least with a long rest between.
+- Repeat: one pair of climbs can be luck. Two or more pairs show a pattern.
+
+Alternate the order: unassisted first one week, assisted first the next.
+
+#### The five numbers to record
+
+- Time to the summit, start to finish.
+- Heart rate: average for the climb and peak, if you have a watch or chest strap.
+- Rest stops: how many times you stopped.
+- Effort: how hard it felt at the top, from 0 (nothing) to 10 (the hardest possible).
+- Descent: how your legs felt on the way down, from 0 (fresh) to 10 (shaky).
+
+Write them down immediately at the summit and at the end.
+
+#### How to read the results
+
+If you kept the pace the same, look at heart rate and effort. Lower heart rate and a lower effort score at the same time suggest the climb cost you less. If you let yourself go faster when assisted, look at time and effort together: faster with the same effort also counts as easier.
+
+Heart rate is a rough measure. Heat, humidity, caffeine and sleep all move it. Do not read much into one pair of climbs; look for the same direction across several. Our guide to how energy savings are measured explains why labs use breathing, not heart rate, and why results vary.
+
+
+#### What the device does on this kind of climb
+
+The ExoStride US-H-1.0Pro adds up to 16 Nm at the hip as each leg lifts (spec-sheet figure). It detects steep terrain and increases assistance automatically. For steep, sustained ascents, the manufacturer claims up to 35% less energy. That is a manufacturer claim under the maker's conditions; your own measurement is what this guide is about.
+
+On the descent, it reduces assistance so it never pushes you forward. Expect the bigger difference on the way up.
+
+#### What the result does not tell you
+
+- It does not tell you how the device performs on a multi-hour hike; battery and heat come in. The spec sheet gives up to 4 hours of assistance per charge, and steep climbing draws harder.
+- It does not measure the cost of carrying 2.4 kg on flatter sections.
+- It does not replace training. If you are preparing for an unassisted climb overseas, train unassisted too.
+
+Our trekking poles comparison looks at the same question from the other side: where poles move effort and where hip assist removes it.
+
+#### Practicalities on the hill
+
+- Go early to avoid the heat and the crowds.
+- Bring water, and turn back if you feel unwell.
+- The reserve has rules for visitors; check NParks for current trail status and opening hours before you go.
+- Fittings can be arranged on a trail, so the team can set the assistance level for steep terrain.
+
+#### A sample log page
+
+Keep the log in the same format every time so the climbs are easy to compare. One line per climb is enough:
+
+- Date, start time and weather, for example "Sat 7:10, 27°C, overcast".
+- Assisted or unassisted, and the assistance level if you changed it.
+- Time to summit, rest stops, average and peak heart rate.
+- Effort at the top and leg feel on the way down, each from 0 to 10.
+
+After four climbs you will have two fair pairs. Compare unassisted with assisted within each pair first, then look across the pairs. A consistent gap in effort or heart rate at the same pace is the result that matters; a single fast day is not.
+
+
+- Q: Do I need a heart rate monitor for this test?
+  A: No. Time, rest stops and your effort score are enough to see a difference. Heart rate adds detail if you have it.
+- Q: Will the battery last for Bukit Timah Hill?
+  A: A summit climb and return is well within the spec-sheet figure of up to 4 hours of assistance per charge. Charge it fully before you go.
+- Q: Does it help on the way down?
+  A: It reduces assistance on descent so it never pushes you forward. Your legs and the path control the descent; walk carefully.
+- Q: Is one test enough to decide?
+  A: No. Do at least two pairs of climbs, alternating which comes first, and look for a consistent difference.
+
+### Knee brace vs powered hip assist for hiking: what each changes
+
+URL: https://exostride.sg/guides/knee-brace-vs-hip-exoskeleton-hiking/
+
+Question: Should a hiker use a knee brace or a powered hip exoskeleton?
+
+Answer: They solve different problems. A knee brace supports and stabilises the knee and is mainly about comfort, confidence and control, especially on descents. A powered hip exoskeleton adds energy at the hip as you lift each leg, which matters most on climbs. If your knee is the problem, start with a doctor or physiotherapist and the right brace. If your legs run out of energy on the ascent, hip assistance targets that. Many hikers who use a brace for the way down could add hip assist for the way up.
+
+#### Two products that get compared because they sit on the leg
+
+Hikers with tired or sore legs often end up asking the same question in a shop or online: should I get a knee brace or one of those powered exoskeletons? The comparison is natural because both are worn on the legs. But they act on different joints, in different ways, at different parts of the hike.
+
+This guide is a measured comparison of what each actually changes. It is not medical advice. If your knee hurts, see a doctor or physiotherapist before choosing either.
+
+#### What a knee brace does
+
+Knee braces range from simple elastic sleeves to hinged braces with rigid supports. In general, they:
+
+- Provide compression and warmth, which many people find comfortable.
+- Add a sense of support and confidence, especially on uneven ground.
+- In hinged designs, limit unwanted sideways movement or control how far the knee bends.
+
+What a brace does not do is add energy. A brace cannot push you up a hill. Its main value is on the way down, on rough ground and for knee comfort, and the right type depends on the knee problem. That is a question for a clinician.
+
+#### What powered hip assist does
+
+A powered hip exoskeleton such as the ExoStride US-H-1.0Pro sits at the waist, with links along the outside of each thigh. It reads your gait and adds up to 16 Nm of torque at the hip as each leg lifts (spec-sheet figure), increasing automatically on steep terrain. It leaves the knee free.
+
+- On climbs: it adds energy at the moment the hip lifts the leg. The manufacturer claims up to 35% less energy on steep, sustained ascents; that is a manufacturer claim, and results depend on the hiker and the trail.
+- On descents: it reduces assistance so it never pushes you forward. It does not brace or protect the knee.
+- On the flat: light assistance, adding up over distance.
+
+#### Where each helps on a typical hike
+
+- Steep ascent: brace offers little; hip assist offers the most.
+- Long, steady climb: brace offers little; hip assist reduces accumulated fatigue.
+- Steep descent: brace offers support and confidence; hip assist reduces assistance and offers little.
+- Rough, uneven ground: brace offers stability for some knees; hip assist offers no stability.
+- End of a long day: both can matter, for different reasons.
+
+
+#### Weight and comfort
+
+A knee sleeve weighs very little; a hinged brace more. Both sit mid-leg and are swung with every step. A hip exoskeleton weighs more in total, 2.4 kg for the US-H-1.0Pro, but sits at the waist, where weight costs less to carry. Our guide to hip, knee and ankle exoskeletons explains why placement matters.
+
+In tropical heat, a brace or sleeve can be hot and sweaty against the skin. The exoskeleton is worn over clothing, at the waist and outer thigh. It is IP54-rated against dust and splashing water.
+
+#### Can you use both?
+
+Often, yes. A brace on the knee and a hip exoskeleton above it address different problems. Check at the fitting that the brace does not interfere with the thigh links, and ask your physiotherapist whether you still need the brace. Many hikers also keep trekking poles for descent and balance; our trekking poles comparison covers that combination.
+
+#### How to decide
+
+- "My knee hurts or feels unstable." See a doctor or physiotherapist. A brace may be part of the answer; hip assist is not a knee treatment.
+- "I'm fine on the way down but wrecked on the way up." Hip assist targets that.
+- "Both." A brace for the knee and hip assist for the climbs can work together.
+
+Whichever you try, measure it. Our guide to testing on Bukit Timah Hill sets out a fair before-and-after method.
+
+#### Planning a hike with either
+
+Whatever you choose, plan the hike around the hardest section. Know where the steepest climb and the steepest descent are, and when you will reach them. With a brace, put it on before the descent if you only need it there. With hip assistance, make sure the battery is full for the main climb; the spec sheet gives up to 4 hours of assistance per charge, and steep ground draws harder. Carry water, start early to avoid the heat, and turn back if your knee or your energy says so.
+
+
+- Q: Will a hip exoskeleton protect my knees on the descent?
+  A: No. It reduces assistance on the way down and does not brace the knee. For knee support, a brace, poles and careful technique are the relevant tools.
+- Q: Can I wear a knee brace under the exoskeleton's thigh straps?
+  A: It depends on the brace. Bring it to the fitting so the team can check that it does not interfere with the thigh links.
+- Q: Which helps more on long climbs?
+  A: Hip assistance, because it adds energy where the climb costs most. A brace does not add energy.
+- Q: Is a powered exoskeleton a replacement for knee rehabilitation?
+  A: No. It is a consumer mobility-assist device and does not treat knee conditions. Follow your physiotherapist's programme.
+
+<!-- generated-guides:end -->
 ## Editorial method
 
 Every guide on this site is chosen against a whitespace analysis of 302 posts from seven competing exoskeleton brands over the trailing twelve months (share of category content supply versus engagement-rate index, platform-normalised). We write where supply is low and attention is high — rehabilitation and dignity, plain-language specifications, and stairs and commutes — and we stay out of the saturated adventure lane unless we have something measured to add. Figures below describe the category, not ExoStride's own performance.

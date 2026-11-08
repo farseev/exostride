@@ -1,0 +1,87 @@
+order: 23
+slug: hdb-lift-down-climbing-stairs
+w: W3
+pillar: Smoother Commutes
+title: When the HDB lift is down: getting up many floors safely
+desc: What to do when the lift at your HDB block is out of service: pacing a long stair climb, when not to try it, planning ahead and where hip assist helps.
+keywords: HDB lift breakdown what to do, climbing many floors of stairs, lift out of service elderly, how to climb stairs without getting tired, stairs when lift is broken
+q: What should you do when the lift in your HDB block is down and you need to climb many floors?
+a: First, decide whether you should climb at all. If you are older, unwell or have a heart, lung or joint condition, wait, get help or ask the town council about assistance. If you do climb, go slowly, use the handrail, rest on each landing before you need to, carry little, and keep both hands free. A powered hip exoskeleton reduces the effort of lifting each leg on stairs; the manufacturer claims up to 35% less energy on climbs. It does not replace caution.
+stats: 1|landing at a time;; 2|hands free for the rail;; Up to 35%|climb energy (manufacturer claim)
+hero: gen-commute-stairs.jpg
+duo: exostride-climbing-stairs-confidence.jpg, exostride-adaptive-power-stairs-closeup.jpg
+og: og-commute.jpg
+wa: Hi, we live on a high floor and lift breakdowns are hard for my parent. I'd like to learn about ExoStride and try it on our stairs.
+related: powered-hip-assist-for-stairs, aging-in-place-powered-exoskeleton, steep-slopes-and-ramps-singapore
+---
+## A routine problem with a real cost
+
+Most HDB residents rarely think about the stairs, because the lift does the work. Then the lift is down for maintenance or a fault, and for a morning or a day the stairwell is the only way home. For a fit adult on the fourth floor, that is an inconvenience. For an older resident on the fourteenth floor with shopping, it can mean being stuck downstairs or stuck at home.
+
+This guide covers how to handle it safely, how to plan ahead, and where walking assistance fits.
+
+## First: should you climb at all?
+
+Waiting is often the right answer. Do not attempt a long climb if:
+
+- You have a heart or lung condition, or get chest pain or unusual breathlessness on exertion.
+- You have recently been ill, had surgery or a fall.
+- You feel dizzy, unwell or very tired.
+- It is the hottest part of the day and the stairwell is warm.
+
+Alternatives include waiting at a neighbour's flat or the void deck, asking the town council about the expected repair time, or asking family to bring things up. For a planned maintenance closure, the notice usually gives the dates in advance.
+
+## If you do climb: pace it
+
+Long stair climbs go wrong when people start too fast. Climb at a pace you could keep up while talking.
+
+- Use the handrail on every flight.
+- Rest on a landing before you feel you need to, for example every two or three floors, longer as you go up.
+- Breathe steadily; do not hold your breath on the steps.
+- Carry as little as possible. A backpack is better than bags in each hand.
+- Drink water before and after.
+
+Stop and sit on a landing if you feel dizzy, breathless or unwell. Ask a neighbour for help if needed.
+
+## Plan ahead if you have an older resident at home
+
+- Note the town council's contact number for lift faults.
+- Keep a few days of essential medication and groceries at home.
+- Agree with a neighbour or family member who can help on lift-down days.
+- Do not leave chairs or stools in the stairwell, which must stay clear. Instead, know which landings are wide enough to stop and rest on.
+
+[[duo]]
+
+## Where hip assistance helps
+
+On stairs, the expensive part of each step is lifting the leg and body up to the next step. The hip does much of that work. A powered hip exoskeleton adds assistance at exactly that moment.
+
+The ExoStride US-H-1.0Pro delivers up to 16 Nm at the hip (spec-sheet figure), recognises stairs automatically and ramps up assistance on them. The manufacturer claims up to 35% less energy on steep, sustained climbs and up to 80% less lower-body load per step; those are manufacturer claims, and the effect on a long climb depends on the person. Both hands stay free for the handrail, it weighs 2.4 kg, and it pauses when you sit on a landing to rest.
+
+Our guide to [powered hip assist for stairs](guide:powered-hip-assist-for-stairs) explains what the device does on each step, and our guide to [aging in place](guide:aging-in-place-powered-exoskeleton) covers daily life on a high floor more broadly.
+
+## What it does not change
+
+It does not make a long climb safe for someone who should not be climbing. It does not help with breathlessness from a heart or lung condition, and it does not catch a fall. Going down, it reduces assistance so it never pushes you forward; the handrail remains your main aid.
+
+## Battery on a long climb
+
+Stairs draw more power than flat ground. The spec sheet gives up to 4 hours of assistance per charge, and a single climb uses only a fraction of that. If lift works are scheduled, charge the device fully the night before; a full charge takes two hours.
+
+## If you live on a high floor
+
+Residents on high floors feel lift outages most. If walking is already hard, it is worth thinking about this before the next outage rather than during it. Note which neighbours are usually home, keep a list of the town council's contacts on the fridge, and practise a few flights of stairs on a good day, with someone alongside, so the stairwell is familiar. A fitting on your own stairwell is also the most realistic way to find out whether hip assistance makes a difference for you.
+
+## FAQ
+
+? How many floors can I climb with a hip exoskeleton?
+It depends on your fitness and health, not on the device. It reduces the effort of each step, but the climb is still yours. Go slowly, rest on landings and stop if you feel unwell.
+
+? Does it help coming down the stairs?
+It reduces assistance on the way down so it never pushes you forward. Descent is about control; use the handrail.
+
+? Is it safe on narrow HDB stairwells?
+It is worn close to the body at the hip and thighs and adds little width. Keep one hand on the rail.
+
+? Can I try it on my own block's stairs?
+Yes. Fittings are done on your own route, including your own stairwell.

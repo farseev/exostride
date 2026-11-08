@@ -1,0 +1,76 @@
+order: 28
+slug: sitting-on-mrt-bus-with-exoskeleton
+w: W3
+pillar: Smoother Commutes
+title: Sitting on the MRT or bus with an exoskeleton on
+desc: What happens when you sit down wearing a powered hip exoskeleton: posture detection, train and bus seats, standing in a crowd and getting off steadily.
+keywords: can you sit down wearing an exoskeleton, exoskeleton on MRT, exoskeleton on bus Singapore, posture detection exoskeleton, commuting with exoskeleton seated
+q: Can you sit down on the MRT or bus while wearing a powered exoskeleton?
+a: Yes. The ExoStride US-H-1.0Pro uses posture detection: when you sit, it pauses assistance, and when you stand up again it resumes, with nothing to press. It is a slim belt at the waist with short links along the outside of the thighs, so it fits normal seats. Standing in a moving train, it does not provide balance support, so hold a pole or handrail as usual. Folded, it is a 2.4 kg item you can carry like a bag.
+stats: Auto|pause when you sit;; 0|buttons to press at your stop;; 2.4 kg|folded, if you take it off
+hero: exostride-commuter-portrait-mrt-singapore.jpg
+duo: exostride-station-stairs-dhoby-ghaut.jpg, exostride-commuter-hip-exoskeleton-overpass.jpg
+og: og-commute.jpg
+wa: Hi, I commute by MRT and bus. I'd like to learn about ExoStride and try sitting and standing with it on my route.
+related: exoskeleton-daily-commute-singapore, how-exoskeletons-sense-gait, powered-hip-assist-for-stairs
+---
+## The question commuters actually ask
+
+Most people imagine an exoskeleton on stairs. Commuters ask a more ordinary question: what happens when I sit down? A Singapore commute alternates between walking and sitting: the walk to the bus stop, a seat on the bus, the interchange, a seat on the MRT, the stairs out of the station, the walk to the office. A device that only works when you walk has to behave sensibly the rest of the time.
+
+## What posture detection does
+
+The US-H-1.0Pro reads your posture and movement continuously. When you sit, it recognises the change and pauses assistance, so it does not try to move your legs while you are seated. When you stand up and start walking, it resumes. There is nothing to press, which matters when you are juggling a phone, a bag and an EZ-Link card. Our guide to [how exoskeletons sense gait](guide:how-exoskeletons-sense-gait) explains how the device tells walking, climbing and sitting apart.
+
+## Sitting down on the train or bus
+
+The device is a belt at the pelvis with short links along the outside of each thigh, worn over clothing. On normal train and bus seats:
+
+- Sit as you usually would. The hip joints sit at the sides, so they do not press into the seat back.
+- The thigh links lie along the outside of the thighs, so they take up little extra width. On a crowded bench, keep your knees together as you normally would.
+- If the belt presses when seated, the fit may need adjusting. Raise it with the team; our [fit guide](guide:exoskeleton-fit-and-sizing) explains what to look for.
+
+## Standing on a moving train
+
+Standing in a moving MRT or bus is about balance, not effort. The exoskeleton does not provide balance support and does not react to the train braking. Hold a pole or handrail as you always would, and give priority seats to those who need them, including yourself if you need one.
+
+[[duo]]
+
+## Getting off with steady legs
+
+Standing up after a long ride is a moment when legs feel stiff. Posture detection resumes assistance as you stand and start walking. Take a moment to stand steadily before moving to the door. Then the walk out begins: the platform, the escalator or the stairs, and the climb to street level. That is where hip assistance is most noticeable. Our [stairs guide](guide:powered-hip-assist-for-stairs) covers MRT staircases and overhead bridges.
+
+## Is it allowed on public transport?
+
+A powered hip exoskeleton is a worn mobility device. It has no wheels and no motorised travel, so it is not a personal mobility device in the sense of e-scooters or similar. Folded, it is a 2.4 kg item of luggage. If in doubt about a specific operator's policy, check with them directly.
+
+## Battery on a commute
+
+Because assistance pauses when you sit, the seated parts of a commute use very little of the battery. The spec sheet gives up to 4 hours of assistance per charge, and a full charge takes two hours, so charging overnight keeps it ready for the next day. For the commute, the manufacturer claims 30–50% less exertion across a normal day; that is a manufacturer claim, and results vary with the person and route.
+
+## Wearing it all day or just for the walk
+
+Many commuters wear it for the walk and take it off at the office, where it folds into a bag or sits under the desk. Others keep it on for errands at lunch. Either works; our [daily commute guide](guide:exoskeleton-daily-commute-singapore) covers both patterns.
+
+## A sample commute, step by step
+
+- Walk to the bus stop: light assistance on the flat.
+- Sit on the bus: assistance pauses on its own.
+- Stand and walk through the interchange: assistance resumes as you move.
+- Sit or stand on the MRT: seated, it pauses; standing, hold the pole.
+- Climb out of the station: assistance ramps up on the stairs.
+- Arrive and fold it into your bag, or keep it on for lunch errands.
+
+## FAQ
+
+? Do I have to switch it off when I sit down?
+No. Posture detection pauses assistance automatically when you sit and resumes when you stand. Switching off saves battery if you will sit for a long time.
+
+? Is it comfortable to sit in for a long ride?
+With a good fit, yes. The belt sits on the pelvis and the links run along the outside of the thighs. If anything presses, ask the team to adjust the fit.
+
+? Will it help me balance when the train brakes?
+No. It does not provide balance support. Hold a pole or handrail as usual.
+
+? Is it allowed on the MRT and buses?
+It is a worn mobility device with no wheels, not a personal mobility device. Folded, it is a 2.4 kg item. If in doubt, check with the operator.

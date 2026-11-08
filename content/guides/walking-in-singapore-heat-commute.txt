@@ -1,0 +1,80 @@
+order: 22
+slug: walking-in-singapore-heat-commute
+w: W3
+pillar: Smoother Commutes
+title: Walking in Singapore heat: pacing a hot, humid commute
+desc: How to walk a Singapore commute in heat and humidity without arriving drained: timing, shade, pacing on stairs and bridges, water and hip assist.
+keywords: walking in Singapore heat, hot weather commute Singapore, how to not sweat walking to work Singapore, humid weather walking tips, arrive at work less sweaty
+q: How do you walk a commute in Singapore's heat without arriving drained?
+a: Slow down on the climbs, use the shade and the covered walkways, and plan the route rather than walking the shortest line. Heat makes every effort cost more, and the stairs, overhead bridges and slopes are where commuters overheat. Walking at an even pace, drinking water before you leave, wearing light clothing and taking the lift or escalator where it saves a climb all help. A powered hip exoskeleton can reduce the effort of those climbs; the manufacturer claims 30–50% less exertion on a daily commute.
+stats: 30–50%|commute exertion (manufacturer claim);; IP54|rain and sweat splashes;; 2.4 kg|folds into a work bag
+hero: exostride-commuter-hip-exoskeleton-overpass.jpg
+duo: exostride-commuter-portrait-mrt-singapore.jpg, exostride-station-stairs-dhoby-ghaut.jpg
+og: og-commute.jpg
+wa: Hi, my walking commute leaves me drained in the heat. I'd like to learn about ExoStride and try it on my route.
+related: exoskeleton-daily-commute-singapore, powered-hip-assist-for-stairs, ip54-rating-tropical-climate
+---
+## Why a short walk feels long here
+
+Singapore's climate is hot and humid all year. Humidity matters as much as temperature: sweat cools the body by evaporating, and in humid air it evaporates slowly. So the body works harder to stay cool, and any extra effort, such as a flight of stairs or a brisk pace, adds heat that is hard to shed. That is why a 10-minute walk can leave you arriving at the office damp and tired.
+
+Most of the cost is concentrated in a few places: the climb out of the MRT station, the overhead bridge, the slope up to the office and the final stretch in the sun.
+
+## Plan the route, not just the distance
+
+The shortest route is rarely the coolest. Before changing anything else, look at your route again:
+
+- Covered linkways and sheltered walkways between the station, bus stops and buildings.
+- Underground links and air-conditioned malls that connect to stations.
+- Escalators and lifts that replace a climb, even if they add a minute.
+- The shady side of the street, which changes between morning and evening.
+
+A route that is two minutes longer but mostly covered usually arrives cooler.
+
+## Pace for the climbs
+
+The most effective change is pacing. Walk at a pace you could hold while talking, and slow down slightly before stairs and slopes rather than attacking them. Heat builds fastest on climbs. Arriving at the top of the overhead bridge breathless means arriving at work overheated.
+
+- Keep an even pace rather than rushing to catch a crossing.
+- On stairs, take each step without hurrying and use the handrail.
+- Pause in the shade after a long climb rather than in the sun.
+
+## Before you leave and when you arrive
+
+- Drink water before leaving, and carry a bottle.
+- Wear light, breathable clothing for the walk; change shirts at work if needed.
+- Cool down in the air-conditioning for a few minutes before starting work.
+
+## When the climbs are the problem
+
+For many commuters, the flat parts of the walk are fine. It is the stairs at a deep station, the overhead bridge over a main road and the slope at the end that leave them drained. Reducing the effort of those specific climbs reduces the heat your body builds up.
+
+[[duo]]
+
+A powered hip exoskeleton adds assistance as each leg lifts, with the most help on stairs and slopes. The ExoStride US-H-1.0Pro delivers up to 16 Nm at the hip (spec-sheet figure). For the commute, the manufacturer claims 30–50% less exertion across a normal day, and up to 35% less energy on climbs; both are manufacturer claims, and what you feel depends on you and your route. It is IP54-rated, which covers rain and splashing water, folds to fit a work bag, and starts with one button. Our guides to [daily commuting](guide:exoskeleton-daily-commute-singapore) and [stairs](guide:powered-hip-assist-for-stairs) cover the routes in more detail.
+
+## Sweat, rain and the device
+
+Sweat and sudden downpours are part of walking here. IP54 means the device is protected against dust and splashing water from any direction, which covers rain while walking and normal sweat. It does not cover immersion or pressure jets. Our [IP54 guide](guide:ip54-rating-tropical-climate) explains the limits. Store it out of hot car boots; sustained heat is bad for any lithium battery.
+
+## Know the warning signs
+
+Heat illness is a real risk, especially for older people and anyone with heart conditions. Stop, find shade or air-conditioning, drink water and seek help if you feel dizzy, confused, nauseous, have a headache or stop sweating despite the heat. Talk to your doctor if you have a condition that affects how you handle heat.
+
+## Try the route at both ends of the day
+
+A route that feels fine at 8 a.m. can be punishing at 6 p.m., when the pavement has been in the sun all day. Walk your commute in both directions before changing anything, and note where you start to feel hot: the climb out of the station, the bridge, the last stretch to the door. Those few points are where planning, pacing and, if needed, walking assistance make the most difference.
+
+## FAQ
+
+? What time of day is coolest for walking in Singapore?
+Early morning is usually the most comfortable, followed by the evening once the sun is lower. Midday and early afternoon are the hottest.
+
+? Will a hip exoskeleton make me hotter because I am wearing more?
+It is a belt at the waist with short thigh links, worn over clothing, so it covers little skin. The question is whether the effort it removes on climbs outweighs the extra layer at the waist; the best test is your own route.
+
+? Can I wear it in the rain?
+Yes. It is IP54-rated, which covers splashing water from any direction, including rain while walking. Avoid immersion and standing water above the unit.
+
+? Will people at work see it?
+Many commuters wear it for the walk and fold it into a bag at the desk. Folded, it is a 2.4 kg item.

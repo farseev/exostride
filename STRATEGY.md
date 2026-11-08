@@ -79,3 +79,42 @@ adventure lane, and it does so on the measured-comparison angle (where the effor
 - All ExoStride performance figures (80% load reduction, 35% climbing energy, 30–50% commute
   exertion, 2–3× range) are manufacturer claims for the US-H-1.0Pro. Every page says so, and
   `ai.txt` asks answer engines to attribute them that way.
+
+## The 30 guides added on 2026-11-08
+
+Same verdicts, same rules: mostly W1 and W2, then W3 written as search answers, and only two W4 pieces, both on the measured-comparison angle. Each targets a different search question from the nine originals. Content lives in `content/guides/*.txt` and is rendered by `tools/build_guides.py`.
+
+| Whitespace | Pillar | Guide | Primary keywords |
+|---|---|---|---|
+| W1 | Intelligent Rehabilitation | [A physiotherapist's guide to powered hip exoskeletons](https://exostride.sg/guides/physiotherapist-guide-powered-hip-exoskeleton/) | exoskeleton for physiotherapy patients, physiotherapist exoskeleton guide |
+| W1 | Intelligent Rehabilitation | [After a hip or knee replacement: where a hip exoskeleton fits](https://exostride.sg/guides/exoskeleton-after-hip-or-knee-replacement/) | exoskeleton after hip replacement, exoskeleton after knee replacement |
+| W1 | Intelligent Rehabilitation | [How to put on a hip exoskeleton seated: a calm routine](https://exostride.sg/guides/how-to-put-on-a-hip-exoskeleton/) | how to put on a hip exoskeleton, wearing an exoskeleton seated |
+| W1 | Intelligent Rehabilitation | [Fear of falling: rebuilding walking confidence after a fall](https://exostride.sg/guides/fear-of-falling-walking-confidence/) | fear of falling elderly, walking confidence after a fall |
+| W1 | Intelligent Rehabilitation | [Keeping a daily walk in your 70s and 80s in Singapore](https://exostride.sg/guides/daily-walking-routine-older-adults-singapore/) | daily walking routine elderly Singapore, walking exercise for seniors Singapore |
+| W1 | Intelligent Rehabilitation | [Wearing a mobility aid without feeling old](https://exostride.sg/guides/wearing-a-mobility-aid-in-public/) | embarrassed to use walking aid, mobility aid stigma |
+| W1 | Intelligent Rehabilitation | [Who a powered hip exoskeleton is not for: an honest checklist](https://exostride.sg/guides/who-should-not-use-powered-hip-exoskeleton/) | who should not use an exoskeleton, exoskeleton contraindications |
+| W1 | Intelligent Rehabilitation | [Is it working? What to track in the first month with an exoskeleton](https://exostride.sg/guides/tracking-progress-with-a-powered-exoskeleton/) | is my exoskeleton working, exoskeleton progress tracking |
+| W1 | Intelligent Rehabilitation | [Keeping up with the grandchildren: school runs and playgrounds](https://exostride.sg/guides/keeping-up-with-grandchildren-mobility/) | grandparent mobility keeping up with grandchildren, grandparents childcare Singapore walking |
+| W1 | Intelligent Rehabilitation | [Walking together again: pacing outings with an older parent](https://exostride.sg/guides/walking-together-caregiver-and-parent/) | walking with elderly parent, outings with elderly parent Singapore |
+| W1 | Intelligent Rehabilitation | [Getting the home ready for a powered exoskeleton: a checklist](https://exostride.sg/guides/exoskeleton-home-setup-checklist/) | exoskeleton home setup, preparing home for mobility aid |
+| W2 | Smoother Commutes | [How to read an exoskeleton spec sheet: the numbers that matter](https://exostride.sg/guides/how-to-read-an-exoskeleton-spec-sheet/) | exoskeleton specifications explained, how to compare exoskeletons |
+| W2 | Smoother Commutes | [Is 2.4 kg heavy for an exoskeleton? Where the weight sits](https://exostride.sg/guides/exoskeleton-weight-explained/) | how heavy is an exoskeleton, exoskeleton weight |
+| W2 | Intelligent Rehabilitation | ["Up to 80%": how to read exoskeleton performance claims](https://exostride.sg/guides/how-to-judge-exoskeleton-performance-claims/) | exoskeleton claims, does an exoskeleton really work |
+| W2 | For Outdoor Sports | [How exoskeleton energy savings are measured: metabolic cost](https://exostride.sg/guides/exoskeleton-metabolic-cost-explained/) | exoskeleton metabolic cost, how are exoskeleton energy savings measured |
+| W2 | Smoother Commutes | [Powered vs passive exoskeletons: what is the difference?](https://exostride.sg/guides/powered-vs-passive-exoskeleton/) | powered vs passive exoskeleton, passive exoskeleton |
+| W2 | Intelligent Rehabilitation | [Hip, knee or ankle exoskeleton: which joint should be assisted?](https://exostride.sg/guides/hip-vs-knee-vs-ankle-exoskeleton/) | hip vs knee exoskeleton, ankle exoskeleton vs hip exoskeleton |
+| W2 | Smoother Commutes | [How does an exoskeleton know when to help? Gait sensing explained](https://exostride.sg/guides/how-exoskeletons-sense-gait/) | how does an exoskeleton work, exoskeleton gait detection |
+| W2 | Intelligent Rehabilitation | [Medical vs consumer exoskeleton: what the label means in Singapore](https://exostride.sg/guides/medical-vs-consumer-exoskeleton-singapore/) | is an exoskeleton a medical device, medical exoskeleton Singapore |
+| W2 | Smoother Commutes | [How a hip exoskeleton should fit: sizing, straps and pressure points](https://exostride.sg/guides/exoskeleton-fit-and-sizing/) | exoskeleton fit, exoskeleton sizing |
+| W2 | Smoother Commutes | [Before you buy an exoskeleton: 12 questions to ask the seller](https://exostride.sg/guides/exoskeleton-buying-checklist-questions/) | exoskeleton buying guide, questions to ask before buying an exoskeleton |
+| W3 | Smoother Commutes | [Walking in Singapore heat: pacing a hot, humid commute](https://exostride.sg/guides/walking-in-singapore-heat-commute/) | walking in Singapore heat, hot weather commute Singapore |
+| W3 | Smoother Commutes | [When the HDB lift is down: getting up many floors safely](https://exostride.sg/guides/hdb-lift-down-climbing-stairs/) | HDB lift breakdown what to do, climbing many floors of stairs |
+| W3 | Smoother Commutes | [Park connector walks with hip assist: planning longer routes](https://exostride.sg/guides/park-connector-walks-with-hip-assist/) | park connector walking Singapore, long walks Singapore |
+| W3 | Smoother Commutes | [Steep slopes and ramps: what hip assist changes, up and down](https://exostride.sg/guides/steep-slopes-and-ramps-singapore/) | walking up steep slopes tips, exoskeleton for slopes |
+| W3 | Smoother Commutes | [Travelling with a powered exoskeleton: airports and flights](https://exostride.sg/guides/travelling-with-a-powered-exoskeleton/) | travelling with an exoskeleton, can I bring an exoskeleton on a plane |
+| W3 | Smoother Commutes | [On your feet all shift: hip assist for jobs with lots of walking](https://exostride.sg/guides/jobs-with-lots-of-walking/) | tired legs from walking at work, jobs with lots of walking |
+| W3 | Smoother Commutes | [Sitting on the MRT or bus with an exoskeleton on](https://exostride.sg/guides/sitting-on-mrt-bus-with-exoskeleton/) | can you sit down wearing an exoskeleton, exoskeleton on MRT |
+| W4 | For Outdoor Sports | [Bukit Timah Hill with and without hip assist: measure it yourself](https://exostride.sg/guides/bukit-timah-hill-with-and-without-hip-assist/) | Bukit Timah Hill climb, hiking exoskeleton test |
+| W4 | For Outdoor Sports | [Knee brace vs powered hip assist for hiking: what each changes](https://exostride.sg/guides/knee-brace-vs-hip-exoskeleton-hiking/) | knee brace vs exoskeleton, knee brace for hiking |
+
+Counts: W1 11 · W2 10 · W3 7 · W4 2.

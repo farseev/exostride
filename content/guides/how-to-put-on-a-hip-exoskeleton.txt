@@ -1,0 +1,86 @@
+order: 3
+slug: how-to-put-on-a-hip-exoskeleton
+w: W1
+pillar: Intelligent Rehabilitation
+title: How to put on a hip exoskeleton seated: a calm routine
+desc: A seated, step-by-step routine for putting on and taking off a powered hip exoskeleton when bending, balance or stiff joints make getting dressed hard.
+keywords: how to put on a hip exoskeleton, wearing an exoskeleton seated, exoskeleton for limited mobility, donning exoskeleton, exoskeleton for elderly how to wear
+q: How do you put on a powered hip exoskeleton if you have limited mobility?
+a: Sitting down, in the same chair every time. With the ExoStride US-H-1.0Pro the routine is: sit with feet flat, place the belt around the waist and fasten it, settle the thigh straps on the outside of each thigh, check that nothing pinches, then stand with support before pressing the one button. After a fitting, most users can do it seated in under a minute. Nothing requires standing on one leg or bending to the floor.
+stats: < 1 min|seated, after a fitting;; 1|button to start;; 0|apps needed to walk
+hero: exostride-elderly-couple-afternoon-walk.jpg
+duo: exostride-adaptive-power-stairs-closeup.jpg, exostride-wet-market-morning-run.jpg
+og: og-rehabilitation.jpg
+wa: Hi, I'd like to learn about ExoStride. Putting things on is hard for my parent — can the fitting show us how to do it seated?
+related: exoskeleton-fit-and-sizing, exoskeleton-home-setup-checklist, exoskeleton-for-elderly-parent-caregiver-guide
+---
+## Why a routine matters more than speed
+
+For someone with stiff hips, a sore back or uncertain balance, the hardest part of any walking aid is often not the walk. It is getting ready. Bending to fasten shoes, standing on one leg to step into something, or fiddling with a strap behind the back are all moments where people give up, or fall. A walking aid that is awkward to put on gets left by the door.
+
+A powered hip exoskeleton is worn at the waist and along the outside of the thighs, over normal clothing. That makes it easier than most braces, because nothing goes over the feet. But a good routine still makes the difference between using it every day and using it twice.
+
+## Before the first time: set up the spot
+
+Choose one chair and keep the device next to it. A firm dining chair with arms is ideal: high enough that standing up is easy, with armrests to push from. Avoid low sofas and soft beds.
+
+- Keep the chair in a well-lit place with a clear path to the door.
+- Store the exoskeleton folded on a low shelf or stool beside the chair, not on the floor.
+- Put the charger within reach of the same spot, so charging becomes part of taking it off.
+
+Our [home set-up checklist](guide:exoskeleton-home-setup-checklist) covers flooring, charging and storage in more detail.
+
+## Putting it on, step by step
+
+The exact buckles and adjustments are shown at the fitting, and the team sets the strap lengths so that later you only need to fasten, not adjust. The order below is the general pattern.
+
+- Sit right back in the chair with both feet flat on the floor and knees roughly level with the hips.
+- Unfold the device on your lap so the belt faces you and the thigh links hang down on each side.
+- Bring the belt around your waist and fasten it at the front. It should sit low, on the bony part of the pelvis, snug but not tight enough to restrict breathing.
+- Lay each thigh link along the outside of the thigh and close the thigh strap. You should be able to slide two fingers under it.
+- Check for pinching at the waist and the thighs, and that clothing is not bunched underneath.
+- Place both hands on the armrests and stand up the way you normally would. If you use a stick or a frame, have it ready.
+- Once you are standing steadily, press the one button to start assistance.
+
+After a fitting, the manufacturer says most users can do this seated in under a minute. In the first week, give it five. Rushing is how straps end up twisted.
+
+[[duo]]
+
+## Sitting down and getting up again
+
+You do not need to switch the device off to sit. Posture detection pauses assistance when you sit and resumes it when you stand, so a rest on a bench or at the kopitiam does not need any action. If you are going to sit for a long time, switching off saves battery.
+
+## Taking it off
+
+- Sit down in your chair first.
+- Switch the device off.
+- Open the thigh straps, then the belt.
+- Fold it on your lap and put it back on its shelf.
+- Plug in the charger if you will use it again tomorrow. A full charge takes two hours.
+
+## When a family member helps
+
+If a son, daughter, spouse or helper assists, agree who does what. A good split is that the wearer fastens the belt themselves and the helper closes the thigh straps. That keeps the wearer in charge, which matters more than it sounds. Our [caregiver's guide](guide:exoskeleton-for-elderly-parent-caregiver-guide) covers how to raise the idea without it feeling like a judgement.
+
+## Signs the fit needs adjusting
+
+- Red marks that are still visible twenty minutes after taking it off.
+- The belt slides up towards the ribs as you walk.
+- The thigh links rotate to the front of the leg.
+- You feel the assistance pushing at a moment that feels wrong.
+
+Any of these is a reason to contact the team rather than live with it. See our guide to [how a hip exoskeleton should fit](guide:exoskeleton-fit-and-sizing) for what good looks like.
+
+## FAQ
+
+? Do I need to stand to put it on?
+No. The whole routine is done seated, and you only stand once the belt and thigh straps are fastened. Start the assistance after you are standing steadily.
+
+? Can I wear it over a sarong, skirt or dress?
+It is designed to be worn over clothing at the waist and thighs. Loose or long fabric can bunch under the straps, so try your usual clothing at the fitting and the team will advise.
+
+? What if my hands are weak or arthritic?
+Raise it at the fitting. The team sets strap lengths in advance so that daily use is mostly fastening, and a family member or helper can do the thigh straps.
+
+? Does it need an app to start?
+No. One button starts assistance. The app is optional and is only used for settings.
