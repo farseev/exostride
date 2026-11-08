@@ -116,7 +116,7 @@
 - [Bahasa Melayu — home](https://exostride.sg/ms/) · [guides](https://exostride.sg/ms/guides/) (39 translated)
 - [हिन्दी — home](https://exostride.sg/hi/)
 - [Filipino — home](https://exostride.sg/fil/)
-- [Español — home](https://exostride.sg/es/)
+- [Español — home](https://exostride.sg/es/) · [guides](https://exostride.sg/es/guides/) (39 translated)
 - [Français — home](https://exostride.sg/fr/)
 - [Deutsch — home](https://exostride.sg/de/)
 - [Português — home](https://exostride.sg/pt/) · [guides](https://exostride.sg/pt/guides/) (39 translated)
