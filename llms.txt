@@ -113,7 +113,7 @@
 - [ไทย — home](https://exostride.sg/th/)
 - [Tiếng Việt — home](https://exostride.sg/vi/)
 - [Bahasa Indonesia — home](https://exostride.sg/id/)
-- [Bahasa Melayu — home](https://exostride.sg/ms/) · [guides](https://exostride.sg/ms/guides/) (9 translated)
+- [Bahasa Melayu — home](https://exostride.sg/ms/) · [guides](https://exostride.sg/ms/guides/) (39 translated)
 - [हिन्दी — home](https://exostride.sg/hi/)
 - [Filipino — home](https://exostride.sg/fil/)
 - [Español — home](https://exostride.sg/es/)
