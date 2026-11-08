@@ -120,7 +120,7 @@
 - [Français — home](https://exostride.sg/fr/) · [guides](https://exostride.sg/fr/guides/) (39 translated)
 - [Deutsch — home](https://exostride.sg/de/) · [guides](https://exostride.sg/de/guides/) (39 translated)
 - [Português — home](https://exostride.sg/pt/) · [guides](https://exostride.sg/pt/guides/) (39 translated)
-- [العربية — home](https://exostride.sg/ar/)
+- [العربية — home](https://exostride.sg/ar/) · [guides](https://exostride.sg/ar/guides/) (39 translated)
 - [Русский — home](https://exostride.sg/ru/) · [guides](https://exostride.sg/ru/guides/) (39 translated)
 
 ## Optional
