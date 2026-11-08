@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée| ExoStride Singapour</title>
+<meta name="description" content="Comment un exosquelette motorisé lit votre marche, décide quand pousser et passe du terrain plat aux escaliers et aux pentes — et pourquoi le bon moment compte plus que la force.">
+<meta name="keywords" content="comment fonctionne un exosquelette, détection de la marche exosquelette, capteurs exosquelette, comment un exosquelette sait quand assister, commande adaptative exosquelette">
+<link rel="canonical" href="https://exostride.sg/fr/guides/how-exoskeletons-sense-gait/">
+<link rel="alternate" hreflang="en-SG" href="https://exostride.sg/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="zh-Hans-SG" href="https://exostride.sg/zh/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="zh-Hant" href="https://exostride.sg/zh-hant/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="ja" href="https://exostride.sg/ja/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="ko" href="https://exostride.sg/ko/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="ms" href="https://exostride.sg/ms/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="es" href="https://exostride.sg/es/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="fr" href="https://exostride.sg/fr/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="pt" href="https://exostride.sg/pt/guides/how-exoskeletons-sense-gait/"><link rel="alternate" hreflang="x-default" href="https://exostride.sg/guides/how-exoskeletons-sense-gait/">
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large">
+<meta name="author" content="HT Science &amp; Development Pte. Ltd.">
+<meta name="publisher" content="HT Science &amp; Development Pte. Ltd.">
+<meta name="geo.region" content="SG">
+<meta name="geo.placename" content="Singapore">
+<meta name="theme-color" content="#141519">
+<meta name="format-detection" content="telephone=yes">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="ExoStride Singapore">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:locale:alternate" content="en_SG">
+<meta property="og:locale:alternate" content="zh_SG">
+<meta property="og:locale:alternate" content="zh_TW">
+<meta property="og:locale:alternate" content="ja_JP">
+<meta property="og:locale:alternate" content="ko_KR">
+<meta property="og:locale:alternate" content="ms_MY">
+<meta property="og:locale:alternate" content="es_ES">
+<meta property="og:locale:alternate" content="pt_BR">
+<meta property="og:url" content="https://exostride.sg/fr/guides/how-exoskeletons-sense-gait/">
+<meta property="og:title" content="Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée| ExoStride Singapour">
+<meta property="og:description" content="Comment un exosquelette motorisé lit votre marche, décide quand pousser et passe du terrain plat aux escaliers et aux pentes — et pourquoi le bon moment compte plus que la force.">
+<meta property="og:image" content="https://exostride.sg/assets/og-commute.jpg">
+<meta property="og:image:secure_url" content="https://exostride.sg/assets/og-commute.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée| ExoStride Singapour">
+<meta property="article:published_time" content="2026-11-08"><meta property="article:modified_time" content="2026-11-08"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée| ExoStride Singapour">
+<meta name="twitter:description" content="Comment un exosquelette motorisé lit votre marche, décide quand pousser et passe du terrain plat aux escaliers et aux pentes — et pourquoi le bon moment compte plus que la force.">
+<meta name="twitter:image" content="https://exostride.sg/assets/og-commute.jpg">
+<meta name="twitter:image:alt" content="Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée| ExoStride Singapour">
+<link rel="icon" href="../../../assets/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="../../../assets/favicon.svg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../../assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../../assets/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="192x192" href="../../../assets/favicon-192x192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../../../assets/apple-touch-icon.png">
+<link rel="manifest" href="../../../site.webmanifest">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="image" href="../../../assets/exostride-station-stairs-dhoby-ghaut.jpg">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,100,400;0,100,500;0,100,600;0,100,700;0,125,800;1,125,700;1,125,800;1,125,900&family=IBM+Plex+Mono:wght@500;600&family=Noto+Sans+SC:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../../assets/site.css">
+<script>if('IntersectionObserver' in window)document.documentElement.className+=' js';</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://exostride.sg/#organization","name":"HT Science & Development Pte. Ltd.","alternateName":"HT Science","url":"https://exostride.sg","logo":{"@type":"ImageObject","url":"https://exostride.sg/assets/favicon-512x512.png","width":512,"height":512},"image":"https://exostride.sg/assets/og-default.jpg","description":"Exclusive Singapore seller of the ExoStride US-H-1.0Pro powered hip exoskeleton.","identifier":{"@type":"PropertyValue","name":"UEN","value":"202033252G001"},"telephone":"+65 8355 0979","address":{"@type":"PostalAddress","addressCountry":"SG","addressLocality":"Singapore"},"areaServed":{"@type":"Country","name":"Singapore"},"contactPoint":[{"@type":"ContactPoint","telephone":"+65 9122 7009","contactType":"sales","areaServed":"SG","availableLanguage":["en","zh-Hans"]},{"@type":"ContactPoint","telephone":"+65 8355 0979","contactType":"customer support","areaServed":"SG","availableLanguage":["en","zh-Hans"]}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://exostride.sg/#website","url":"https://exostride.sg","name":"ExoStride Singapore","inLanguage":"fr","publisher":{"@id":"https://exostride.sg/#organization"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","@id":"https://exostride.sg/fr/guides/how-exoskeletons-sense-gait/#article","headline":"Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée","name":"Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée","description":"Comment un exosquelette motorisé lit votre marche, décide quand pousser et passe du terrain plat aux escaliers et aux pentes — et pourquoi le bon moment compte plus que la force.","abstract":"En lisant vos mouvements en continu. Des capteurs suivent le mouvement de vos cuisses et votre position dans chaque pas ; un contrôleur reconnaît le schéma de la marche, de la montée ou de la position assise et libère le couple au moment où la hanche commence à se lever. L’ExoStride US-H-1.0Pro le fait automatiquement : il lit la démarche, délivre l’assistance dans la fenêtre de flexion, change de profil entre terrain plat, escaliers et terrain raide, et se met en pause quand vous vous asseyez. Il n’y a rien à régler en marchant.","inLanguage":"fr","mainEntityOfPage":{"@type":"WebPage","@id":"https://exostride.sg/fr/guides/how-exoskeletons-sense-gait/"},"image":{"@type":"ImageObject","url":"https://exostride.sg/assets/og-commute.jpg","width":1200,"height":630},"datePublished":"2026-11-08","dateModified":"2026-11-08","author":{"@id":"https://exostride.sg/#organization"},"publisher":{"@id":"https://exostride.sg/#organization"},"about":{"@id":"https://exostride.sg/#product"},"mentions":[{"@type":"Product","name":"ExoStride US-H-1.0Pro"}],"keywords":"comment fonctionne un exosquelette, détection de la marche exosquelette, capteurs exosquelette, comment un exosquelette sait quand assister, commande adaptative exosquelette","articleSection":"Les caractéristiques, expliquées","wordCount":873,"isAccessibleForFree":true}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"QAPage","inLanguage":"fr","mainEntity":{"@type":"Question","name":"Comment un exosquelette motorisé sait-il quand vous aider ?","text":"Comment un exosquelette motorisé sait-il quand vous aider ?","answerCount":1,"acceptedAnswer":{"@type":"Answer","text":"En lisant vos mouvements en continu. Des capteurs suivent le mouvement de vos cuisses et votre position dans chaque pas ; un contrôleur reconnaît le schéma de la marche, de la montée ou de la position assise et libère le couple au moment où la hanche commence à se lever. L’ExoStride US-H-1.0Pro le fait automatiquement : il lit la démarche, délivre l’assistance dans la fenêtre de flexion, change de profil entre terrain plat, escaliers et terrain raide, et se met en pause quand vous vous asseyez. Il n’y a rien à régler en marchant.","url":"https://exostride.sg/fr/guides/how-exoskeletons-sense-gait/#answer"}}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","inLanguage":"fr","mainEntity":[{"@type":"Question","name":"Combien de temps lui faut-il pour s’adapter à ma marche ?","acceptedAnswer":{"@type":"Answer","text":"L’appareil lit votre démarche dès les premiers pas. La plupart des gens ont besoin de quelques marches pour s’habituer à la sensation ; l’essai fixe un niveau d’assistance adapté pour commencer."}},{"@type":"Question","name":"Et si je marche de façon irrégulière ou lentement ?","acceptedAnswer":{"@type":"Answer","text":"La détection de la marche s’appuie sur votre propre schéma, pas sur un schéma idéal. Si l’assistance vous semble mal synchronisée, dites-le à l’équipe lors de l’essai ; le niveau d’assistance peut être ajusté."}},{"@type":"Question","name":"Sait-il quand je descends un escalier ?","acceptedAnswer":{"@type":"Answer","text":"Il réduit l’assistance en descente pour ne jamais vous pousser vers l’avant. Tenez toujours la main courante dans les escaliers."}},{"@type":"Question","name":"Puis-je désactiver le changement automatique ?","acceptedAnswer":{"@type":"Answer","text":"L’appareil est conçu pour que la marche ne demande aucun réglage. Demandez à l’équipe ce qui peut être ajusté dans l’application facultative."}}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"https://exostride.sg/fr/"},{"@type":"ListItem","position":2,"name":"Guides","item":"https://exostride.sg/fr/guides/"},{"@type":"ListItem","position":3,"name":"Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée","item":"https://exostride.sg/fr/guides/how-exoskeletons-sense-gait/"}]}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","@id":"https://exostride.sg/fr/guides/how-exoskeletons-sense-gait/#webpage","url":"https://exostride.sg/fr/guides/how-exoskeletons-sense-gait/","name":"Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée| ExoStride Singapour","description":"Comment un exosquelette motorisé lit votre marche, décide quand pousser et passe du terrain plat aux escaliers et aux pentes — et pourquoi le bon moment compte plus que la force.","inLanguage":"fr","isPartOf":{"@id":"https://exostride.sg/#website"},"primaryImageOfPage":{"@type":"ImageObject","url":"https://exostride.sg/assets/exostride-station-stairs-dhoby-ghaut.jpg"},"speakable":{"@type":"SpeakableSpecification","cssSelector":[".answer","h1"]}}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-2XGXKLFTZ9"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-2XGXKLFTZ9');
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Aller au contenu</a>
+<nav id="nav">
+ <div class="wrap nav-in">
+  <a href="../../" aria-label="ExoStride"><img src="../../../assets/exostride-wordmark.png" width="640" height="144" alt="ExoStride" style="height:26px"></a>
+  <div class="nav-links">
+   <a href="../../#cases">Usages</a>
+   <a href="../">Guides</a>
+   <a href="../../#how">Fonctionnement</a>
+   <a href="../../#specs">Caractéristiques</a>
+   <a href="../../#try" class="m-only">Réserver un essai</a>
+  </div>
+  <details class="langsw" translate="no"><summary aria-label="Langue: Français"><span>FR</span></summary><ul><li><a href="../../../guides/how-exoskeletons-sense-gait/" hreflang="en-SG" lang="en-SG">English</a></li><li><a href="../../../zh/guides/how-exoskeletons-sense-gait/" hreflang="zh-Hans-SG" lang="zh-Hans-SG">简体中文</a></li><li><a href="../../../zh-hant/guides/how-exoskeletons-sense-gait/" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a></li><li><a href="../../../ja/guides/how-exoskeletons-sense-gait/" hreflang="ja" lang="ja">日本語</a></li><li><a href="../../../ko/guides/how-exoskeletons-sense-gait/" hreflang="ko" lang="ko">한국어</a></li><li><a href="../../../th/" hreflang="th" lang="th">ไทย</a></li><li><a href="../../../vi/" hreflang="vi" lang="vi">Tiếng Việt</a></li><li><a href="../../../id/" hreflang="id" lang="id">Bahasa Indonesia</a></li><li><a href="../../../ms/guides/how-exoskeletons-sense-gait/" hreflang="ms" lang="ms">Bahasa Melayu</a></li><li><a href="../../../hi/" hreflang="hi" lang="hi">हिन्दी</a></li><li><a href="../../../fil/" hreflang="fil" lang="fil">Filipino</a></li><li><a href="../../../es/guides/how-exoskeletons-sense-gait/" hreflang="es" lang="es">Español</a></li><li><a href="./" hreflang="fr" lang="fr" aria-current="true">Français</a></li><li><a href="../../../de/" hreflang="de" lang="de">Deutsch</a></li><li><a href="../../../pt/guides/how-exoskeletons-sense-gait/" hreflang="pt" lang="pt">Português</a></li><li><a href="../../../ar/" hreflang="ar" lang="ar">العربية</a></li><li><a href="../../../ru/" hreflang="ru" lang="ru">Русский</a></li></ul></details>
+  <a class="btn" href="../../#try"><span>Réserver un essai</span></a>
+  <button class="burger" id="burger" aria-label="Menu" aria-expanded="false" aria-controls="nav"><span></span><span></span><span></span></button>
+ </div>
+</nav>
+<div class="art-head">
+ <div class="wrap">
+  <nav class="crumbs" aria-label="Fil d’Ariane"><a href="../../">Accueil</a> <span>/</span><a href="../">Guides</a> <span>/</span>Les caractéristiques, expliquées</nav>
+  <h1 class="disp">Comment un exosquelette sait-il quand aider ? La détection de la marche expliquée</h1>
+  <div class="art-meta">
+   <span class="on">Des trajets plus légers</span>
+   <span>Les caractéristiques, expliquées</span>
+   <span>Mis à jour le 2026-11-08</span>
+  </div>
+ </div>
+</div>
+<figure class="art-hero"><img src="../../../assets/exostride-station-stairs-dhoby-ghaut.jpg" alt="Un navetteur porte ExoStride dans l’escalier d’une station de MRT"
+  fetchpriority="high" width="800" height="533"></figure>
+<main id="main"><div class="artwrap">
+<article>
+ <div class="answer" id="answer"><span class="lab">La réponse courte</span>
+  <p><strong>Comment un exosquelette motorisé sait-il quand vous aider ?</strong></p>
+  <p>En lisant vos mouvements en continu. Des capteurs suivent le mouvement de vos cuisses et votre position dans chaque pas ; un contrôleur reconnaît le schéma de la marche, de la montée ou de la position assise et libère le couple au moment où la hanche commence à se lever. L’ExoStride US-H-1.0Pro le fait automatiquement : il lit la démarche, délivre l’assistance dans la fenêtre de flexion, change de profil entre terrain plat, escaliers et terrain raide, et se met en pause quand vous vous asseyez. Il n’y a rien à régler en marchant.</p></div>
+ <div class="artstats"><div><b>En continu</b><span>lecture de la démarche</span></div><div><b>3</b><span>profils de terrain : plat, escaliers, raide</span></div><div><b>0</b><span>réglage à modifier en marchant</span></div></div><h2 class="disp">Le problème que tout exosquelette motorisé doit résoudre</h2><p>Un moteur à la hanche peut pousser la cuisse vers l’avant. Le plus difficile, c’est de savoir quand. Poussez une fraction de seconde trop tôt ou trop tard, et l’assistance contrarie votre foulée au lieu de l’aider. Poussez de la même façon dans un escalier que sur un trottoir plat, et cela sonne faux dans l’un ou l’autre cas. Poussez pendant que vous vous asseyez, et cela devient une gêne.</p><p>La véritable intelligence d’un exosquelette motorisé n’est donc pas dans son moteur. Elle est dans sa façon de lire votre marche.</p><h2 class="disp">Ce que mesurent les capteurs</h2><p>Les exosquelettes portables utilisent couramment une combinaison de :</p><ul class="pts"><li><span>Capteurs d’angle articulaire, qui mesurent l’amplitude du mouvement de la cuisse par rapport au bassin.</span></li><li><span>Centrales inertielles (IMU), de petites puces comme celles d’un téléphone, qui mesurent l’accélération et la rotation.</span></li><li><span>Retour moteur, qui indique au contrôleur comment l’articulation bouge et quelle force est appliquée.</span></li></ul><p>Ensemble, ils donnent une image, plusieurs fois par seconde, de la position de chaque jambe dans le cycle de marche. La conception exacte des capteurs varie selon les fabricants et n’est généralement pas publiée en détail.</p><h2 class="disp">Des mesures à la décision</h2><p>Le contrôleur transforme ces mesures en décisions :</p><ul class="pts"><li><span>Phase : où en suis-je dans le pas ? Le moment le plus important pour l’assistance de la hanche est celui où la jambe commence à partir vers l’avant et à se lever : la fenêtre de flexion.</span></li><li><span>Activité : suis-je en train de marcher à plat, de monter un escalier, de gravir une pente, de descendre, de me tenir debout ou d’être assis ?</span></li><li><span>Quantité : combien d’assistance cette activité demande-t-elle, dans les limites du niveau réglé lors de l’essai ?</span></li></ul><p>Pour le US-H-1.0Pro, le comportement publié est le suivant : il lit la démarche en continu, libère le couple dans la fenêtre de flexion, change seul de profil d’assistance entre terrain plat, escaliers et terrain raide, et utilise la détection de posture pour se mettre en pause quand vous vous asseyez. Le couple maximal est de 16 Nm selon la fiche technique.</p><div class="duo"><div class="ph"><img src="../../../assets/exostride-adaptive-power-stairs-closeup.jpg" alt="Gros plan sur le module de hanche et le bras de cuisse d’ExoStride pendant que l’utilisateur monte une marche" loading="lazy" width="800" height="1020"></div><div class="ph"><img src="../../../assets/exostride-commuter-hip-exoskeleton-overpass.jpg" alt="Un navetteur traverse une passerelle en portant l’exosquelette de hanche ExoStride" loading="lazy" width="800" height="1020"></div></div><h2 class="disp">Pourquoi le bon moment compte plus que la force</h2><p>Une image utile : un ami donne à votre cuisse une petite poussée bien synchronisée vers l’avant et le haut chaque fois que vous commencez un pas. Une légère poussée au bon moment aide. Une forte bourrade au mauvais moment vous déséquilibre. C’est pourquoi un couple maximal élevé sur une fiche technique ne veut pas dire grand-chose sans un bon timing, et pourquoi certaines personnes éteignent les appareils qui leur semblent brusques. Notre <a href="../hip-torque-16nm-explained/">explication des 16 Nm</a> entre dans les chiffres.</p><h2 class="disp">Ce qui change dans les escaliers, les pentes et les descentes</h2><ul class="pts"><li><span>Terrain plat : l’assistance est légère. Beaucoup d’utilisateurs la décrivent comme marcher sur un sol en légère descente.</span></li><li><span>Escaliers et montées : chaque pas exige de lever la jambe plus haut contre la gravité, l’assistance augmente donc. C’est là que s’applique l’affirmation du fabricant de jusqu’à 35 % d’énergie en moins en montée ; c’est une affirmation du fabricant et les résultats varient.</span></li><li><span>Descente : descendre est une question de contrôle, pas de puissance. Le US-H-1.0Pro réduit l’assistance pour ne jamais vous pousser vers l’avant, et la main courante reste votre aide principale.</span></li></ul><h2 class="disp">S’asseoir, se lever et s’arrêter</h2><p>La détection de posture met l’assistance en pause quand vous vous asseyez et la relance quand vous vous levez. Le banc de l’arrêt de bus ou le siège du train deviennent ainsi sans histoire. Notre guide pour <a href="../sitting-on-mrt-bus-with-exoskeleton/">s’asseoir dans le MRT ou le bus avec un exosquelette</a> aborde le côté pratique.</p><h2 class="disp">Pourquoi aucune application n’est nécessaire pour marcher</h2><p>Si un appareil vous demande de choisir un mode avant un escalier, vous devez penser à l’appareil au lieu de l’escalier. Le changement automatique supprime cette étape. Le US-H-1.0Pro démarre d’un seul bouton, et l’application facultative ne sert qu’aux réglages. Ce choix de conception compte surtout pour les seniors et pour quiconque veut simplement marcher.</p><h2 class="disp">Ce qu’il ne peut pas détecter</h2><ul class="pts"><li><span>Il ne détecte pas les problèmes d’équilibre et ne rattrape pas une chute.</span></li><li><span>Il ne connaît ni votre destination ni votre niveau de fatigue.</span></li><li><span>Il ne détecte pas une surface glissante ; l’adhérence dépend de vos chaussures et de la main courante.</span></li></ul><h2 class="disp">Motorisé ou passif</h2><p>C’est ce type de détection qui distingue les appareils motorisés des appareils passifs à ressorts, qui réagissent mécaniquement et ne peuvent pas changer de comportement selon le terrain. Voir <a href="../powered-vs-passive-exoskeleton/">exosquelettes motorisés ou passifs</a>.</p><h2 class="disp" id="faq">Questions fréquentes</h2><div class="faq"><details open><summary>Combien de temps lui faut-il pour s’adapter à ma marche ?</summary><div class="a">L’appareil lit votre démarche dès les premiers pas. La plupart des gens ont besoin de quelques marches pour s’habituer à la sensation ; l’essai fixe un niveau d’assistance adapté pour commencer.</div></details><details><summary>Et si je marche de façon irrégulière ou lentement ?</summary><div class="a">La détection de la marche s’appuie sur votre propre schéma, pas sur un schéma idéal. Si l’assistance vous semble mal synchronisée, dites-le à l’équipe lors de l’essai ; le niveau d’assistance peut être ajusté.</div></details><details><summary>Sait-il quand je descends un escalier ?</summary><div class="a">Il réduit l’assistance en descente pour ne jamais vous pousser vers l’avant. Tenez toujours la main courante dans les escaliers.</div></details><details><summary>Puis-je désactiver le changement automatique ?</summary><div class="a">L’appareil est conçu pour que la marche ne demande aucun réglage. Demandez à l’équipe ce qui peut être ajusté dans l’application facultative.</div></details></div><div class="ws-note"><b>Pourquoi nous avons publié ceci · W2 ESPACE VACANT</b> Les publications qui expliquent vraiment le couple, la batterie ou l’indice de protection représentent 2,6 % des contenus de la catégorie mais affichent un indice d’engagement de 8,5x. Le type de contenu « pédagogique » ne pèse que 5,2 %. Personne n’écrit les réponses — les moteurs de réponse n’ont donc rien de bon à citer.</div></article><aside class="rail">
+ <div class="card">
+  <h2>Parler à l’équipe de Singapour</h2>
+  <p>Vendeur exclusif à Singapour. Un essai accompagné sur votre propre parcours — à la maison, sur un sentier ou sur votre trajet.</p>
+  <a class="btn wa" href="https://wa.me/6591227009?text=Bonjour%2C%20j%E2%80%99aimerais%20savoir%20comment%20ExoStride%20s%E2%80%99adapte%20aux%20escaliers%20et%20aux%20pentes%2C%20et%20le%20sentir%20sur%20mon%20propre%20parcours." target="_blank" rel="noopener" data-wa="rail-how-exoskeletons-sense-gait"><span>Discuter sur WhatsApp</span></a>
+  <p style="margin:14px 0 0;font-size:13px">Tél. <a href="tel:+6583550979" style="color:var(--crimson)">+65 8355 0979</a></p>
+ </div>
+ <div class="card">
+  <h2>Le US-H-1.0Pro en bref</h2>
+  <div class="spec"><span>Couple d’assistance maximal</span><b>16 Nm</b></div><div class="spec"><span>Poids</span><b>2.4 kg</b></div><div class="spec"><span>Indice de protection</span><b>IP54</b></div><div class="spec"><span>Assistance par charge</span><b>Jusqu’à 4 h</b></div><div class="spec"><span>Charge complète</span><b>2 h</b></div>
+ </div>
+ <div class="card">
+  <h2>Guides associés</h2>
+  <ul><li><a href="../hip-torque-16nm-explained/">Ce que 16 Nm de couple à la hanche font vraiment pour votre corps</a></li><li><a href="../powered-vs-passive-exoskeleton/">Exosquelettes motorisés ou passifs : quelle différence ?</a></li><li><a href="../sitting-on-mrt-bus-with-exoskeleton/">S’asseoir dans le MRT ou le bus avec un exosquelette</a></li></ul>
+ </div>
+</aside>
+</div><section class="band">
+ <div class="wrap">
+  <h2 class="disp">Essayez-le sur votre propre parcours.</h2>
+  <p>Vendeur exclusif à Singapour. Un essai accompagné sur votre propre parcours — à la maison, sur un sentier ou sur votre trajet.</p>
+  <div class="cta-row">
+   <a class="btn wa" href="https://wa.me/6591227009?text=Bonjour%2C%20j%E2%80%99aimerais%20en%20savoir%20plus%20sur%20ExoStride%20et%20r%C3%A9server%20un%20essai%20%C3%A0%20Singapour." target="_blank" rel="noopener" data-wa="band"><span>Discuter sur WhatsApp</span></a>
+   <a class="btn ghost" href="../../#try"><span>Réserver un essai</span></a>
+  </div>
+ </div>
+</section></main><a class="wafab" href="https://wa.me/6591227009?text=Bonjour%2C%20j%E2%80%99aimerais%20savoir%20comment%20ExoStride%20s%E2%80%99adapte%20aux%20escaliers%20et%20aux%20pentes%2C%20et%20le%20sentir%20sur%20mon%20propre%20parcours." target="_blank" rel="noopener" data-wa="fab" aria-label="Écrivez-nous sur WhatsApp"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.47 14.38c-.3-.15-1.75-.86-2.02-.96-.27-.1-.47-.15-.67.15s-.77.96-.94 1.16c-.17.2-.35.22-.64.08-.3-.15-1.25-.46-2.38-1.47-.88-.78-1.47-1.75-1.64-2.04-.17-.3-.02-.46.13-.6.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.08-.15-.67-1.61-.92-2.2-.24-.58-.49-.5-.67-.51h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.01-1.04 2.47s1.07 2.86 1.22 3.06c.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.69.62.71.23 1.36.19 1.87.12.57-.09 1.75-.72 2-1.41.25-.69.25-1.28.17-1.41-.07-.13-.27-.2-.57-.35zM12.04 21.5h-.01a9.4 9.4 0 0 1-4.79-1.31l-.34-.2-3.56.93.95-3.47-.22-.36a9.38 9.38 0 0 1-1.44-5.01c0-5.18 4.22-9.4 9.41-9.4a9.35 9.35 0 0 1 6.65 2.76 9.33 9.33 0 0 1 2.75 6.65c0 5.18-4.22 9.41-9.4 9.41zM20.52 3.49A11.28 11.28 0 0 0 12.04 0C5.85 0 .81 5.04.81 11.23c0 1.98.52 3.91 1.5 5.61L.72 24l7.32-1.92a11.2 11.2 0 0 0 4 .93h.01c6.19 0 11.23-5.04 11.23-11.23 0-3-1.17-5.82-3.29-7.94z"/></svg><span>Écrivez-nous sur WhatsApp</span></a><footer>
+ <div class="wrap">
+  <div>
+   <img src="../../../assets/exostride-wordmark.png" width="640" height="144" alt="ExoStride" style="height:24px">
+   <p><b>HT Science &amp; Development Pte. Ltd.</b> — le vendeur exclusif à Singapour.</p>
+   <p style="margin-top:6px">UEN 202033252G001 · Tél. <a href="tel:+6583550979">+65 8355 0979</a> · WhatsApp <a href="https://wa.me/6591227009?text=Bonjour%2C%20j%E2%80%99aimerais%20en%20savoir%20plus%20sur%20ExoStride." target="_blank" rel="noopener">+65 9122 7009</a></p>
+   <p class="disc">Les visuels d’ambiance sont issus de concepts de lancement générés par IA. Les chiffres de réduction de charge, d’économie d’énergie et d’autonomie de marche sont des performances revendiquées par le fabricant pour le US-H-1.0Pro et varient selon l’utilisateur, le terrain et le niveau d’assistance. ExoStride est un dispositif grand public d’aide à la mobilité, pas un dispositif médical ; il ne diagnostique ni ne traite aucune maladie. Cette page ne stocke aucune donnée personnelle — les demandes parviennent à l’équipe par WhatsApp ou par téléphone.</p>
+  </div>
+  <div>
+   <h2>Navigation</h2>
+   <ul>
+    <li><a href="../../">Accueil</a></li>
+    <li><a href="../../#cases">Usages</a></li>
+    <li><a href="../">Guides</a></li>
+    <li><a href="../../#specs">Caractéristiques</a></li>
+    <li><a href="../../#faq">Questions fréquentes</a></li>
+   </ul>
+  </div>
+  <div>
+   <h2>Guides populaires</h2>
+   <ul><li><a href="../aging-in-place-powered-exoskeleton/">Vieillir chez soi avec un exosquelette motorisé : ce qui change à la maison</a></li><li><a href="../powered-hip-assist-for-stairs/">Assistance motorisée de la hanche pour les escaliers : stations de MRT, passerelles et immeubles HDB</a></li><li><a href="../trekking-poles-vs-powered-exoskeleton/">Bâtons de randonnée ou exosquelette motorisé : où va l’effort</a></li></ul>
+  </div>
+ </div>
+ <div class="btm"><div class="wrap">
+   <span>© 2026 HT Science &amp; Development Pte. Ltd. · Modèle : US-H-1.0Pro</span>
+   <span class="mono">Aller plus loin, se sentir mieux.</span>
+ </div></div>
+</footer>
+<script src="../../../assets/site.js" defer></script>
+</body>
+</html>
