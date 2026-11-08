@@ -407,11 +407,13 @@ def rebuild_tag(tok, new_attrs):
 
 def relpath(from_dir, target):
     """from_dir like '/ja/guides/x/', target like '/assets/a.jpg' or '/ja/guides/' -> relative href."""
-    fparts = [p for p in from_dir.split("/") if p]
-    tparts = target.split("/")
-    up = "../" * len(fparts)
-    t = target.lstrip("/")
-    return (up + t) if (up + t) else "./"
+    import posixpath
+    r = posixpath.relpath(target, from_dir)
+    if r == ".":
+        return "./"
+    if target.endswith("/") and not r.endswith("/"):
+        r += "/"
+    return r
 
 
 def resolve(base_dir, href):
@@ -470,7 +472,7 @@ def render(doc, en_rel, code, tm, avail, clusters):
     missing = set()
 
     suffix_tr = SUFFIX if code == "en" else tm.get(sid(SUFFIX_KEY), SUFFIX)
-    if code != "en" and sid(SUFFIX_KEY) not in tm:
+    if code != "en" and sid(SUFFIX_KEY) not in tm and any(x.suffix for x in segs):
         missing.add(sid(SUFFIX_KEY))
 
     def tr(seg):
@@ -664,7 +666,7 @@ def availability(code, src, pages, tm):
                 avail.add(path); guides.add(path.split("/")[2])
     if all(i in tm for i in pages["/"]):
         avail.add("/")
-        if all(i in tm for i in page_ids_for(code, "/guides/", pages, guides)):
+        if guides and all(i in tm for i in page_ids_for(code, "/guides/", pages, guides)):
             avail.add("/guides/")
     if "/" not in avail:
         return set()
@@ -755,13 +757,20 @@ def cmd_build():
             dest = os.path.join(ROOT, lang_path(c, en_path).lstrip("/"), "index.html")
             write(dest, out)
             written.append(lang_path(c, en_path))
-    # remove stale language pages for pages no longer available (never touch EN)
+    # stale language pages (page no longer fully translated): refuse unless --prune (never touch EN)
+    stale = []
     for c in CODES[1:]:
         d = os.path.join(ROOT, L[c]["dir"])
         for f in glob.glob(os.path.join(d, "**", "index.html"), recursive=True):
             rp = "/" + os.path.relpath(f, ROOT)[: -len("index.html")]
             if rp not in written:
-                os.remove(f)
+                if "--prune" in sys.argv:
+                    os.remove(f)
+                else:
+                    stale.append(rp)
+    if stale:
+        sys.exit("refusing to drop %d existing language pages (missing translations?): %s ... — translate them or rerun with --prune"
+                 % (len(stale), ", ".join(stale[:5])))
     write_sitemaps(pages, avail, clusters)
     write_llms(avail)
     print("built %d pages; languages live: %s" % (len(written), ", ".join("%s(%d)" % (c, len(avail[c])) for c in CODES if avail[c])))
