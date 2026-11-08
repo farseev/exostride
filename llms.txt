@@ -114,7 +114,7 @@
 - [Tiếng Việt — home](https://exostride.sg/vi/) · [guides](https://exostride.sg/vi/guides/) (39 translated)
 - [Bahasa Indonesia — home](https://exostride.sg/id/) · [guides](https://exostride.sg/id/guides/) (39 translated)
 - [Bahasa Melayu — home](https://exostride.sg/ms/) · [guides](https://exostride.sg/ms/guides/) (39 translated)
-- [हिन्दी — home](https://exostride.sg/hi/)
+- [हिन्दी — home](https://exostride.sg/hi/) · [guides](https://exostride.sg/hi/guides/) (39 translated)
 - [Filipino — home](https://exostride.sg/fil/)
 - [Español — home](https://exostride.sg/es/) · [guides](https://exostride.sg/es/guides/) (39 translated)
 - [Français — home](https://exostride.sg/fr/) · [guides](https://exostride.sg/fr/guides/) (39 translated)
